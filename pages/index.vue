@@ -9,34 +9,32 @@
       <span class="w-4/12">Stadtteil</span>
     </div>
     <ul>
-      <li
-        v-for="(item, index) in items"
-        :key="item"
-        class="py-2 px-4 flex"
-        :class="{ 'bg-gray-200': index % 2 !== 0 }"
-      >
-        <span class="w-4/12">
-          {{ item.street }}
-          {{ item.street_number }}
-        </span>
-        <span class="w-4/12">{{ item.description }}</span>
-        <span class="w-4/12">
-          {{ item.postcode }}
-          {{ item.district }}
-        </span>
-      </li>
+      <row-item v-for="item in items" :key="item" v-bind:item="item"></row-item>
     </ul>
   </div>
 </template>
 
 <script>
-// import Logo from '~/components/Logo.vue'
 import axios from 'axios'
+import rowItem from '~/components/row-item.vue'
 
 export default {
+  props: {
+    loading: {
+      default: true,
+      type: Boolean
+    }
+  },
+
+  components: {
+    rowItem  
+  },
   async asyncData() {
     const { data } = await axios.get('/list.json')
     return { items: data }
+  },
+  onDownloadProgress(progressEvent) {
+    // const loading = true
   }
 }
 </script>
