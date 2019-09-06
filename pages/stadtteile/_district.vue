@@ -1,7 +1,7 @@
 <template>
   <div class="container">
     <h1 class="title text-center text-6xl font-thin my-5">
-      Glascontainer in Leizig
+      Glascontainer in {{ district }}
     </h1>
     <div class="py-3 px-4 flex sticky top-0 bg-gray-100 font-bold">
       <span class="w-4/12">Anschrift</span>
@@ -9,7 +9,7 @@
       <span class="w-4/12">Stadtteil</span>
     </div>
     <ul>
-      <row-item v-for="item in items" :key="item" :item="item"></row-item>
+      <row-item v-for="item in items" :key="item" :item="item" v-if="item.districtId == district"></row-item>
     </ul>
   </div>
 </template>
@@ -20,22 +20,21 @@ import rowItem from '~/components/row-item.vue'
 
 export default {
   props: {
-    loading: {
-      default: true,
-      type: Boolean
-    }
+    district: String
   },
 
   components: {
-    rowItem  
+    rowItem
+  },
+  
+  created() {
+    var _district = this.$route.params.district;
+    this.district = _district;
   },
   async asyncData() {
     const { data } = await axios.get('/list.json')
     return { items: data }
   },
-  onDownloadProgress(progressEvent) {
-    // const loading = true
-  }
 }
 </script>
 
