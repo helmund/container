@@ -1,0 +1,56 @@
+[
+    {
+      "street": "Beckerstraße",
+      "street_number": 7,
+      "description": "auf Morgensternstraße Ecke Beckerstraße",
+      "borough": "Alt-West",
+      "postcode": "04179",
+      "district": "Neulindenau",
+      "districtId": "neulindenau"
+    },
+    {
+      "street": "Lützner Plan",
+      "street_number": "",
+      "description": "Demmeringstraße/Holbergstraße",
+      "borough": "Alt-West",
+      "postcode": "04179",
+      "district": "Neulindenau",
+      "districtId": "neulindenau"
+    },
+    {
+      "street": "Lützner Straße",
+      "street_number": 21,
+      "description": "Ecke Thietmarstraße",
+      "borough": "Alt-West",
+      "postcode": "04179",
+      "district": "Neulindenau",
+      "districtId": "neulindenau"
+    },
+    {
+      "street": "Radiusstraße",
+      "street_number": "",
+      "description": "zw. Gröpplerstraße u. Demmeringstraße",
+      "borough": "Alt-West",
+      "postcode": "04179",
+      "district": "Neulindenau",
+      "districtId": "neulindenau"
+    },
+    {
+      "street": "Saalfelder Straße",
+      "street_number": 73,
+      "description": "Musterplatz",
+      "borough": "Alt-West",
+      "postcode": "04179",
+      "district": "Neulindenau",
+      "districtId": "neulindenau"
+    },
+    {
+      "street": "Wiprechtstraße",
+      "street_number": "",
+      "description": "Höhe Lützner Straße, ggü. Nr. 9",
+      "borough": "Alt-West",
+      "postcode": "04179",
+      "district": "Neulindenau",
+      "districtId": "neulindenau"
+    }
+  ]

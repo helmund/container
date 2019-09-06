@@ -1,0 +1,38 @@
+[
+    {
+      "street": "Bornaische Straße",
+      "street_number": "",
+      "description": "Eingang Agra",
+      "borough": "Süd",
+      "postcode": "04279",
+      "district": "Dölitz-Dösen",
+      "districtId": "doelitz-doesen"
+    },
+    {
+      "street": "Eigenheimstraße",
+      "street_number": "",
+      "description": "Höhe Libertastraße",
+      "borough": "Süd",
+      "postcode": "04279",
+      "district": "Dölitz-Dösen",
+      "districtId": "doelitz-doesen"
+    },
+    {
+      "street": "Friederikenstraße",
+      "street_number": 50,
+      "description": "ggü.",
+      "borough": "Süd",
+      "postcode": "04279",
+      "district": "Dölitz-Dösen",
+      "districtId": "doelitz-doesen"
+    },
+    {
+      "street": "Georg-Maurer-Straße",
+      "street_number": 23,
+      "description": "Höhe Gersterstraße/Parkplatz",
+      "borough": "Süd",
+      "postcode": "04279",
+      "district": "Dölitz-Dösen",
+      "districtId": "doelitz-doesen"
+    }
+  ]

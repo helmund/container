@@ -1,0 +1,29 @@
+[
+  {
+    "street": "Am Künstlerbogen",
+    "street_number": "",
+    "description": "Parkstadt 2000",
+    "borough": "Nordost",
+    "postcode": "04349",
+    "district": "Plaußig-Portitz",
+    "districtId": "plaußig-portitz"
+  },
+  {
+    "street": "Am langen Teiche",
+    "street_number": "",
+    "description": "Höhe Cradefelder Straße",
+    "borough": "Nordost",
+    "postcode": "04349",
+    "district": "Plaußig-Portitz",
+    "districtId": "plaußig-portitz"
+  },
+  {
+    "street": "Hohenheidaer Straße",
+    "street_number": "",
+    "description": "Ecke Hinter dem Dorf",
+    "borough": "Nordost",
+    "postcode": "04349",
+    "district": "Plaußig-Portitz",
+    "districtId": "plaußig-portitz"
+  }
+]

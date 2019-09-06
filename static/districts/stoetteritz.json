@@ -1,0 +1,65 @@
+[
+    {
+      "street": "Gletschersteinstraße",
+      "street_number": "",
+      "description": "Höhe Naunhofer Straße/Gregoryplatz",
+      "borough": "Südost",
+      "postcode": "04299",
+      "district": "Stötteritz",
+      "districtId": "stoetteritz"
+    },
+    {
+      "street": "Holzhäuser Straße",
+      "street_number": "",
+      "description": "Höhe Breslauer Straße",
+      "borough": "Südost",
+      "postcode": "04299",
+      "district": "Stötteritz",
+      "districtId": "stoetteritz"
+    },
+    {
+      "street": "Holzhäuser Straße",
+      "street_number": "",
+      "description": "am Einkaufsmarkt",
+      "borough": "Südost",
+      "postcode": "04299",
+      "district": "Stötteritz",
+      "districtId": "stoetteritz"
+    },
+    {
+      "street": "Kolmstraße",
+      "street_number": 63,
+      "description": "Höhe Kommandant-Prendel-Allee",
+      "borough": "Südost",
+      "postcode": "04299",
+      "district": "Stötteritz",
+      "districtId": "stoetteritz"
+    },
+    {
+      "street": "Lange Reihe",
+      "street_number": 1,
+      "description": "Ecke Oberdorfstraße",
+      "borough": "Südost",
+      "postcode": "04299",
+      "district": "Stötteritz",
+      "districtId": "stoetteritz"
+    },
+    {
+      "street": "Naunhofer Straße",
+      "street_number": "",
+      "description": "Gustav-Schwabe-Platz (Thiemstraße)",
+      "borough": "Südost",
+      "postcode": "04299",
+      "district": "Stötteritz",
+      "districtId": "stoetteritz"
+    },
+    {
+      "street": "Oststraße",
+      "street_number": "",
+      "description": "Höhe Papiermühlstraße",
+      "borough": "Südost",
+      "postcode": "04299",
+      "district": "Stötteritz",
+      "districtId": "stoetteritz"
+    }
+  ]

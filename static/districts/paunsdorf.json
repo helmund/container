@@ -1,0 +1,164 @@
+[
+  {
+    "street": "Döllingstraße",
+    "street_number": "",
+    "description": "WSH (mit Altglas-Annahme) Ecke Sachsenstraße",
+    "borough": "Ost",
+    "postcode": "04328",
+    "district": "Paunsdorf",
+    "districtId": "paunsdorf"
+  },
+  {
+    "street": "Döllingstraße",
+    "street_number": 1,
+    "description": "Höhe Theodor-Heuss-Straße",
+    "borough": "Ost",
+    "postcode": "04328",
+    "district": "Paunsdorf",
+    "districtId": "paunsdorf"
+  },
+  {
+    "street": "Sommerfelder Weg",
+    "street_number": "",
+    "description": "Nutzung beschränkt auf Anwohner Sommerfelder Weg",
+    "borough": "Ost",
+    "postcode": "04328",
+    "district": "Paunsdorf",
+    "districtId": "paunsdorf"
+  },
+  {
+    "street": "Ahornstraße",
+    "street_number": 2,
+    "description": "Höhe Heiterblickallee",
+    "borough": "Ost",
+    "postcode": "04329",
+    "district": "Paunsdorf",
+    "districtId": "paunsdorf"
+  },
+  {
+    "street": "Am Vorwerk",
+    "street_number": 1,
+    "description": "Höhe Heiterblickallee",
+    "borough": "Ost",
+    "postcode": "04329",
+    "district": "Paunsdorf",
+    "districtId": "paunsdorf"
+  },
+  {
+    "street": "Goldsternstraße",
+    "street_number": 13,
+    "description": "an Sporthalle",
+    "borough": "Ost",
+    "postcode": "04329",
+    "district": "Paunsdorf",
+    "districtId": "paunsdorf"
+  },
+  {
+    "street": "Goldsternstraße",
+    "street_number": 54,
+    "description": "Höhe Heiterblickallee",
+    "borough": "Ost",
+    "postcode": "04329",
+    "district": "Paunsdorf",
+    "districtId": "paunsdorf"
+  },
+  {
+    "street": "Gundermannstraße",
+    "street_number": "",
+    "description": "Ecke Zum Wäldchen",
+    "borough": "Ost",
+    "postcode": "04329",
+    "district": "Paunsdorf",
+    "districtId": "paunsdorf"
+  },
+  {
+    "street": "Hainbuchenstraße",
+    "street_number": 32,
+    "description": "",
+    "borough": "Ost",
+    "postcode": "04329",
+    "district": "Paunsdorf",
+    "districtId": "paunsdorf"
+  },
+  {
+    "street": "Heiterblickallee",
+    "street_number": 11,
+    "description": "Höhe Günselstraße",
+    "borough": "Ost",
+    "postcode": "04329",
+    "district": "Paunsdorf",
+    "districtId": "paunsdorf"
+  },
+  {
+    "street": "Heiterblickallee",
+    "street_number": 31,
+    "description": "auf Parkplatz",
+    "borough": "Ost",
+    "postcode": "04329",
+    "district": "Paunsdorf",
+    "districtId": "paunsdorf"
+  },
+  {
+    "street": "Heiterblickallee",
+    "street_number": 52,
+    "description": "Höhe Wiesenstraße",
+    "borough": "Ost",
+    "postcode": "04329",
+    "district": "Paunsdorf",
+    "districtId": "paunsdorf"
+  },
+  {
+    "street": "Heiterblickallee",
+    "street_number": 81,
+    "description": "Höhe Waldkerbelstraße",
+    "borough": "Ost",
+    "postcode": "04329",
+    "district": "Paunsdorf",
+    "districtId": "paunsdorf"
+  },
+  {
+    "street": "Klettenstraße",
+    "street_number": 2,
+    "description": "ggü. auf Parkplatz",
+    "borough": "Ost",
+    "postcode": "04329",
+    "district": "Paunsdorf",
+    "districtId": "paunsdorf"
+  },
+  {
+    "street": "Kreuzdornstraße",
+    "street_number": "",
+    "description": "Höhe Hartriegelstraße",
+    "borough": "Ost",
+    "postcode": "04329",
+    "district": "Paunsdorf",
+    "districtId": "paunsdorf"
+  },
+  {
+    "street": "Platanenstraße",
+    "street_number": 51,
+    "description": "",
+    "borough": "Ost",
+    "postcode": "04329",
+    "district": "Paunsdorf",
+    "districtId": "paunsdorf"
+  },
+  {
+    "street": "Südblick",
+    "street_number": 8,
+    "description": "Höhe Hartriegelstraße",
+    "borough": "Ost",
+    "postcode": "04329",
+    "district": "Paunsdorf",
+    "districtId": "paunsdorf"
+  },
+  {
+    "street": "Schlehenweg",
+    "street_number": "",
+    "description": "Höhe Platanenstraße",
+    "borough": "Ost",
+    "postcode": "04329",
+    "district": "Paunsdorf",
+    "districtId": "paunsdorf"
+  }
+]

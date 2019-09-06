@@ -1,0 +1,29 @@
+[
+    {
+      "street": "Georg-Schumann-Straße",
+      "street_number": "",
+      "description": "Wartenburgstraße/Einkaufsmarkt",
+      "borough": "Nordwest",
+      "postcode": "04159",
+      "district": "Wahren",
+      "districtId": "wahren"
+    },
+    {
+      "street": "Linkelstraße",
+      "street_number": 42,
+      "description": "Höhe Stammerstraße",
+      "borough": "Nordwest",
+      "postcode": "04159",
+      "district": "Wahren",
+      "districtId": "wahren"
+    },
+    {
+      "street": "Pater-Gordian-Straße",
+      "street_number": 28,
+      "description": "gegenüber Bahnhof Wahren",
+      "borough": "Nordwest",
+      "postcode": "04159",
+      "district": "Wahren",
+      "districtId": "wahren"
+    }
+  ]

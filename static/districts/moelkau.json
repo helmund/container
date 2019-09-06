@@ -1,0 +1,38 @@
+[
+    {
+      "street": "Am Gutspark",
+      "street_number": "",
+      "description": "Adolf-Koppe-Straße",
+      "borough": "Ost",
+      "postcode": "04316",
+      "district": "Mölkau",
+      "districtId": "moelkau"
+    },
+    {
+      "street": "Engelsdorfer Straße",
+      "street_number": "",
+      "description": "am Weg zur August-Knauer-Straße",
+      "borough": "Ost",
+      "postcode": "04316",
+      "district": "Mölkau",
+      "districtId": "moelkau"
+    },
+    {
+      "street": "Mühlweg",
+      "street_number": "",
+      "description": "Hasenheide",
+      "borough": "Ost",
+      "postcode": "04316",
+      "district": "Mölkau",
+      "districtId": "moelkau"
+    },
+    {
+      "street": "Willmar-Schwabe-Ring",
+      "street_number": "",
+      "description": "Höhe Albrechtshainer Straße",
+      "borough": "Ost",
+      "postcode": "04316",
+      "district": "Mölkau",
+      "districtId": "moelkau"
+    }
+  ]

@@ -1,0 +1,56 @@
+[
+    {
+      "street": "An der Eisenbahn",
+      "street_number": "",
+      "description": "Am Bahnhof",
+      "borough": "Südost",
+      "postcode": "04288",
+      "district": "Liebertwolkwitz",
+      "districtId": "liebertwolkwitz"
+    },
+    {
+      "street": "Carl-Munde-Straße",
+      "street_number": 8,
+      "description": "",
+      "borough": "Südost",
+      "postcode": "04288",
+      "district": "Liebertwolkwitz",
+      "districtId": "liebertwolkwitz"
+    },
+    {
+      "street": "Güldengossaer Straße",
+      "street_number": "",
+      "description": "",
+      "borough": "Südost",
+      "postcode": "04288",
+      "district": "Liebertwolkwitz",
+      "districtId": "liebertwolkwitz"
+    },
+    {
+      "street": "Großpösnaer Straße",
+      "street_number": 30,
+      "description": "",
+      "borough": "Südost",
+      "postcode": "04288",
+      "district": "Liebertwolkwitz",
+      "districtId": "liebertwolkwitz"
+    },
+    {
+      "street": "Prager Straße",
+      "street_number": "",
+      "description": "zw. Schwarzenbergweg und Tankstelle",
+      "borough": "Südost",
+      "postcode": "04288",
+      "district": "Liebertwolkwitz",
+      "districtId": "liebertwolkwitz"
+    },
+    {
+      "street": "Wiesengrund",
+      "street_number": 30,
+      "description": "",
+      "borough": "Südost",
+      "postcode": "04288",
+      "district": "Liebertwolkwitz",
+      "districtId": "liebertwolkwitz"
+    }
+  ]

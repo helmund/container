@@ -1,0 +1,101 @@
+[
+    {
+      "street": "Achatstraße",
+      "street_number": "",
+      "description": "Ecke Opalstraße",
+      "borough": "Ost",
+      "postcode": "04319",
+      "district": "Engelsdorf",
+      "districtId": "engelsdorf"
+    },
+    {
+      "street": "Arnoldplatz",
+      "street_number": "",
+      "description": "Ecke Herzberger Straße",
+      "borough": "Ost",
+      "postcode": "04319",
+      "district": "Engelsdorf",
+      "districtId": "engelsdorf"
+    },
+    {
+      "street": "Hans-Weigel-Straße",
+      "street_number": "",
+      "description": "Parkplatz",
+      "borough": "Ost",
+      "postcode": "04319",
+      "district": "Engelsdorf",
+      "districtId": "engelsdorf"
+    },
+    {
+      "street": "Harpstedter Straße",
+      "street_number": 8,
+      "description": "im Innenhof",
+      "borough": "Ost",
+      "postcode": "04319",
+      "district": "Engelsdorf",
+      "districtId": "engelsdorf"
+    },
+    {
+      "street": "Reichsbahnerstraße",
+      "street_number": "5/7",
+      "description": "ggü.",
+      "borough": "Ost",
+      "postcode": "04319",
+      "district": "Engelsdorf",
+      "districtId": "engelsdorf"
+    },
+    {
+      "street": "Schulweg",
+      "street_number": 4,
+      "description": "vor Wertstoffhof",
+      "borough": "Ost",
+      "postcode": "04319",
+      "district": "Engelsdorf",
+      "districtId": "engelsdorf"
+    },
+    {
+      "street": "Topasstraße",
+      "street_number": 48,
+      "description": "Nutzung beschränkt auf Anwohner der Großwohnanlage",
+      "borough": "Ost",
+      "postcode": "04319",
+      "district": "Engelsdorf",
+      "districtId": "engelsdorf"
+    },
+    {
+      "street": "Topasstraße",
+      "street_number": 57,
+      "description": "Nutzung beschränkt auf Anwohner der Großwohnanlage",
+      "borough": "Ost",
+      "postcode": "04319",
+      "district": "Engelsdorf",
+      "districtId": "engelsdorf"
+    },
+    {
+      "street": "Wasserturmstraße",
+      "street_number": "",
+      "description": "im Innenhof der Wohnanlage",
+      "borough": "Ost",
+      "postcode": "04319",
+      "district": "Engelsdorf",
+      "districtId": "engelsdorf"
+    },
+    {
+      "street": "Werkstättenstraße",
+      "street_number": 4,
+      "description": "an Kreuzung",
+      "borough": "Ost",
+      "postcode": "04319",
+      "district": "Engelsdorf",
+      "districtId": "engelsdorf"
+    },
+    {
+      "street": "Wiesenweg",
+      "street_number": "",
+      "description": "Ecke Sternenstraße",
+      "borough": "Ost",
+      "postcode": "04319",
+      "district": "Engelsdorf",
+      "districtId": "engelsdorf"
+    }
+  ]

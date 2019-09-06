@@ -1,0 +1,20 @@
+[
+    {
+      "street": "Dachsstraße",
+      "street_number": "",
+      "description": "Höhe Igelstraße",
+      "borough": "Ost",
+      "postcode": "04329",
+      "district": "Heiterblick",
+      "districtId": "heiterblick"
+    },
+    {
+      "street": "Paunsdorfer Allee",
+      "street_number": "",
+      "description": "Ecke Goldene Hufe",
+      "borough": "Ost",
+      "postcode": "04329",
+      "district": "Heiterblick",
+      "districtId": "heiterblick"
+    }
+  ]

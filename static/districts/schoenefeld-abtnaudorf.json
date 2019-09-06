@@ -1,0 +1,56 @@
+[
+  {
+    "street": "Löbauer Straße",
+    "street_number": "",
+    "description": "Höhe Schönefelder Allee",
+    "borough": "Nordost",
+    "postcode": "04347",
+    "district": "Schönefeld-Abtnaundorf",
+    "districtId": "schoenefeld-abtnaudorf"
+  },
+  {
+    "street": "Löbauer Straße",
+    "street_number": 35,
+    "description": "Höhe Stöckelstraße",
+    "borough": "Nordost",
+    "postcode": "04347",
+    "district": "Schönefeld-Abtnaundorf",
+    "districtId": "schoenefeld-abtnaudorf"
+  },
+  {
+    "street": "Rackwitzer Straße",
+    "street_number": 36,
+    "description": "Höhe Fliederhof",
+    "borough": "Nordost",
+    "postcode": "04347",
+    "district": "Schönefeld-Abtnaundorf",
+    "districtId": "schoenefeld-abtnaudorf"
+  },
+  {
+    "street": "Stannebeinplatz",
+    "street_number": "",
+    "description": "am Taxistand Gorkistraße",
+    "borough": "Nordost",
+    "postcode": "04347",
+    "district": "Schönefeld-Abtnaundorf",
+    "districtId": "schoenefeld-abtnaudorf"
+  },
+  {
+    "street": "Volbedingstraße",
+    "street_number": 4,
+    "description": "am Zaun der ehem. Wollkämmerei",
+    "borough": "Nordost",
+    "postcode": "04347",
+    "district": "Schönefeld-Abtnaundorf",
+    "districtId": "schoenefeld-abtnaudorf"
+  },
+  {
+    "street": "Waldbaurstraße",
+    "street_number": "",
+    "description": "Höhe Emil-Schubert-Straße, Ecke",
+    "borough": "Nordost",
+    "postcode": "04347",
+    "district": "Schönefeld-Abtnaundorf",
+    "districtId": "schoenefeld-abtnaudorf"
+  }
+]

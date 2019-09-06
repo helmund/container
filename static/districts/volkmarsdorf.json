@@ -1,0 +1,65 @@
+[
+  {
+    "street": "Bülowstraße",
+    "street_number": 35,
+    "description": "Ecke Eisenbahnstraße, Parkplatz Sozialwarenkaufhaus",
+    "borough": "Ost",
+    "postcode": "04315",
+    "district": "Volkmarsdorf",
+    "districtId": "volkmarsdorf"
+  },
+  {
+    "street": "Bennigsenstraße",
+    "street_number": 26,
+    "description": "Höhe Mariannenstraße",
+    "borough": "Ost",
+    "postcode": "04315",
+    "district": "Volkmarsdorf",
+    "districtId": "volkmarsdorf"
+  },
+  {
+    "street": "Dornbergerstraße",
+    "street_number": "",
+    "description": "Höhe Hermann-Liebmann-Straße",
+    "borough": "Ost",
+    "postcode": "04315",
+    "district": "Volkmarsdorf",
+    "districtId": "volkmarsdorf"
+  },
+  {
+    "street": "Geißlerstraße",
+    "street_number": "",
+    "description": "Höhe Wurzner Straße",
+    "borough": "Ost",
+    "postcode": "04315",
+    "district": "Volkmarsdorf",
+    "districtId": "volkmarsdorf"
+  },
+  {
+    "street": "Idastraße",
+    "street_number": 26,
+    "description": "Höhe Konradstraße",
+    "borough": "Ost",
+    "postcode": "04315",
+    "district": "Volkmarsdorf",
+    "districtId": "volkmarsdorf"
+  },
+  {
+    "street": "Juliusstraße",
+    "street_number": 18,
+    "description": "Parktasche",
+    "borough": "Ost",
+    "postcode": "04315",
+    "district": "Volkmarsdorf",
+    "districtId": "volkmarsdorf"
+  },
+  {
+    "street": "Torgauer Straße",
+    "street_number": "",
+    "description": "Höhe Bülowstraße/Insel",
+    "borough": "Ost",
+    "postcode": "04315",
+    "district": "Volkmarsdorf",
+    "districtId": "volkmarsdorf"
+  }
+]

@@ -1,0 +1,20 @@
+[
+    {
+      "street": "Lützner Straße",
+      "street_number": "",
+      "description": "Höhe Engertstraße",
+      "borough": "Alt-West",
+      "postcode": "04177",
+      "district": "Lindenau",
+      "districtId": "lindenau"
+    },
+    {
+      "street": "Lützner Straße",
+      "street_number": "",
+      "description": "Höhe Zschochersche Straße",
+      "borough": "Alt-West",
+      "postcode": "04177",
+      "district": "Lindenau",
+      "districtId": "lindenau"
+    }
+  ]

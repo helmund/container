@@ -1,0 +1,110 @@
+[
+    {
+      "street": "Arno-Nitzsche-Straße",
+      "street_number": "",
+      "description": "Höhe Meusdorfer Straße",
+      "borough": "Süd",
+      "postcode": "04277",
+      "district": "Connewitz",
+      "districtId": "connewitz"
+    },
+    {
+      "street": "Arno-Nitzsche-Straße",
+      "street_number": "",
+      "description": "Höhe Schwimmhalle",
+      "borough": "Süd",
+      "postcode": "04277",
+      "district": "Connewitz",
+      "districtId": "connewitz"
+    },
+    {
+      "street": "Bärlauchweg",
+      "street_number": 25,
+      "description": "schräg ggü.",
+      "borough": "Süd",
+      "postcode": "04277",
+      "district": "Connewitz",
+      "districtId": "connewitz"
+    },
+    {
+      "street": "Bornaische Straße",
+      "street_number": 2,
+      "description": "Höhe Biedermannstraße",
+      "borough": "Süd",
+      "postcode": "04277",
+      "district": "Connewitz",
+      "districtId": "connewitz"
+    },
+    {
+      "street": "Brandstraße",
+      "street_number": 40,
+      "description": "Höhe Selneckerstraße",
+      "borough": "Süd",
+      "postcode": "04277",
+      "district": "Connewitz",
+      "districtId": "connewitz"
+    },
+    {
+      "street": "Burgstädter Straße",
+      "street_number": "",
+      "description": "zw. Hildebrand- und Kohrener Straße",
+      "borough": "Süd",
+      "postcode": "04277",
+      "district": "Connewitz",
+      "districtId": "connewitz"
+    },
+    {
+      "street": "Karl-Liebknecht-Straße",
+      "street_number": "",
+      "description": "Scheffelstraße",
+      "borough": "Süd",
+      "postcode": "04277",
+      "district": "Connewitz",
+      "districtId": "connewitz"
+    },
+    {
+      "street": "Pfeffingerstraße",
+      "street_number": "",
+      "description": "Ende Sackgasse",
+      "borough": "Süd",
+      "postcode": "04277",
+      "district": "Connewitz",
+      "districtId": "connewitz"
+    },
+    {
+      "street": "Probstheidaer Straße",
+      "street_number": "",
+      "description": "Ecke Burgstädter Straße, Platz nahe Bahnübergang",
+      "borough": "Süd",
+      "postcode": "04277",
+      "district": "Connewitz",
+      "districtId": "connewitz"
+    },
+    {
+      "street": "Richard-Lehmann-Straße",
+      "street_number": "",
+      "description": "ggü. Polizei, zwischen Koch- und Windscheidstraße",
+      "borough": "Süd",
+      "postcode": "04277",
+      "district": "Connewitz",
+      "districtId": "connewitz"
+    },
+    {
+      "street": "Richard-Lehmann-Straße",
+      "street_number": 110,
+      "description": "Zufahrt zum Panometer",
+      "borough": "Süd",
+      "postcode": "04277",
+      "district": "Connewitz",
+      "districtId": "connewitz"
+    },
+    {
+      "street": "Wolfgang-Heinze-Straße",
+      "street_number": "",
+      "description": "Höhe Basedowstraße",
+      "borough": "Süd",
+      "postcode": "04277",
+      "district": "Connewitz",
+      "districtId": "connewitz"
+    }
+  ]

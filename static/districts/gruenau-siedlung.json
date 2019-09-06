@@ -1,0 +1,47 @@
+[
+    {
+      "street": "Bamberger Straße",
+      "street_number": 64,
+      "description": "Höhe Lichtenfelser Straße",
+      "borough": "West",
+      "postcode": "04207",
+      "district": "Grünau-Siedlung",
+      "districtId": "gruenau-siedlung"
+    },
+    {
+      "street": "Brambacher Straße",
+      "street_number": 41,
+      "description": "",
+      "borough": "West",
+      "postcode": "04207",
+      "district": "Grünau-Siedlung",
+      "districtId": "gruenau-siedlung"
+    },
+    {
+      "street": "Brambacher Straße",
+      "street_number": 87,
+      "description": "Parkplatz",
+      "borough": "West",
+      "postcode": "04207",
+      "district": "Grünau-Siedlung",
+      "districtId": "gruenau-siedlung"
+    },
+    {
+      "street": "Krakauer Straße",
+      "street_number": 2,
+      "description": "WSH (mit Altglas-Annahme) Ecke Ratzelstraße",
+      "borough": "West",
+      "postcode": "04207",
+      "district": "Grünau-Siedlung",
+      "districtId": "gruenau-siedlung"
+    },
+    {
+      "street": "Rothenburger Straße",
+      "street_number": 23,
+      "description": "Höhe Ratzelstraße",
+      "borough": "West",
+      "postcode": "04207",
+      "district": "Grünau-Siedlung",
+      "districtId": "gruenau-siedlung"
+    }
+  ]

@@ -1,0 +1,74 @@
+[
+    {
+      "street": "An der Tabaksmühle",
+      "street_number": "",
+      "description": "Höhe Friedhofsweg",
+      "borough": "Südost",
+      "postcode": "04289",
+      "district": "Probstheida",
+      "districtId": "probstheida"
+    },
+    {
+      "street": "Augustinerstraße",
+      "street_number": 8,
+      "description": "WSH (mit Altglas-Annahme)",
+      "borough": "Südost",
+      "postcode": "04289",
+      "district": "Probstheida",
+      "districtId": "probstheida"
+    },
+    {
+      "street": "Bockstraße",
+      "street_number": 3,
+      "description": "ggü./Ecke Leuckartstraße",
+      "borough": "Südost",
+      "postcode": "04289",
+      "district": "Probstheida",
+      "districtId": "probstheida"
+    },
+    {
+      "street": "Höltystraße",
+      "street_number": "",
+      "description": "Höhe Lene-Voigt-Straße",
+      "borough": "Südost",
+      "postcode": "04289",
+      "district": "Probstheida",
+      "districtId": "probstheida"
+    },
+    {
+      "street": "Lene-Voigt-Straße",
+      "street_number": 2,
+      "description": "ggü. Einkaufsmarkt",
+      "borough": "Südost",
+      "postcode": "04289",
+      "district": "Probstheida",
+      "districtId": "probstheida"
+    },
+    {
+      "street": "Strümpellstraße",
+      "street_number": "",
+      "description": "zwischen Zweifel- und Crednerstraße",
+      "borough": "Südost",
+      "postcode": "04289",
+      "district": "Probstheida",
+      "districtId": "probstheida"
+    },
+    {
+      "street": "Tirolerweg",
+      "street_number": 6,
+      "description": "ggü./Parkplatz Sonnenpark",
+      "borough": "Südost",
+      "postcode": "04289",
+      "district": "Probstheida",
+      "districtId": "probstheida"
+    },
+    {
+      "street": "Trendelenburgstraße",
+      "street_number": 8,
+      "description": "",
+      "borough": "Südost",
+      "postcode": "04289",
+      "district": "Probstheida",
+      "districtId": "probstheida"
+    }
+  ]

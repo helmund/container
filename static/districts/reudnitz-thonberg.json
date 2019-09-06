@@ -1,0 +1,119 @@
+[
+    {
+      "street": "Breitkopfstraße",
+      "street_number": "",
+      "description": "Reichpietschstraße 40",
+      "borough": "Südost",
+      "postcode": "04317",
+      "district": "Reudnitz-Thonberg",
+      "districtId": "reudnitz-thonberg"
+    },
+    {
+      "street": "Breitkopfstraße",
+      "street_number": "",
+      "description": "Crusiusstraße/Täubchenweg",
+      "borough": "Südost",
+      "postcode": "04317",
+      "district": "Reudnitz-Thonberg",
+      "districtId": "reudnitz-thonberg"
+    },
+    {
+      "street": "Dresdner Straße",
+      "street_number": "",
+      "description": "ggü. Reclamstraße",
+      "borough": "Südost",
+      "postcode": "04317",
+      "district": "Reudnitz-Thonberg",
+      "districtId": "reudnitz-thonberg"
+    },
+    {
+      "street": "Eilenburger Straße",
+      "street_number": "",
+      "description": "Höhe Seemannstraße",
+      "borough": "Südost",
+      "postcode": "04317",
+      "district": "Reudnitz-Thonberg",
+      "districtId": "reudnitz-thonberg"
+    },
+    {
+      "street": "Hofer Straße",
+      "street_number": "",
+      "description": "Höhe Stötteritzer Straße",
+      "borough": "Südost",
+      "postcode": "04317",
+      "district": "Reudnitz-Thonberg",
+      "districtId": "reudnitz-thonberg"
+    },
+    {
+      "street": "Hofer Straße",
+      "street_number": 46,
+      "description": "Stiftung Meyersche Häuser",
+      "borough": "Südost",
+      "postcode": "04317",
+      "district": "Reudnitz-Thonberg",
+      "districtId": "reudnitz-thonberg"
+    },
+    {
+      "street": "Holsteinstraße",
+      "street_number": 32,
+      "description": "Ecke Kurt-Günther-Straße",
+      "borough": "Südost",
+      "postcode": "04317",
+      "district": "Reudnitz-Thonberg",
+      "districtId": "reudnitz-thonberg"
+    },
+    {
+      "street": "Holsteinstraße",
+      "street_number": 62,
+      "description": "Höhe Reinhold-Krüger-Straße/Parktasche",
+      "borough": "Südost",
+      "postcode": "04317",
+      "district": "Reudnitz-Thonberg",
+      "districtId": "reudnitz-thonberg"
+    },
+    {
+      "street": "Karl-Siegismund-Straße",
+      "street_number": "",
+      "description": "hinter Bioladen",
+      "borough": "Südost",
+      "postcode": "04317",
+      "district": "Reudnitz-Thonberg",
+      "districtId": "reudnitz-thonberg"
+    },
+    {
+      "street": "Kippenbergstraße",
+      "street_number": "",
+      "description": "Höhe Geyerstraße",
+      "borough": "Südost",
+      "postcode": "04317",
+      "district": "Reudnitz-Thonberg",
+      "districtId": "reudnitz-thonberg"
+    },
+    {
+      "street": "Kurt-Günther-Straße",
+      "street_number": 1,
+      "description": "Höhe Riebeckstraße",
+      "borough": "Südost",
+      "postcode": "04317",
+      "district": "Reudnitz-Thonberg",
+      "districtId": "reudnitz-thonberg"
+    },
+    {
+      "street": "Mühlstraße",
+      "street_number": "",
+      "description": "Höhe Cäcilienstraße/ggü. Brauerei",
+      "borough": "Südost",
+      "postcode": "04317",
+      "district": "Reudnitz-Thonberg",
+      "districtId": "reudnitz-thonberg"
+    },
+    {
+      "street": "Oststraße",
+      "street_number": 101,
+      "description": "",
+      "borough": "Südost",
+      "postcode": "04317",
+      "district": "Reudnitz-Thonberg",
+      "districtId": "reudnitz-thonberg"
+    }
+  ]

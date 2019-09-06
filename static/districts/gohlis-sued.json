@@ -1,0 +1,47 @@
+[
+    {
+      "street": "Blumenstraße",
+      "street_number": "",
+      "description": "Höhe Böhmestraße",
+      "borough": "Nord",
+      "postcode": "04155",
+      "district": "Gohlis-Süd",
+      "districtId": "gohlis-sued"
+    },
+    {
+      "street": "Geibelstraße",
+      "street_number": "",
+      "description": "Höhe Eisenbahnbrücke, Blochmannstraße",
+      "borough": "Nord",
+      "postcode": "04155",
+      "district": "Gohlis-Süd",
+      "districtId": "gohlis-sued"
+    },
+    {
+      "street": "Herloßsohnstraße",
+      "street_number": "",
+      "description": "neben Lagerhof der Stadtreinigung",
+      "borough": "Nord",
+      "postcode": "04155",
+      "district": "Gohlis-Süd",
+      "districtId": "gohlis-sued"
+    },
+    {
+      "street": "Lützowstraße",
+      "street_number": 1,
+      "description": "Höhe Eisenacher Straße",
+      "borough": "Nord",
+      "postcode": "04155",
+      "district": "Gohlis-Süd",
+      "districtId": "gohlis-sued"
+    },
+    {
+      "street": "Natonekstraße",
+      "street_number": "",
+      "description": "Höhe Georg-Schumann-Straße",
+      "borough": "Nord",
+      "postcode": "04155",
+      "district": "Gohlis-Süd",
+      "districtId": "gohlis-sued"
+    }
+  ]

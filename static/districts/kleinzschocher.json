@@ -1,0 +1,101 @@
+[
+    {
+      "street": "Diezmannstraße",
+      "street_number": 61,
+      "description": "im Hof der Meyerschen Häuser",
+      "borough": "Südwest",
+      "postcode": "04207",
+      "district": "Kleinzschocher",
+      "districtId": "kleinzschocher"
+    },
+    {
+      "street": "Gärtnerstraße",
+      "street_number": 36,
+      "description": "WSH (mit Altglas-Annahme) Ecke Brünner Straße",
+      "borough": "Südwest",
+      "postcode": "04207",
+      "district": "Kleinzschocher",
+      "districtId": "kleinzschocher"
+    },
+    {
+      "street": "Herrmann-Meyer-Straße",
+      "street_number": "55/57",
+      "description": "im Hof der Meyerschen Häuser",
+      "borough": "Südwest",
+      "postcode": "04207",
+      "district": "Kleinzschocher",
+      "districtId": "kleinzschocher"
+    },
+    {
+      "street": "Nikolai-Rumjanzew-Straße",
+      "street_number": "",
+      "description": "Höhe Straße am Park",
+      "borough": "Südwest",
+      "postcode": "04207",
+      "district": "Kleinzschocher",
+      "districtId": "kleinzschocher"
+    },
+    {
+      "street": "Ratzelstraße",
+      "street_number": 59,
+      "description": "im Hof der Meyerschen Häuser",
+      "borough": "Südwest",
+      "postcode": "04207",
+      "district": "Kleinzschocher",
+      "districtId": "kleinzschocher"
+    },
+    {
+      "street": "Ratzelstraße",
+      "street_number": 91,
+      "description": "im Hof der Meyerschen Häuser",
+      "borough": "Südwest",
+      "postcode": "04207",
+      "district": "Kleinzschocher",
+      "districtId": "kleinzschocher"
+    },
+    {
+      "street": "Dieskaustraße",
+      "street_number": "",
+      "description": "Ecke Schwartzestraße",
+      "borough": "Südwest",
+      "postcode": "04229",
+      "district": "Kleinzschocher",
+      "districtId": "kleinzschocher"
+    },
+    {
+      "street": "Dieskaustraße",
+      "street_number": 133,
+      "description": "WSH (mit Altglas-Annahme)",
+      "borough": "Südwest",
+      "postcode": "04229",
+      "district": "Kleinzschocher",
+      "districtId": "kleinzschocher"
+    },
+    {
+      "street": "Kantatenweg",
+      "street_number": "",
+      "description": "Richtung Antonienstraße",
+      "borough": "Südwest",
+      "postcode": "04229",
+      "district": "Kleinzschocher",
+      "districtId": "kleinzschocher"
+    },
+    {
+      "street": "Luckaer Straße",
+      "street_number": "",
+      "description": "Höhe Kulkwitzer Straße",
+      "borough": "Südwest",
+      "postcode": "04229",
+      "district": "Kleinzschocher",
+      "districtId": "kleinzschocher"
+    },
+    {
+      "street": "Windorfer Straße",
+      "street_number": "",
+      "description": "Dieskaustraße 111, neben Tankstelle",
+      "borough": "Südwest",
+      "postcode": "04229",
+      "district": "Kleinzschocher",
+      "districtId": "kleinzschocher"
+    }
+  ]

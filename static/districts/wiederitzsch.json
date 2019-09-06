@@ -1,0 +1,38 @@
+[
+    {
+      "street": "Nordweg",
+      "street_number": "2-6",
+      "description": "ggü.",
+      "borough": "Nord",
+      "postcode": "04158",
+      "district": "Wiederitzsch",
+      "districtId": "wiederitzsch"
+    },
+    {
+      "street": "Südtangente",
+      "street_number": "",
+      "description": "Ecke Martinshöhe (Ost)",
+      "borough": "Nord",
+      "postcode": "04158",
+      "district": "Wiederitzsch",
+      "districtId": "wiederitzsch"
+    },
+    {
+      "street": "Südtangente",
+      "street_number": "",
+      "description": "Birkenring",
+      "borough": "Nord",
+      "postcode": "04158",
+      "district": "Wiederitzsch",
+      "districtId": "wiederitzsch"
+    },
+    {
+      "street": "Salzhandelsstraße",
+      "street_number": "",
+      "description": "Ecke Fichtesiedlung",
+      "borough": "Nord",
+      "postcode": "04158",
+      "district": "Wiederitzsch",
+      "districtId": "wiederitzsch"
+    }
+  ]

@@ -1,0 +1,38 @@
+[
+    {
+      "street": "Althener Anger",
+      "street_number": "",
+      "description": "Sportplatz",
+      "borough": "Ost",
+      "postcode": "04319",
+      "district": "Althen-Kleinpösna",
+      "districtId": "althen-kleinpoesna"
+    },
+    {
+      "street": "Am Wiesenblick",
+      "street_number": "",
+      "description": "",
+      "borough": "Ost",
+      "postcode": "04319",
+      "district": "Althen-Kleinpösna",
+      "districtId": "althen-kleinpoesna"
+    },
+    {
+      "street": "Dorfstraße",
+      "street_number": "",
+      "description": "Ecke An der Weide",
+      "borough": "Ost",
+      "postcode": "04319",
+      "district": "Althen-Kleinpösna",
+      "districtId": "althen-kleinpoesna"
+    },
+    {
+      "street": "Hersvelder Straße",
+      "street_number": "",
+      "description": "ggü. Nr. 7 nahe Kreuzung Hersvelder",
+      "borough": "Ost",
+      "postcode": "04319",
+      "district": "Althen-Kleinpösna",
+      "districtId": "althen-kleinpoesna"
+    }
+  ]

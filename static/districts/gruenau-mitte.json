@@ -1,0 +1,173 @@
+[
+    {
+      "street": "Alte Salzstraße",
+      "street_number": 183,
+      "description": "Höhe Potschkaustraße",
+      "borough": "West",
+      "postcode": "04209",
+      "district": "Grünau-Mitte",
+      "districtId": "gruenau-mitte"
+    },
+    {
+      "street": "Am Kirschberg",
+      "street_number": 13,
+      "description": "Parkplatz",
+      "borough": "West",
+      "postcode": "04209",
+      "district": "Grünau-Mitte",
+      "districtId": "gruenau-mitte"
+    },
+    {
+      "street": "Breisgaustraße",
+      "street_number": 19,
+      "description": "",
+      "borough": "West",
+      "postcode": "04209",
+      "district": "Grünau-Mitte",
+      "districtId": "gruenau-mitte"
+    },
+    {
+      "street": "Breisgaustraße",
+      "street_number": 29,
+      "description": "",
+      "borough": "West",
+      "postcode": "04209",
+      "district": "Grünau-Mitte",
+      "districtId": "gruenau-mitte"
+    },
+    {
+      "street": "Breisgaustraße",
+      "street_number": 43,
+      "description": "ggü. Parkhaus",
+      "borough": "West",
+      "postcode": "04209",
+      "district": "Grünau-Mitte",
+      "districtId": "gruenau-mitte"
+    },
+    {
+      "street": "Breisgaustraße",
+      "street_number": 47,
+      "description": "Parkplatz",
+      "borough": "West",
+      "postcode": "04209",
+      "district": "Grünau-Mitte",
+      "districtId": "gruenau-mitte"
+    },
+    {
+      "street": "Breisgaustraße",
+      "street_number": 79,
+      "description": "ggü.",
+      "borough": "West",
+      "postcode": "04209",
+      "district": "Grünau-Mitte",
+      "districtId": "gruenau-mitte"
+    },
+    {
+      "street": "Heilbronner Straße",
+      "street_number": 5,
+      "description": "",
+      "borough": "West",
+      "postcode": "04209",
+      "district": "Grünau-Mitte",
+      "districtId": "gruenau-mitte"
+    },
+    {
+      "street": "Karlsruher Straße",
+      "street_number": 31,
+      "description": "Seniorenheim",
+      "borough": "West",
+      "postcode": "04209",
+      "district": "Grünau-Mitte",
+      "districtId": "gruenau-mitte"
+    },
+    {
+      "street": "Ludwigsburger Straße",
+      "street_number": 16,
+      "description": "",
+      "borough": "West",
+      "postcode": "04209",
+      "district": "Grünau-Mitte",
+      "districtId": "gruenau-mitte"
+    },
+    {
+      "street": "Mannheimer Straße",
+      "street_number": 130,
+      "description": "Höhe Alte Salzstraße",
+      "borough": "West",
+      "postcode": "04209",
+      "district": "Grünau-Mitte",
+      "districtId": "gruenau-mitte"
+    },
+    {
+      "street": "Mannheimer Straße",
+      "street_number": 36,
+      "description": "zwischen Nr. 36 und 96",
+      "borough": "West",
+      "postcode": "04209",
+      "district": "Grünau-Mitte",
+      "districtId": "gruenau-mitte"
+    },
+    {
+      "street": "Offenburger Straße",
+      "street_number": 11,
+      "description": "",
+      "borough": "West",
+      "postcode": "04209",
+      "district": "Grünau-Mitte",
+      "districtId": "gruenau-mitte"
+    },
+    {
+      "street": "Potschkaustraße",
+      "street_number": 22,
+      "description": "",
+      "borough": "West",
+      "postcode": "04209",
+      "district": "Grünau-Mitte",
+      "districtId": "gruenau-mitte"
+    },
+    {
+      "street": "Ringstraße",
+      "street_number": 1,
+      "description": "",
+      "borough": "West",
+      "postcode": "04209",
+      "district": "Grünau-Mitte",
+      "districtId": "gruenau-mitte"
+    },
+    {
+      "street": "Ringstraße",
+      "street_number": 115,
+      "description": "",
+      "borough": "West",
+      "postcode": "04209",
+      "district": "Grünau-Mitte",
+      "districtId": "gruenau-mitte"
+    },
+    {
+      "street": "Ringstraße",
+      "street_number": 171,
+      "description": "Höhe Breisgaustraße",
+      "borough": "West",
+      "postcode": "04209",
+      "district": "Grünau-Mitte",
+      "districtId": "gruenau-mitte"
+    },
+    {
+      "street": "Ringstraße",
+      "street_number": 35,
+      "description": "",
+      "borough": "West",
+      "postcode": "04209",
+      "district": "Grünau-Mitte",
+      "districtId": "gruenau-mitte"
+    },
+    {
+      "street": "Ringstraße",
+      "street_number": 59,
+      "description": "",
+      "borough": "West",
+      "postcode": "04209",
+      "district": "Grünau-Mitte",
+      "districtId": "gruenau-mitte"
+    }
+  ]

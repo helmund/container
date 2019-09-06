@@ -1,0 +1,56 @@
+[
+    {
+      "street": "Am Bildersaal",
+      "street_number": "",
+      "description": "An der Schäferei",
+      "borough": "Nordwest",
+      "postcode": "04159",
+      "district": "Lützschena-Stahmeln",
+      "districtId": "luetzschena-stahmeln"
+    },
+    {
+      "street": "Am Eselshaus",
+      "street_number": "",
+      "description": "ggü. Nr. 22",
+      "borough": "Nordwest",
+      "postcode": "04159",
+      "district": "Lützschena-Stahmeln",
+      "districtId": "luetzschena-stahmeln"
+    },
+    {
+      "street": "Bahnstraße",
+      "street_number": "",
+      "description": "Radefelder Weg",
+      "borough": "Nordwest",
+      "postcode": "04159",
+      "district": "Lützschena-Stahmeln",
+      "districtId": "luetzschena-stahmeln"
+    },
+    {
+      "street": "Elsterberg",
+      "street_number": "",
+      "description": "schräg ggü. Nr. 6",
+      "borough": "Nordwest",
+      "postcode": "04159",
+      "district": "Lützschena-Stahmeln",
+      "districtId": "luetzschena-stahmeln"
+    },
+    {
+      "street": "Stahmelner Straße",
+      "street_number": 218,
+      "description": "",
+      "borough": "Nordwest",
+      "postcode": "04159",
+      "district": "Lützschena-Stahmeln",
+      "districtId": "luetzschena-stahmeln"
+    },
+    {
+      "street": "Windmühlenweg",
+      "street_number": "",
+      "description": "Höhe Narzissenweg",
+      "borough": "Nordwest",
+      "postcode": "04159",
+      "district": "Lützschena-Stahmeln",
+      "districtId": "luetzschena-stahmeln"
+    }
+  ]

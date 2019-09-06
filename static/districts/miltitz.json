@@ -1,0 +1,29 @@
+[
+    {
+      "street": "Alte Burghausener Straße",
+      "street_number": "",
+      "description": "",
+      "borough": "West",
+      "postcode": "04205",
+      "district": "Miltitz",
+      "districtId": "miltitz"
+    },
+    {
+      "street": "Am Bahnhof",
+      "street_number": "",
+      "description": "Höhe Freisinger Weg 21",
+      "borough": "West",
+      "postcode": "04205",
+      "district": "Miltitz",
+      "districtId": "miltitz"
+    },
+    {
+      "street": "Auenweg",
+      "street_number": "",
+      "description": "ggü. Nr. 31 beim Stromkasten",
+      "borough": "West",
+      "postcode": "04205",
+      "district": "Miltitz",
+      "districtId": "miltitz"
+    }
+  ]

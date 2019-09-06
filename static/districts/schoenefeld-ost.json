@@ -1,0 +1,164 @@
+[
+  {
+    "street": "Bästleinstraße",
+    "street_number": 35,
+    "description": "ggü. Kindereinrichtung/Parktasche",
+    "borough": "Nordost",
+    "postcode": "04347",
+    "district": "Schönefeld-Ost",
+    "districtId": "schoenefeld-ost"
+  },
+  {
+    "street": "Bautzner Straße",
+    "street_number": 67,
+    "description": "",
+    "borough": "Nordost",
+    "postcode": "04347",
+    "district": "Schönefeld-Ost",
+    "districtId": "schoenefeld-ost"
+  },
+  {
+    "street": "Bautzner Straße",
+    "street_number": 7,
+    "description": "am Friedhof",
+    "borough": "Nordost",
+    "postcode": "04347",
+    "district": "Schönefeld-Ost",
+    "districtId": "schoenefeld-ost"
+  },
+  {
+    "street": "Fritz-Siemon-Straße",
+    "street_number": "",
+    "description": "Höhe Schulzeweg/Parktasche",
+    "borough": "Nordost",
+    "postcode": "04347",
+    "district": "Schönefeld-Ost",
+    "districtId": "schoenefeld-ost"
+  },
+  {
+    "street": "Fritz-Siemon-Straße",
+    "street_number": "",
+    "description": "Höhe Volksgartenstraße/Parktasche",
+    "borough": "Nordost",
+    "postcode": "04347",
+    "district": "Schönefeld-Ost",
+    "districtId": "schoenefeld-ost"
+  },
+  {
+    "street": "Kohlweg",
+    "street_number": "",
+    "description": "Ecke Heinrich-Schmidt-Straße",
+    "borough": "Nordost",
+    "postcode": "04347",
+    "district": "Schönefeld-Ost",
+    "districtId": "schoenefeld-ost"
+  },
+  {
+    "street": "Löbauer Straße",
+    "street_number": "",
+    "description": "EKZ Sonnenwall",
+    "borough": "Nordost",
+    "postcode": "04347",
+    "district": "Schönefeld-Ost",
+    "districtId": "schoenefeld-ost"
+  },
+  {
+    "street": "Löbauer Straße",
+    "street_number": 59,
+    "description": "ggü.",
+    "borough": "Nordost",
+    "postcode": "04347",
+    "district": "Schönefeld-Ost",
+    "districtId": "schoenefeld-ost"
+  },
+  {
+    "street": "Max-Lingner-Straße",
+    "street_number": "",
+    "description": "Höhe Löbauer Straße",
+    "borough": "Nordost",
+    "postcode": "04347",
+    "district": "Schönefeld-Ost",
+    "districtId": "schoenefeld-ost"
+  },
+  {
+    "street": "Permoserstraße",
+    "street_number": "",
+    "description": "Ecke Adenauerallee",
+    "borough": "Nordost",
+    "postcode": "04347",
+    "district": "Schönefeld-Ost",
+    "districtId": "schoenefeld-ost"
+  },
+  {
+    "street": "Permoserstraße",
+    "street_number": 1,
+    "description": "",
+    "borough": "Nordost",
+    "postcode": "04347",
+    "district": "Schönefeld-Ost",
+    "districtId": "schoenefeld-ost"
+  },
+  {
+    "street": "Poserstraße",
+    "street_number": 45,
+    "description": "",
+    "borough": "Nordost",
+    "postcode": "04347",
+    "district": "Schönefeld-Ost",
+    "districtId": "schoenefeld-ost"
+  },
+  {
+    "street": "Schwantesstraße",
+    "street_number": 41,
+    "description": "",
+    "borough": "Nordost",
+    "postcode": "04347",
+    "district": "Schönefeld-Ost",
+    "districtId": "schoenefeld-ost"
+  },
+  {
+    "street": "Shukowstraße",
+    "street_number": "",
+    "description": "Höhe Schulzeweg/Parktasche",
+    "borough": "Nordost",
+    "postcode": "04347",
+    "district": "Schönefeld-Ost",
+    "districtId": "schoenefeld-ost"
+  },
+  {
+    "street": "Shukowstraße",
+    "street_number": 48,
+    "description": "Höhe Losinskiweg/Parktasche",
+    "borough": "Nordost",
+    "postcode": "04347",
+    "district": "Schönefeld-Ost",
+    "districtId": "schoenefeld-ost"
+  },
+  {
+    "street": "Shukowstraße",
+    "street_number": 8,
+    "description": "",
+    "borough": "Nordost",
+    "postcode": "04347",
+    "district": "Schönefeld-Ost",
+    "districtId": "schoenefeld-ost"
+  },
+  {
+    "street": "Stöhrerstraße",
+    "street_number": 16,
+    "description": "Betriebsgelände Remondis/WSH (mit Altglas-Annahme)",
+    "borough": "Nordost",
+    "postcode": "04347",
+    "district": "Schönefeld-Ost",
+    "districtId": "schoenefeld-ost"
+  },
+  {
+    "street": "Volksgartenstraße",
+    "street_number": "",
+    "description": "Parkplatz",
+    "borough": "Nordost",
+    "postcode": "04347",
+    "district": "Schönefeld-Ost",
+    "districtId": "schoenefeld-ost"
+  }
+]

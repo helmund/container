@@ -1,0 +1,56 @@
+[
+    {
+      "street": "Breitenfelder Straße",
+      "street_number": "",
+      "description": "Höhe Ludwig-Beck-Straße",
+      "borough": "Nord",
+      "postcode": "04157",
+      "district": "Gohlis-Mitte",
+      "districtId": "gohlis-mitte"
+    },
+    {
+      "street": "Coppistraße",
+      "street_number": "",
+      "description": "Höhe Max-Metzger-Straße",
+      "borough": "Nord",
+      "postcode": "04157",
+      "district": "Gohlis-Mitte",
+      "districtId": "gohlis-mitte"
+    },
+    {
+      "street": "Heinrich-Budde-Straße",
+      "street_number": "",
+      "description": "Höhe Adolph-Menzel-Straße",
+      "borough": "Nord",
+      "postcode": "04157",
+      "district": "Gohlis-Mitte",
+      "districtId": "gohlis-mitte"
+    },
+    {
+      "street": "Michael-Kazmierczak-Straße",
+      "street_number": "",
+      "description": "Höhe Rudi-Opitz-Straße/Insel",
+      "borough": "Nord",
+      "postcode": "04157",
+      "district": "Gohlis-Mitte",
+      "districtId": "gohlis-mitte"
+    },
+    {
+      "street": "Sasstraße",
+      "street_number": "",
+      "description": "Freiligrathplatz",
+      "borough": "Nord",
+      "postcode": "04157",
+      "district": "Gohlis-Mitte",
+      "districtId": "gohlis-mitte"
+    },
+    {
+      "street": "Viertelsweg",
+      "street_number": 4,
+      "description": "Höhe Wilhelm-Plesse-Straße",
+      "borough": "Nord",
+      "postcode": "04157",
+      "district": "Gohlis-Mitte",
+      "districtId": "gohlis-mitte"
+    }
+  ]

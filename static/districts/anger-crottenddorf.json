@@ -1,0 +1,56 @@
+[
+  {
+    "street": "Friedrich-Dittes-Straße",
+    "street_number": "",
+    "description": "Höhe Grüne Gasse",
+    "borough": "Ost",
+    "postcode": "04318",
+    "district": "Anger-Crottendorf",
+    "districtId": "anger-crottenddorf"
+  },
+  {
+    "street": "Theodor-Neubauer-Straße",
+    "street_number": "",
+    "description": "Höhe Gregor-Fuchs-Straße",
+    "borough": "Ost",
+    "postcode": "04318",
+    "district": "Anger-Crottendorf",
+    "districtId": "anger-crottenddorf"
+  },
+  {
+    "street": "Theodor-Neubauer-Straße",
+    "street_number": 3,
+    "description": "Höhe Borsdorfer Straße",
+    "borough": "Ost",
+    "postcode": "04318",
+    "district": "Anger-Crottendorf",
+    "districtId": "anger-crottenddorf"
+  },
+  {
+    "street": "Wichernstraße",
+    "street_number": 5,
+    "description": "",
+    "borough": "Ost",
+    "postcode": "04318",
+    "district": "Anger-Crottendorf",
+    "districtId": "anger-crottenddorf"
+  },
+  {
+    "street": "Wiebelstraße",
+    "street_number": 9,
+    "description": "Höhe Wurzner Straße",
+    "borough": "Ost",
+    "postcode": "04318",
+    "district": "Anger-Crottendorf",
+    "districtId": "anger-crottenddorf"
+  },
+  {
+    "street": "Zweinaundorfer Straße",
+    "street_number": "78 b",
+    "description": "Eingang Ostfriedhof",
+    "borough": "Ost",
+    "postcode": "04318",
+    "district": "Anger-Crottendorf",
+    "districtId": "anger-crottenddorf"
+  }
+]

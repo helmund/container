@@ -31,8 +31,9 @@ export default {
     var _district = this.$route.params.district;
     this.district = _district;
   },
-  async asyncData() {
-    const { data } = await axios.get('/list.json')
+  async asyncData(district) {
+    const districtJson = "/districts/" + district.params.district + ".json";
+    const { data } = await axios.get(districtJson)
     return { items: data }
   },
 }

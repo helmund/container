@@ -1,0 +1,92 @@
+[
+  {
+    "street": "Cunnersdorfer Straße",
+    "street_number": "",
+    "description": "Höhe Emmausstraße",
+    "borough": "Ost",
+    "postcode": "04318",
+    "district": "Sellerhausen-Stünz",
+    "districtId": "sellerhausen-stuenz"
+  },
+  {
+    "street": "Eisenbahnstraße",
+    "street_number": "",
+    "description": "Höhe Portitzer Straße",
+    "borough": "Ost",
+    "postcode": "04318",
+    "district": "Sellerhausen-Stünz",
+    "districtId": "sellerhausen-stuenz"
+  },
+  {
+    "street": "Leonhard-Frank-Straße",
+    "street_number": "",
+    "description": "ggü. Einkaufsmarkt",
+    "borough": "Ost",
+    "postcode": "04318",
+    "district": "Sellerhausen-Stünz",
+    "districtId": "sellerhausen-stuenz"
+  },
+  {
+    "street": "Leonhard-Frank-Straße",
+    "street_number": "",
+    "description": "Ecke Louis-Fürnberg-Straße",
+    "borough": "Ost",
+    "postcode": "04318",
+    "district": "Sellerhausen-Stünz",
+    "districtId": "sellerhausen-stuenz"
+  },
+  {
+    "street": "Leonhard-Frank-Straße",
+    "street_number": 2,
+    "description": "ggü.",
+    "borough": "Ost",
+    "postcode": "04318",
+    "district": "Sellerhausen-Stünz",
+    "districtId": "sellerhausen-stuenz"
+  },
+  {
+    "street": "Portitzer Straße",
+    "street_number": 16,
+    "description": "",
+    "borough": "Ost",
+    "postcode": "04318",
+    "district": "Sellerhausen-Stünz",
+    "districtId": "sellerhausen-stuenz"
+  },
+  {
+    "street": "Walter-Barth-Straße",
+    "street_number": 9,
+    "description": "Höhe Reinhardtstraße",
+    "borough": "Ost",
+    "postcode": "04318",
+    "district": "Sellerhausen-Stünz",
+    "districtId": "sellerhausen-stuenz"
+  },
+  {
+    "street": "Elisabeth-Schumacher-",
+    "street_number": "",
+    "description": "Höhe Schmitzstraße",
+    "borough": "Ost",
+    "postcode": "04328",
+    "district": "Sellerhausen-Stünz",
+    "districtId": "sellerhausen-stuenz"
+  },
+  {
+    "street": "Ostheimstraße",
+    "street_number": 24,
+    "description": "Höhe Weidlichstraße",
+    "borough": "Ost",
+    "postcode": "04328",
+    "district": "Sellerhausen-Stünz",
+    "districtId": "sellerhausen-stuenz"
+  },
+  {
+    "street": "Permoserstraße",
+    "street_number": 50,
+    "description": "Ecke Elisabeth-Schumacher-Straße, neben Haltestelle",
+    "borough": "Ost",
+    "postcode": "04328",
+    "district": "Sellerhausen-Stünz",
+    "districtId": "sellerhausen-stuenz"
+  }
+]

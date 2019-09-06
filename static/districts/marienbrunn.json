@@ -1,0 +1,20 @@
+[
+    {
+      "street": "An der Märchenwiese",
+      "street_number": 49,
+      "description": "ggü. Schule",
+      "borough": "Süd",
+      "postcode": "04277",
+      "district": "Marienbrunn",
+      "districtId": "marienbrunn"
+    },
+    {
+      "street": "Rübezahlweg",
+      "street_number": "",
+      "description": "Höhe Sandmännchenweg",
+      "borough": "Süd",
+      "postcode": "04277",
+      "district": "Marienbrunn",
+      "districtId": "marienbrunn"
+    }
+  ]

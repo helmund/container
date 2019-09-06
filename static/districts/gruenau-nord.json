@@ -1,0 +1,110 @@
+[
+    {
+      "street": "Am kleinen Feld",
+      "street_number": 50,
+      "description": "Höhe Neue Leipziger Straße",
+      "borough": "West",
+      "postcode": "04205",
+      "district": "Grünau-Nord",
+      "districtId": "gruenau-nord"
+    },
+    {
+      "street": "Jupiterstraße",
+      "street_number": 2,
+      "description": "Höhe Wegastraße",
+      "borough": "West",
+      "postcode": "04205",
+      "district": "Grünau-Nord",
+      "districtId": "gruenau-nord"
+    },
+    {
+      "street": "Jupiterstraße",
+      "street_number": 42,
+      "description": "",
+      "borough": "West",
+      "postcode": "04205",
+      "district": "Grünau-Nord",
+      "districtId": "gruenau-nord"
+    },
+    {
+      "street": "Neue Leipziger Straße",
+      "street_number": 1,
+      "description": "Höhe Am kleinem Feld",
+      "borough": "West",
+      "postcode": "04205",
+      "district": "Grünau-Nord",
+      "districtId": "gruenau-nord"
+    },
+    {
+      "street": "Plovdiver Straße",
+      "street_number": 30,
+      "description": "Höhe Jupiterstraße/Parktasche",
+      "borough": "West",
+      "postcode": "04205",
+      "district": "Grünau-Nord",
+      "districtId": "gruenau-nord"
+    },
+    {
+      "street": "Plovdiver Straße",
+      "street_number": 82,
+      "description": "Parktasche",
+      "borough": "West",
+      "postcode": "04205",
+      "district": "Grünau-Nord",
+      "districtId": "gruenau-nord"
+    },
+    {
+      "street": "Saturnstraße",
+      "street_number": 27,
+      "description": "auf Marsweg",
+      "borough": "West",
+      "postcode": "04205",
+      "district": "Grünau-Nord",
+      "districtId": "gruenau-nord"
+    },
+    {
+      "street": "Saturnstraße",
+      "street_number": 57,
+      "description": "",
+      "borough": "West",
+      "postcode": "04205",
+      "district": "Grünau-Nord",
+      "districtId": "gruenau-nord"
+    },
+    {
+      "street": "Titaniaweg",
+      "street_number": 3,
+      "description": "Parkplatz",
+      "borough": "West",
+      "postcode": "04205",
+      "district": "Grünau-Nord",
+      "districtId": "gruenau-nord"
+    },
+    {
+      "street": "Uranusstraße",
+      "street_number": "",
+      "description": "zwischen Nr. 78 und 80 in Parktasche",
+      "borough": "West",
+      "postcode": "04205",
+      "district": "Grünau-Nord",
+      "districtId": "gruenau-nord"
+    },
+    {
+      "street": "Uranusstraße",
+      "street_number": 50,
+      "description": "Parkplatz WG Lipsia",
+      "borough": "West",
+      "postcode": "04205",
+      "district": "Grünau-Nord",
+      "districtId": "gruenau-nord"
+    },
+    {
+      "street": "Wegastraße",
+      "street_number": 24,
+      "description": "",
+      "borough": "West",
+      "postcode": "04205",
+      "district": "Grünau-Nord",
+      "districtId": "gruenau-nord"
+    }
+  ]

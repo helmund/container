@@ -1,0 +1,47 @@
+[
+  {
+    "street": "Egelstraße",
+    "street_number": "",
+    "description": "Ecke Lange Straße",
+    "borough": "Mitte",
+    "postcode": "04103",
+    "district": "Zentrum-Ost",
+    "districtId": "zentrum-ost"
+  },
+  {
+    "street": "Johannisplatz",
+    "street_number": "",
+    "description": "auf Querstraße ggü Nr. 15",
+    "borough": "Mitte",
+    "postcode": "04103",
+    "district": "Zentrum-Ost",
+    "districtId": "zentrum-ost"
+  },
+  {
+    "street": "Kurt-Schumacher-Straße",
+    "street_number": 12,
+    "description": "Wendeschleife",
+    "borough": "Mitte",
+    "postcode": "04103",
+    "district": "Zentrum-Ost",
+    "districtId": "zentrum-ost"
+  },
+  {
+    "street": "Rosa-Luxemburg-Straße",
+    "street_number": 49,
+    "description": "Höhe Schulze-Delitzsch-Straße",
+    "borough": "Mitte",
+    "postcode": "04103",
+    "district": "Zentrum-Ost",
+    "districtId": "zentrum-ost"
+  },
+  {
+    "street": "Schützenstraße",
+    "street_number": "",
+    "description": "Chopinstraße",
+    "borough": "Mitte",
+    "postcode": "04103",
+    "district": "Zentrum-Ost",
+    "districtId": "zentrum-ost"
+  }
+]

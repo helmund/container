@@ -1,0 +1,38 @@
+[
+    {
+      "street": "Emil-Altner-Weg",
+      "street_number": "",
+      "description": "Ecke Stötteritzer Landstraße",
+      "borough": "Südost",
+      "postcode": "04288",
+      "district": "Holzhausen",
+      "districtId": "holzhausen"
+    },
+    {
+      "street": "Hinter dem Zuckelhausener Ring",
+      "street_number": "",
+      "description": "Ecke Liebertwolkwitzer Straße",
+      "borough": "Südost",
+      "postcode": "04288",
+      "district": "Holzhausen",
+      "districtId": "holzhausen"
+    },
+    {
+      "street": "Liebertwolkwitzer Straße",
+      "street_number": 39,
+      "description": "WSH (mit Altglas-Annahme)",
+      "borough": "Südost",
+      "postcode": "04288",
+      "district": "Holzhausen",
+      "districtId": "holzhausen"
+    },
+    {
+      "street": "Walter-Heise-Straße",
+      "street_number": "",
+      "description": "Ecke Händelstraße",
+      "borough": "Südost",
+      "postcode": "04288",
+      "district": "Holzhausen",
+      "districtId": "holzhausen"
+    }
+  ]

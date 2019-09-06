@@ -1,0 +1,56 @@
+[
+  {
+    "street": "Frickestraße",
+    "street_number": "",
+    "description": "Trufanowstraße",
+    "borough": "Mitte",
+    "postcode": "04105",
+    "district": "Zentrum-Nord",
+    "districtId": "zentrum-nord"
+  },
+  {
+    "street": "Karl-Rothe-Straße",
+    "street_number": "",
+    "description": "Höhe Gohliser Straße",
+    "borough": "Mitte",
+    "postcode": "04105",
+    "district": "Zentrum-Nord",
+    "districtId": "zentrum-nord"
+  },
+  {
+    "street": "Michaelisstraße",
+    "street_number": "",
+    "description": "Gneisenaustraße",
+    "borough": "Mitte",
+    "postcode": "04105",
+    "district": "Zentrum-Nord",
+    "districtId": "zentrum-nord"
+  },
+  {
+    "street": "Parthenstraße",
+    "street_number": "",
+    "description": "zwischen Löhrstraße und Nordstraße",
+    "borough": "Mitte",
+    "postcode": "04105",
+    "district": "Zentrum-Nord",
+    "districtId": "zentrum-nord"
+  },
+  {
+    "street": "Pfaffendorfer Straße",
+    "street_number": "",
+    "description": "Höhe Parkhaus am Zoo",
+    "borough": "Mitte",
+    "postcode": "04105",
+    "district": "Zentrum-Nord",
+    "districtId": "zentrum-nord"
+  },
+  {
+    "street": "Roscherstraße",
+    "street_number": "",
+    "description": "Höhe Nordplatz, beim Finanzamt",
+    "borough": "Mitte",
+    "postcode": "04105",
+    "district": "Zentrum-Nord",
+    "districtId": "zentrum-nord"
+  }
+]

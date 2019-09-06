@@ -1,0 +1,65 @@
+[
+  {
+    "street": "Cleudner Straße",
+    "street_number": "",
+    "description": "Richtung Tauchaer Straße",
+    "borough": "Nordost",
+    "postcode": "04349",
+    "district": "Thekla",
+    "districtId": "thekla"
+  },
+  {
+    "street": "Freiberger Straße",
+    "street_number": "",
+    "description": "Ecke Klingenthaler Straße",
+    "borough": "Nordost",
+    "postcode": "04349",
+    "district": "Thekla",
+    "districtId": "thekla"
+  },
+  {
+    "street": "Göteborger Straße",
+    "street_number": "",
+    "description": "Höhe Tauchaer Straße",
+    "borough": "Nordost",
+    "postcode": "04349",
+    "district": "Thekla",
+    "districtId": "thekla"
+  },
+  {
+    "street": "Lidicestraße",
+    "street_number": 8,
+    "description": "Höhe Theklaer Straße/Parkplatz",
+    "borough": "Nordost",
+    "postcode": "04349",
+    "district": "Thekla",
+    "districtId": "thekla"
+  },
+  {
+    "street": "Neutzscher Straße",
+    "street_number": "",
+    "description": "Höhe Kiebitzstraße",
+    "borough": "Nordost",
+    "postcode": "04349",
+    "district": "Thekla",
+    "districtId": "thekla"
+  },
+  {
+    "street": "Seelestraße",
+    "street_number": "27 a",
+    "description": "Parkfläche ggü. Fortuna-Gaststätte",
+    "borough": "Nordost",
+    "postcode": "04349",
+    "district": "Thekla",
+    "districtId": "thekla"
+  },
+  {
+    "street": "Zschopauer Straße",
+    "street_number": "",
+    "description": "Höhe Theklaer Straße",
+    "borough": "Nordost",
+    "postcode": "04349",
+    "district": "Thekla",
+    "districtId": "thekla"
+  }
+]

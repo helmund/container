@@ -1,0 +1,47 @@
+[
+    {
+      "street": "Brandensteinstraße",
+      "street_number": "",
+      "description": "Zschampert, zwischen An der",
+      "borough": "Alt-West",
+      "postcode": "04178",
+      "district": "Burghausen-Rückmarsdorf",
+      "districtId": "burghausen-rueckmarsdorf"
+    },
+    {
+      "street": "Großer Marktweg",
+      "street_number": 9,
+      "description": "",
+      "borough": "Alt-West",
+      "postcode": "04178",
+      "district": "Burghausen-Rückmarsdorf",
+      "districtId": "burghausen-rueckmarsdorf"
+    },
+    {
+      "street": "Merseburger Straße",
+      "street_number": 259,
+      "description": "ggü./Parkplatz Löwencenter",
+      "borough": "Alt-West",
+      "postcode": "04178",
+      "district": "Burghausen-Rückmarsdorf",
+      "districtId": "burghausen-rueckmarsdorf"
+    },
+    {
+      "street": "Miltitzer Straße",
+      "street_number": "",
+      "description": "Ecke An den Linden",
+      "borough": "Alt-West",
+      "postcode": "04178",
+      "district": "Burghausen-Rückmarsdorf",
+      "districtId": "burghausen-rueckmarsdorf"
+    },
+    {
+      "street": "Zum Bahnhof",
+      "street_number": "",
+      "description": "ggü. Nr. 20",
+      "borough": "Alt-West",
+      "postcode": "04178",
+      "district": "Burghausen-Rückmarsdorf",
+      "districtId": "burghausen-rueckmarsdorf"
+    }
+  ]

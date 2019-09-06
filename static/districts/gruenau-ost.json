@@ -1,0 +1,110 @@
+[
+    {
+      "street": "Alte Salzstraße",
+      "street_number": 52,
+      "description": "Höhe Grünauer Allee/Parkplatz",
+      "borough": "West",
+      "postcode": "04209",
+      "district": "Grünau-Ost",
+      "districtId": "gruenau-ost"
+    },
+    {
+      "street": "Asternweg",
+      "street_number": 44,
+      "description": "Höhe Rosenweg; Container in Steineinfassung",
+      "borough": "West",
+      "postcode": "04209",
+      "district": "Grünau-Ost",
+      "districtId": "gruenau-ost"
+    },
+    {
+      "street": "Dahlienstraße",
+      "street_number": 101,
+      "description": "",
+      "borough": "West",
+      "postcode": "04209",
+      "district": "Grünau-Ost",
+      "districtId": "gruenau-ost"
+    },
+    {
+      "street": "Dahlienstraße",
+      "street_number": 31,
+      "description": "",
+      "borough": "West",
+      "postcode": "04209",
+      "district": "Grünau-Ost",
+      "districtId": "gruenau-ost"
+    },
+    {
+      "street": "Gärtnerstraße",
+      "street_number": 155,
+      "description": "Parkplatz",
+      "borough": "West",
+      "postcode": "04209",
+      "district": "Grünau-Ost",
+      "districtId": "gruenau-ost"
+    },
+    {
+      "street": "Gärtnerstraße",
+      "street_number": 41,
+      "description": "Parkplatz",
+      "borough": "West",
+      "postcode": "04209",
+      "district": "Grünau-Ost",
+      "districtId": "gruenau-ost"
+    },
+    {
+      "street": "Grünauer Allee",
+      "street_number": 37,
+      "description": "am Sportplatz, Straße am Park 3",
+      "borough": "West",
+      "postcode": "04209",
+      "district": "Grünau-Ost",
+      "districtId": "gruenau-ost"
+    },
+    {
+      "street": "Nelkenweg",
+      "street_number": 15,
+      "description": "neben Parkhaus",
+      "borough": "West",
+      "postcode": "04209",
+      "district": "Grünau-Ost",
+      "districtId": "gruenau-ost"
+    },
+    {
+      "street": "Rosenweg",
+      "street_number": 20,
+      "description": "Parktasche",
+      "borough": "West",
+      "postcode": "04209",
+      "district": "Grünau-Ost",
+      "districtId": "gruenau-ost"
+    },
+    {
+      "street": "Straße am Park",
+      "street_number": 4,
+      "description": "Höhe Gärtnerstraße",
+      "borough": "West",
+      "postcode": "04209",
+      "district": "Grünau-Ost",
+      "districtId": "gruenau-ost"
+    },
+    {
+      "street": "Weißdornstraße",
+      "street_number": "",
+      "description": "Sackgasse/Alte Salzstraße 100",
+      "borough": "West",
+      "postcode": "04209",
+      "district": "Grünau-Ost",
+      "districtId": "gruenau-ost"
+    },
+    {
+      "street": "Weißdornstraße",
+      "street_number": 84,
+      "description": "",
+      "borough": "West",
+      "postcode": "04209",
+      "district": "Grünau-Ost",
+      "districtId": "gruenau-ost"
+    }
+  ]

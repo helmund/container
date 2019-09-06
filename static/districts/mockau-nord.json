@@ -1,0 +1,92 @@
+[
+  {
+    "street": "Friedrichshafner Straße",
+    "street_number": "",
+    "description": "Höhe Majakowskistraße",
+    "borough": "Nordost",
+    "postcode": "04356",
+    "district": "Mockau-Nord",
+    "districtId": "mockau-nord"
+  },
+  {
+    "street": "Majakowskistraße",
+    "street_number": 4,
+    "description": "Höhe Stralsunder Straße",
+    "borough": "Nordost",
+    "postcode": "04356",
+    "district": "Mockau-Nord",
+    "districtId": "mockau-nord"
+  },
+  {
+    "street": "Essener Straße",
+    "street_number": "",
+    "description": "Einkaufsmarkt",
+    "borough": "Nordost",
+    "postcode": "04357",
+    "district": "Mockau-Nord",
+    "districtId": "mockau-nord"
+  },
+  {
+    "street": "Gogolstraße",
+    "street_number": "",
+    "description": "Höhe Kuckhoffstraße",
+    "borough": "Nordost",
+    "postcode": "04357",
+    "district": "Mockau-Nord",
+    "districtId": "mockau-nord"
+  },
+  {
+    "street": "Kieler Straße",
+    "street_number": 84,
+    "description": "Höhe Mockauer Straße",
+    "borough": "Nordost",
+    "postcode": "04357",
+    "district": "Mockau-Nord",
+    "districtId": "mockau-nord"
+  },
+  {
+    "street": "Otto-Michael-Straße",
+    "street_number": "",
+    "description": "Höhe Friedrichshafner Straße",
+    "borough": "Nordost",
+    "postcode": "04357",
+    "district": "Mockau-Nord",
+    "districtId": "mockau-nord"
+  },
+  {
+    "street": "Samuel-Lampel-Straße",
+    "street_number": "",
+    "description": "Parkplatz Einkaufsmarkt/Ärztehaus",
+    "borough": "Nordost",
+    "postcode": "04357",
+    "district": "Mockau-Nord",
+    "districtId": "mockau-nord"
+  },
+  {
+    "street": "Simón-Bolívar-Straße",
+    "street_number": 92,
+    "description": "Höhe Otto-Heinze-Straße",
+    "borough": "Nordost",
+    "postcode": "04357",
+    "district": "Mockau-Nord",
+    "districtId": "mockau-nord"
+  },
+  {
+    "street": "Stralsunder Straße",
+    "street_number": "",
+    "description": "Höhe Tauchaer Straße",
+    "borough": "Nordost",
+    "postcode": "04357",
+    "district": "Mockau-Nord",
+    "districtId": "mockau-nord"
+  },
+  {
+    "street": "Walter-Albrecht-Weg",
+    "street_number": "",
+    "description": "Ecke Friedrichshafner Straße",
+    "borough": "Nordost",
+    "postcode": "04357",
+    "district": "Mockau-Nord",
+    "districtId": "mockau-nord"
+  }
+]

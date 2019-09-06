@@ -1,0 +1,29 @@
+[
+    {
+      "street": "Holbeinstraße",
+      "street_number": "",
+      "description": "Höhe Limburgerstraße",
+      "borough": "Südwest",
+      "postcode": "04229",
+      "district": "Schleußig",
+      "districtId": "schleußig"
+    },
+    {
+      "street": "Könneritzstraße",
+      "street_number": 101,
+      "description": "Höhe Oeserstraße",
+      "borough": "Südwest",
+      "postcode": "04229",
+      "district": "Schleußig",
+      "districtId": "schleußig"
+    },
+    {
+      "street": "Rödelstraße",
+      "street_number": "",
+      "description": "Höhe Rochlitzstraße (an Schule)",
+      "borough": "Südwest",
+      "postcode": "04229",
+      "district": "Schleußig",
+      "districtId": "schleußig"
+    }
+  ]

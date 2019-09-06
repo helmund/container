@@ -1,0 +1,29 @@
+[
+  {
+    "street": "Döringstraße",
+    "street_number": 25,
+    "description": "ggü.",
+    "borough": "Nordost",
+    "postcode": "04357",
+    "district": "Mockau-Süd",
+    "districtId": "mockau-sued"
+  },
+  {
+    "street": "Friedrichshafner Straße",
+    "street_number": "",
+    "description": "Höhe Wilhelm-Busch-Straße",
+    "borough": "Nordost",
+    "postcode": "04357",
+    "district": "Mockau-Süd",
+    "districtId": "mockau-sued"
+  },
+  {
+    "street": "Gontardweg",
+    "street_number": "",
+    "description": "Höhe Mockauer Straße",
+    "borough": "Nordost",
+    "postcode": "04357",
+    "district": "Mockau-Süd",
+    "districtId": "mockau-sued"
+  }
+]

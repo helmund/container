@@ -1,0 +1,83 @@
+[
+    {
+      "street": "Am Schwalbennest",
+      "street_number": "",
+      "description": "Parkplatz Einkaufsmarkt, Lützner Straße 396",
+      "borough": "West",
+      "postcode": "04205",
+      "district": "Schönau",
+      "districtId": "schoenau"
+    },
+    {
+      "street": "Am Schwalbennest",
+      "street_number": 16,
+      "description": "Standort in Freifläche",
+      "borough": "West",
+      "postcode": "04205",
+      "district": "Schönau",
+      "districtId": "schoenau"
+    },
+    {
+      "street": "Jenaer Straße",
+      "street_number": "",
+      "description": "Höhe Meininger Ring",
+      "borough": "West",
+      "postcode": "04205",
+      "district": "Schönau",
+      "districtId": "schoenau"
+    },
+    {
+      "street": "Jenaer Straße",
+      "street_number": "",
+      "description": "Höhe Arnstädter Kehre, ggü. Parkplatz",
+      "borough": "West",
+      "postcode": "04205",
+      "district": "Schönau",
+      "districtId": "schoenau"
+    },
+    {
+      "street": "Lindennaundorfer Weg",
+      "street_number": 18,
+      "description": "Parkplatz zwischen Lindennaundorfer Weg 21 und Frankenheimer Weg 30",
+      "borough": "West",
+      "postcode": "04205",
+      "district": "Schönau",
+      "districtId": "schoenau"
+    },
+    {
+      "street": "Schönauer Ring",
+      "street_number": "",
+      "description": "Höhe Dölziger Weg",
+      "borough": "West",
+      "postcode": "04205",
+      "district": "Schönau",
+      "districtId": "schoenau"
+    },
+    {
+      "street": "Schönauer Ring",
+      "street_number": 1,
+      "description": "Höhe Einkaufsmarkt, Einmündung Schönauer Lachen",
+      "borough": "West",
+      "postcode": "04205",
+      "district": "Schönau",
+      "districtId": "schoenau"
+    },
+    {
+      "street": "Suhler Straße",
+      "street_number": "",
+      "description": "Höhe Einkaufsmarkt, ggü. Nr. 57",
+      "borough": "West",
+      "postcode": "04205",
+      "district": "Schönau",
+      "districtId": "schoenau"
+    },
+    {
+      "street": "Weimaer Straße",
+      "street_number": "",
+      "description": "ggü. Eisenberger Ring 8",
+      "borough": "West",
+      "postcode": "04205",
+      "district": "Schönau",
+      "districtId": "schoenau"
+    }
+  ]

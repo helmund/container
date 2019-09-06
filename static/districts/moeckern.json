@@ -1,0 +1,74 @@
+[
+    {
+      "street": "Blücherstraße",
+      "street_number": 10,
+      "description": "Höhe Dantestraße/Kaufhalle",
+      "borough": "Nordwest",
+      "postcode": "04159",
+      "district": "Möckern",
+      "districtId": "moeckern"
+    },
+    {
+      "street": "Diderotstraße",
+      "street_number": "",
+      "description": "Höhe Uhrigstraße",
+      "borough": "Nordwest",
+      "postcode": "04159",
+      "district": "Möckern",
+      "districtId": "moeckern"
+    },
+    {
+      "street": "Georg-Schumann-Straße",
+      "street_number": 185,
+      "description": "Höhe Huygensstraße",
+      "borough": "Nordwest",
+      "postcode": "04159",
+      "district": "Möckern",
+      "districtId": "moeckern"
+    },
+    {
+      "street": "Glesiener Straße",
+      "street_number": "",
+      "description": "Höhe Papitzer Straße",
+      "borough": "Nordwest",
+      "postcode": "04159",
+      "district": "Möckern",
+      "districtId": "moeckern"
+    },
+    {
+      "street": "Hans-Beimler-Straße",
+      "street_number": "",
+      "description": "Höhe Hochhaus/Kaufhalle",
+      "borough": "Nordwest",
+      "postcode": "04159",
+      "district": "Möckern",
+      "districtId": "moeckern"
+    },
+    {
+      "street": "Hans-Beimler-Straße",
+      "street_number": "",
+      "description": "Annaberger Straße",
+      "borough": "Nordwest",
+      "postcode": "04159",
+      "district": "Möckern",
+      "districtId": "moeckern"
+    },
+    {
+      "street": "Yorckstraße",
+      "street_number": "",
+      "description": "Höhe Erika-von-Brockdorff-Straße",
+      "borough": "Nordwest",
+      "postcode": "04159",
+      "district": "Möckern",
+      "districtId": "moeckern"
+    },
+    {
+      "street": "Max-Liebermann-Straße",
+      "street_number": "",
+      "description": "Höhe Defoestraße",
+      "borough": "Nordwest",
+      "postcode": "04159",
+      "district": "Möckern",
+      "districtId": "moeckern"
+    }
+  ]

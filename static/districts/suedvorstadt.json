@@ -1,0 +1,38 @@
+[
+    {
+      "street": "Bernhard-Göring-Straße",
+      "street_number": 43,
+      "description": "ggü. Albrecht-Dürer-Platz",
+      "borough": "Süd",
+      "postcode": "04275",
+      "district": "Südvorstadt",
+      "districtId": "suedvorstadt"
+    },
+    {
+      "street": "Fockestraße",
+      "street_number": 12,
+      "description": "Höhe Kurt-Eisner-Straße",
+      "borough": "Süd",
+      "postcode": "04275",
+      "district": "Südvorstadt",
+      "districtId": "suedvorstadt"
+    },
+    {
+      "street": "Karl-Liebknecht-Straße",
+      "street_number": "",
+      "description": "Höhe Hardenbergstraße",
+      "borough": "Süd",
+      "postcode": "04275",
+      "district": "Südvorstadt",
+      "districtId": "suedvorstadt"
+    },
+    {
+      "street": "Kohlenstraße",
+      "street_number": "",
+      "description": "Höhe Körnerstraße",
+      "borough": "Süd",
+      "postcode": "04275",
+      "district": "Südvorstadt",
+      "districtId": "suedvorstadt"
+    }
+  ]

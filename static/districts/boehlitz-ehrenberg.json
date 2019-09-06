@@ -1,0 +1,74 @@
+[
+    {
+      "street": "Ammernplatz",
+      "street_number": "",
+      "description": "auf Teerosenweg/Sprikkenweg",
+      "borough": "Alt-West",
+      "postcode": "04178",
+      "district": "Böhlitz-Ehrenberg",
+      "districtId": "boehlitz-ehrenberg"
+    },
+    {
+      "street": "An der Luppe",
+      "street_number": "",
+      "description": "auf Platz Robert-Koch-Straße/Am Sportpark",
+      "borough": "Alt-West",
+      "postcode": "04178",
+      "district": "Böhlitz-Ehrenberg",
+      "districtId": "boehlitz-ehrenberg"
+    },
+    {
+      "street": "Feldlerchenweg",
+      "street_number": "",
+      "description": "Bielastraße",
+      "borough": "Alt-West",
+      "postcode": "04178",
+      "district": "Böhlitz-Ehrenberg",
+      "districtId": "boehlitz-ehrenberg"
+    },
+    {
+      "street": "Frankenweg",
+      "street_number": "",
+      "description": "",
+      "borough": "Alt-West",
+      "postcode": "04178",
+      "district": "Böhlitz-Ehrenberg",
+      "districtId": "boehlitz-ehrenberg"
+    },
+    {
+      "street": "Heinrich-Heine-Straße",
+      "street_number": "",
+      "description": "Parkplatz Einkaufsmarkt",
+      "borough": "Alt-West",
+      "postcode": "04178",
+      "district": "Böhlitz-Ehrenberg",
+      "districtId": "boehlitz-ehrenberg"
+    },
+    {
+      "street": "Mitschurinring",
+      "street_number": "",
+      "description": "nahe Lützschenaer Straße",
+      "borough": "Alt-West",
+      "postcode": "04178",
+      "district": "Böhlitz-Ehrenberg",
+      "districtId": "boehlitz-ehrenberg"
+    },
+    {
+      "street": "Pestalozzistraße",
+      "street_number": "",
+      "description": "Parkplatz am Einkaufsmarkt",
+      "borough": "Alt-West",
+      "postcode": "04178",
+      "district": "Böhlitz-Ehrenberg",
+      "districtId": "boehlitz-ehrenberg"
+    },
+    {
+      "street": "Südstraße",
+      "street_number": "",
+      "description": "Ecke Waldmeisterweg",
+      "borough": "Alt-West",
+      "postcode": "04178",
+      "district": "Böhlitz-Ehrenberg",
+      "districtId": "boehlitz-ehrenberg"
+    }
+  ]

@@ -1,0 +1,102 @@
+[
+  {
+    "street": "Nürnberger Straße",
+    "street_number": 45,
+    "description": "Höhe Bauhofstraße",
+    "borough": "Mitte",
+    "postcode": "04103",
+    "district": "Zentrum-Südost",
+    "districtId": "zentrum-suedost"
+    
+  },
+  {
+    "street": "Semmelweisstraße",
+    "street_number": "",
+    "description": "Höhe Straße des 18. Oktober",
+    "borough": "Mitte",
+    "postcode": "04103",
+    "district": "Zentrum-Südost",
+    "districtId": "zentrum-suedost"
+    
+  },
+  {
+    "street": "Straße des 18. Oktober",
+    "street_number": "",
+    "description": "Studentenwohnheim",
+    "borough": "Mitte",
+    "postcode": "04103",
+    "district": "Zentrum-Südost",
+    "districtId": "zentrum-suedost"
+    
+  },
+  {
+    "street": "Straße des 18. Oktober",
+    "street_number": "",
+    "description": "Höhe Johannisallee",
+    "borough": "Mitte",
+    "postcode": "04103",
+    "district": "Zentrum-Südost",
+    "districtId": "zentrum-suedost"
+    
+  },
+  {
+    "street": "Täubchenweg",
+    "street_number": "",
+    "description": "Höhe Spohrstraße",
+    "borough": "Mitte",
+    "postcode": "04103",
+    "district": "Zentrum-Südost",
+    "districtId": "zentrum-suedost"
+    
+  },
+  {
+    "street": "Talstraße",
+    "street_number": "",
+    "description": "auf Prager Straße an Litfaßsäule",
+    "borough": "Mitte",
+    "postcode": "04103",
+    "district": "Zentrum-Südost",
+    "districtId": "zentrum-suedost"
+    
+  },
+  {
+    "street": "Tarostraße",
+    "street_number": 18,
+    "description": "Studentenwohnheim",
+    "borough": "Mitte",
+    "postcode": "04103",
+    "district": "Zentrum-Südost",
+    "districtId": "zentrum-suedost"
+    
+  },
+  {
+    "street": "Tarostraße",
+    "street_number": 2,
+    "description": "Einkaufsmarkt",
+    "borough": "Mitte",
+    "postcode": "04103",
+    "district": "Zentrum-Südost",
+    "districtId": "zentrum-suedost"
+    
+  },
+  {
+    "street": "Tarostraße",
+    "street_number": 8,
+    "description": "",
+    "borough": "Mitte",
+    "postcode": "04103",
+    "district": "Zentrum-Südost",
+    "districtId": "zentrum-suedost"
+    
+  },
+  {
+    "street": "Windmühlenstraße",
+    "street_number": 31,
+    "description": "Höhe Emilienstraße",
+    "borough": "Mitte",
+    "postcode": "04103",
+    "district": "Zentrum-Südost",
+    "districtId": "zentrum-suedost"
+    
+  }
+]

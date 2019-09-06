@@ -1,0 +1,191 @@
+[
+    {
+      "street": "Am Grund",
+      "street_number": 2,
+      "description": "",
+      "borough": "West",
+      "postcode": "04207",
+      "district": "Lausen-Grünau",
+      "districtId": "lausen-gruenau"
+    },
+    {
+      "street": "Am Grund",
+      "street_number": 70,
+      "description": "Höhe Zschampertaue",
+      "borough": "West",
+      "postcode": "04207",
+      "district": "Lausen-Grünau",
+      "districtId": "lausen-gruenau"
+    },
+    {
+      "street": "An der Kotsche",
+      "street_number": 15,
+      "description": "Parktasche",
+      "borough": "West",
+      "postcode": "04207",
+      "district": "Lausen-Grünau",
+      "districtId": "lausen-gruenau"
+    },
+    {
+      "street": "An der Lautsche",
+      "street_number": 26,
+      "description": "",
+      "borough": "West",
+      "postcode": "04207",
+      "district": "Lausen-Grünau",
+      "districtId": "lausen-gruenau"
+    },
+    {
+      "street": "Basteistraße",
+      "street_number": 15,
+      "description": "Höhe Liliensteinstraße",
+      "borough": "West",
+      "postcode": "04207",
+      "district": "Lausen-Grünau",
+      "districtId": "lausen-gruenau"
+    },
+    {
+      "street": "Binzer Straße",
+      "street_number": 14,
+      "description": "78. Grundschule",
+      "borough": "West",
+      "postcode": "04207",
+      "district": "Lausen-Grünau",
+      "districtId": "lausen-gruenau"
+    },
+    {
+      "street": "Brackestraße",
+      "street_number": 31,
+      "description": "ggü.",
+      "borough": "West",
+      "postcode": "04207",
+      "district": "Lausen-Grünau",
+      "districtId": "lausen-gruenau"
+    },
+    {
+      "street": "Brackestraße",
+      "street_number": 41,
+      "description": "Höhe Seffnerstraße",
+      "borough": "West",
+      "postcode": "04207",
+      "district": "Lausen-Grünau",
+      "districtId": "lausen-gruenau"
+    },
+    {
+      "street": "Deiwitzweg",
+      "street_number": 3,
+      "description": "",
+      "borough": "West",
+      "postcode": "04207",
+      "district": "Lausen-Grünau",
+      "districtId": "lausen-gruenau"
+    },
+    {
+      "street": "Königsteinstraße",
+      "street_number": 13,
+      "description": "Parktasche",
+      "borough": "West",
+      "postcode": "04207",
+      "district": "Lausen-Grünau",
+      "districtId": "lausen-gruenau"
+    },
+    {
+      "street": "Königsteinstraße",
+      "street_number": 43,
+      "description": "",
+      "borough": "West",
+      "postcode": "04207",
+      "district": "Lausen-Grünau",
+      "districtId": "lausen-gruenau"
+    },
+    {
+      "street": "Liliensteinstraße",
+      "street_number": 11,
+      "description": "",
+      "borough": "West",
+      "postcode": "04207",
+      "district": "Lausen-Grünau",
+      "districtId": "lausen-gruenau"
+    },
+    {
+      "street": "Pfaffensteinstraße",
+      "street_number": 6,
+      "description": "Höhe Königsteinstraße, Parkplatz",
+      "borough": "West",
+      "postcode": "04207",
+      "district": "Lausen-Grünau",
+      "districtId": "lausen-gruenau"
+    },
+    {
+      "street": "Plovdiver Straße",
+      "street_number": "",
+      "description": "Parkplatz Miltitzer Straße 42d",
+      "borough": "West",
+      "postcode": "04207",
+      "district": "Lausen-Grünau",
+      "districtId": "lausen-gruenau"
+    },
+    {
+      "street": "Salzweg",
+      "street_number": "",
+      "description": "80 m hinter Kreuzung Staffelsteinstraße",
+      "borough": "West",
+      "postcode": "04207",
+      "district": "Lausen-Grünau",
+      "districtId": "lausen-gruenau"
+    },
+    {
+      "street": "Schrammsteinstraße",
+      "street_number": "",
+      "description": "Höhe Basteistraße/Parktasche",
+      "borough": "West",
+      "postcode": "04207",
+      "district": "Lausen-Grünau",
+      "districtId": "lausen-gruenau"
+    },
+    {
+      "street": "Selliner Straße",
+      "street_number": 21,
+      "description": "Parkplatz",
+      "borough": "West",
+      "postcode": "04207",
+      "district": "Lausen-Grünau",
+      "districtId": "lausen-gruenau"
+    },
+    {
+      "street": "Zingster Straße",
+      "street_number": "",
+      "description": "Nähe Straße am See an Litfaßsäule",
+      "borough": "West",
+      "postcode": "04207",
+      "district": "Lausen-Grünau",
+      "districtId": "lausen-gruenau"
+    },
+    {
+      "street": "Zingster Straße",
+      "street_number": 30,
+      "description": "Ecke Zingster Straße am Schulhof",
+      "borough": "West",
+      "postcode": "04207",
+      "district": "Lausen-Grünau",
+      "districtId": "lausen-gruenau"
+    },
+    {
+      "street": "Zschampertaue",
+      "street_number": 18,
+      "description": "",
+      "borough": "West",
+      "postcode": "04207",
+      "district": "Lausen-Grünau",
+      "districtId": "lausen-gruenau"
+    },
+    {
+      "street": "Zur Heide",
+      "street_number": "",
+      "description": "Höhe Regenbogen",
+      "borough": "West",
+      "postcode": "04207",
+      "district": "Lausen-Grünau",
+      "districtId": "lausen-gruenau"
+    }
+  ]

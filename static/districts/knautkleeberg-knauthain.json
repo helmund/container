@@ -1,0 +1,38 @@
+[
+    {
+      "street": "Dieskaustraße",
+      "street_number": 375,
+      "description": "Schlippe/Gartenverein",
+      "borough": "Südwest",
+      "postcode": "04249",
+      "district": "Knautkleeberg-Knauthain",
+      "districtId": "knautkleeberg-knauthain"
+    },
+    {
+      "street": "Dieskaustraße",
+      "street_number": 483,
+      "description": "An Tankstelle",
+      "borough": "Südwest",
+      "postcode": "04249",
+      "district": "Knautkleeberg-Knauthain",
+      "districtId": "knautkleeberg-knauthain"
+    },
+    {
+      "street": "Seumestraße",
+      "street_number": 20,
+      "description": "Ecke Göhrenzer Straße",
+      "borough": "Südwest",
+      "postcode": "04249",
+      "district": "Knautkleeberg-Knauthain",
+      "districtId": "knautkleeberg-knauthain"
+    },
+    {
+      "street": "Wildentensteig",
+      "street_number": "",
+      "description": "am Gartenverein, 60 m hinter Kreuzung",
+      "borough": "Südwest",
+      "postcode": "04249",
+      "district": "Knautkleeberg-Knauthain",
+      "districtId": "knautkleeberg-knauthain"
+    }
+  ]

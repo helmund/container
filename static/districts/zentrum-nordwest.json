@@ -1,0 +1,38 @@
+[
+  {
+    "street": "Friedrich-Ebert-Straße",
+    "street_number": 116,
+    "description": "Höhe Schule",
+    "borough": "Mitte",
+    "postcode": "04105",
+    "district": "Zentrum-Nordwest",
+    "districtId": "zentrum-nordwest"
+  },
+  {
+    "street": "Goyastraße",
+    "street_number": 12,
+    "description": "",
+    "borough": "Mitte",
+    "postcode": "04105",
+    "district": "Zentrum-Nordwest",
+    "districtId": "zentrum-nordwest"
+  },
+  {
+    "street": "Kickerlingsberg",
+    "street_number": "",
+    "description": "zw. Preller- u. Ehrensteinstraße",
+    "borough": "Mitte",
+    "postcode": "04105",
+    "district": "Zentrum-Nordwest",
+    "districtId": "zentrum-nordwest"
+  },
+  {
+    "street": "Waldstraße",
+    "street_number": 177,
+    "description": "ggü. Möckernsche Allee/Sportplatz",
+    "borough": "Mitte",
+    "postcode": "04105",
+    "district": "Zentrum-Nordwest",
+    "districtId": "zentrum-nordwest"
+  }
+]

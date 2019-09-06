@@ -1,0 +1,56 @@
+[
+    {
+      "street": "Erich-Thiele-Straße",
+      "street_number": "",
+      "description": "Karl-Marx-Platz",
+      "borough": "Nordwest",
+      "postcode": "04158",
+      "district": "Lindenthal",
+      "districtId": "lindenthal"
+    },
+    {
+      "street": "Gartenwinkel",
+      "street_number": 2,
+      "description": "Sportplatz",
+      "borough": "Nordwest",
+      "postcode": "04158",
+      "district": "Lindenthal",
+      "districtId": "lindenthal"
+    },
+    {
+      "street": "Lange Trift",
+      "street_number": "",
+      "description": "Triftsiedlung",
+      "borough": "Nordwest",
+      "postcode": "04158",
+      "district": "Lindenthal",
+      "districtId": "lindenthal"
+    },
+    {
+      "street": "Parkring",
+      "street_number": "",
+      "description": "Ecke Zur Alten Schmiede",
+      "borough": "Nordwest",
+      "postcode": "04158",
+      "district": "Lindenthal",
+      "districtId": "lindenthal"
+    },
+    {
+      "street": "Wahrener Straße",
+      "street_number": "",
+      "description": "Weststraße",
+      "borough": "Nordwest",
+      "postcode": "04158",
+      "district": "Lindenthal",
+      "districtId": "lindenthal"
+    },
+    {
+      "street": "Zur Lindenhöhe",
+      "street_number": 1,
+      "description": "ggü. An der Hufschmiede",
+      "borough": "Nordwest",
+      "postcode": "04158",
+      "district": "Lindenthal",
+      "districtId": "lindenthal"
+    }
+  ]

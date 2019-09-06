@@ -1,0 +1,65 @@
+[
+    {
+      "street": "Franz-Flemming-Straße",
+      "street_number": "",
+      "description": "Sattelhofstraße neben Autohaus",
+      "borough": "Alt-West",
+      "postcode": "04179",
+      "district": "Leutzsch",
+      "districtId": "leutzsch"
+    },
+    {
+      "street": "Hans-Driesch-Straße",
+      "street_number": "",
+      "description": "ggü. Laurentiuskirche",
+      "borough": "Alt-West",
+      "postcode": "04179",
+      "district": "Leutzsch",
+      "districtId": "leutzsch"
+    },
+    {
+      "street": "Pfingstweide",
+      "street_number": "",
+      "description": "Höhe Rathenaustraße/Insel",
+      "borough": "Alt-West",
+      "postcode": "04179",
+      "district": "Leutzsch",
+      "districtId": "leutzsch"
+    },
+    {
+      "street": "Pfingstweide",
+      "street_number": 23,
+      "description": "Höhe Heimteichstraße",
+      "borough": "Alt-West",
+      "postcode": "04179",
+      "district": "Leutzsch",
+      "districtId": "leutzsch"
+    },
+    {
+      "street": "Philipp-Reis-Straße",
+      "street_number": "",
+      "description": "Höhe Heimteichstraße",
+      "borough": "Alt-West",
+      "postcode": "04179",
+      "district": "Leutzsch",
+      "districtId": "leutzsch"
+    },
+    {
+      "street": "Rückmarsdorfer Straße",
+      "street_number": 18,
+      "description": "Höhe Junghanßstrasse",
+      "borough": "Alt-West",
+      "postcode": "04179",
+      "district": "Leutzsch",
+      "districtId": "leutzsch"
+    },
+    {
+      "street": "Rathenaustraße",
+      "street_number": "",
+      "description": "Ende Rathenaustraße/Bahngelände",
+      "borough": "Alt-West",
+      "postcode": "04179",
+      "district": "Leutzsch",
+      "districtId": "leutzsch"
+    }
+  ]

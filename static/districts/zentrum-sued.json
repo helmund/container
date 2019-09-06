@@ -1,0 +1,92 @@
+[
+  {
+    "street": "Arthur-Hoffmann-Straße",
+    "street_number": "",
+    "description": "Ecke Hohe Straße",
+    "borough": "Mitte",
+    "postcode": "04107",
+    "district": "Zentrum-Süd",
+    "districtId": "zentrum-sued"
+  },
+  {
+    "street": "Bernhard-Göring-Straße",
+    "street_number": "",
+    "description": "Höhe Schletterstraße",
+    "borough": "Mitte",
+    "postcode": "04107",
+    "district": "Zentrum-Süd",
+    "districtId": "zentrum-sued"
+  },
+  {
+    "street": "Dufourstraße",
+    "street_number": "",
+    "description": "zwischen Braustraße und Einmündung",
+    "borough": "Mitte",
+    "postcode": "04107",
+    "district": "Zentrum-Süd",
+    "districtId": "zentrum-sued"
+  },
+  {
+    "street": "Ferdinand-Rhode-Straße",
+    "street_number": "",
+    "description": "Höhe Telemannstraße",
+    "borough": "Mitte",
+    "postcode": "04107",
+    "district": "Zentrum-Süd",
+    "districtId": "zentrum-sued"
+  },
+  {
+    "street": "Haydnstraße",
+    "street_number": "",
+    "description": "Ecke Karl-Tauchnitz-Straße",
+    "borough": "Mitte",
+    "postcode": "04107",
+    "district": "Zentrum-Süd",
+    "districtId": "zentrum-sued"
+  },
+  {
+    "street": "Karl-Liebknecht-Straße",
+    "street_number": 34,
+    "description": "Ecke Braustraße",
+    "borough": "Mitte",
+    "postcode": "04107",
+    "district": "Zentrum-Süd",
+    "districtId": "zentrum-sued"
+  },
+  {
+    "street": "Lößniger Straße",
+    "street_number": 7,
+    "description": "WSH (mit Altglas-Annahme)",
+    "borough": "Mitte",
+    "postcode": "04107",
+    "district": "Zentrum-Süd",
+    "districtId": "zentrum-sued"
+  },
+  {
+    "street": "Mozartstraße",
+    "street_number": "",
+    "description": "ggü. Nr. 3, Ecke Simson-/Lampestraße",
+    "borough": "Mitte",
+    "postcode": "04107",
+    "district": "Zentrum-Süd",
+    "districtId": "zentrum-sued"
+  },
+  {
+    "street": "Wächterstraße",
+    "street_number": "",
+    "description": "Ecke Grassistraße",
+    "borough": "Mitte",
+    "postcode": "04107",
+    "district": "Zentrum-Süd",
+    "districtId": "zentrum-sued"
+  },
+  {
+    "street": "Wächterstraße",
+    "street_number": 36,
+    "description": "Höhe",
+    "borough": "Mitte",
+    "postcode": "04107",
+    "district": "Zentrum-Süd",
+    "districtId": "zentrum-sued"
+  }
+]

@@ -1,0 +1,38 @@
+[
+    {
+      "street": "Am Ring",
+      "street_number": "",
+      "description": "am Dorfteich",
+      "borough": "Nord",
+      "postcode": "04356",
+      "district": "Seehausen",
+      "districtId": "seehausen"
+    },
+    {
+      "street": "An der Hauptstraße",
+      "street_number": "",
+      "description": "Ecke Am Feld",
+      "borough": "Nord",
+      "postcode": "04356",
+      "district": "Seehausen",
+      "districtId": "seehausen"
+    },
+    {
+      "street": "Gutsweg",
+      "street_number": "",
+      "description": "Ecke Töpferweg/Hohe Heide",
+      "borough": "Nord",
+      "postcode": "04356",
+      "district": "Seehausen",
+      "districtId": "seehausen"
+    },
+    {
+      "street": "Seehausener Allee",
+      "street_number": 35,
+      "description": "ggü./Feuerwehr",
+      "borough": "Nord",
+      "postcode": "04356",
+      "district": "Seehausen",
+      "districtId": "seehausen"
+    }
+  ]

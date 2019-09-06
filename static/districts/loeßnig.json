@@ -1,0 +1,110 @@
+[
+    {
+      "street": "Bernhard-Kellermann-Straße",
+      "street_number": 8,
+      "description": "Höhe Probstheidaer Straße",
+      "borough": "Süd",
+      "postcode": "04279",
+      "district": "Lößnig",
+      "districtId": "loeßnig"
+    },
+    {
+      "street": "Dürrstraße",
+      "street_number": 69,
+      "description": "Höhe Zehmischstraße",
+      "borough": "Süd",
+      "postcode": "04279",
+      "district": "Lößnig",
+      "districtId": "loeßnig"
+    },
+    {
+      "street": "Hans-Marchwitza-Straße",
+      "street_number": "",
+      "description": "Ecke Johannes-R.-Becher-Straße",
+      "borough": "Süd",
+      "postcode": "04279",
+      "district": "Lößnig",
+      "districtId": "loeßnig"
+    },
+    {
+      "street": "Johannes-R.-Becher-Straße",
+      "street_number": 11,
+      "description": "hinter Studentenwohnheim",
+      "borough": "Süd",
+      "postcode": "04279",
+      "district": "Lößnig",
+      "districtId": "loeßnig"
+    },
+    {
+      "street": "Johannes-R.-Becher-Straße",
+      "street_number": 13,
+      "description": "WSH (mit Altglas-Annahme)",
+      "borough": "Süd",
+      "postcode": "04279",
+      "district": "Lößnig",
+      "districtId": "loeßnig"
+    },
+    {
+      "street": "Johannes-R.-Becher-Straße",
+      "street_number": 22,
+      "description": "",
+      "borough": "Süd",
+      "postcode": "04279",
+      "district": "Lößnig",
+      "districtId": "loeßnig"
+    },
+    {
+      "street": "Johannes-R.-Becher-Straße",
+      "street_number": 3,
+      "description": "Höhe Zwickauer Straße",
+      "borough": "Süd",
+      "postcode": "04279",
+      "district": "Lößnig",
+      "districtId": "loeßnig"
+    },
+    {
+      "street": "Kurt-Tucholsky-Straße",
+      "street_number": 2,
+      "description": "Parkplatz",
+      "borough": "Süd",
+      "postcode": "04279",
+      "district": "Lößnig",
+      "districtId": "loeßnig"
+    },
+    {
+      "street": "Liechtensteinstraße",
+      "street_number": "",
+      "description": "Höhe Lobstädter Straße",
+      "borough": "Süd",
+      "postcode": "04279",
+      "district": "Lößnig",
+      "districtId": "loeßnig"
+    },
+    {
+      "street": "Probstheidaer Straße",
+      "street_number": "",
+      "description": "Höhe Hans-Otto-Straße",
+      "borough": "Süd",
+      "postcode": "04279",
+      "district": "Lößnig",
+      "districtId": "loeßnig"
+    },
+    {
+      "street": "Siegfriedstraße",
+      "street_number": "",
+      "description": "Kaufhalle",
+      "borough": "Süd",
+      "postcode": "04279",
+      "district": "Lößnig",
+      "districtId": "loeßnig"
+    },
+    {
+      "street": "Zwickauer Straße",
+      "street_number": "",
+      "description": "Höhe Dankwartstraße",
+      "borough": "Süd",
+      "postcode": "04279",
+      "district": "Lößnig",
+      "districtId": "loeßnig"
+    }
+  ]

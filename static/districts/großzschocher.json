@@ -1,0 +1,74 @@
+[
+    {
+      "street": "Arthur-Nagel-Straße",
+      "street_number": "",
+      "description": "Höhe Kloßstraße",
+      "borough": "Südwest",
+      "postcode": "04249",
+      "district": "Großzschocher",
+      "districtId": "großzschocher"
+    },
+    {
+      "street": "Arthur-Nagel-Straße",
+      "street_number": 7,
+      "description": "Höhe Otto-Militzer-Straße/Parktasche",
+      "borough": "Südwest",
+      "postcode": "04249",
+      "district": "Großzschocher",
+      "districtId": "großzschocher"
+    },
+    {
+      "street": "Brauereistraße",
+      "street_number": "",
+      "description": "Höhe Einkaufsmarkt",
+      "borough": "Südwest",
+      "postcode": "04249",
+      "district": "Großzschocher",
+      "districtId": "großzschocher"
+    },
+    {
+      "street": "Dieskaustraße",
+      "street_number": 295,
+      "description": "gegenüber auf der Freifläche",
+      "borough": "Südwest",
+      "postcode": "04249",
+      "district": "Großzschocher",
+      "districtId": "großzschocher"
+    },
+    {
+      "street": "Eichelbaumstraße",
+      "street_number": 15,
+      "description": "Kaufhalle",
+      "borough": "Südwest",
+      "postcode": "04249",
+      "district": "Großzschocher",
+      "districtId": "großzschocher"
+    },
+    {
+      "street": "Kloßstraße",
+      "street_number": "",
+      "description": "Höhe Bismarckstraße/Parkplatz",
+      "borough": "Südwest",
+      "postcode": "04249",
+      "district": "Großzschocher",
+      "districtId": "großzschocher"
+    },
+    {
+      "street": "Neubauernstraße",
+      "street_number": 9,
+      "description": "Rapsweg/Neubauernstraße",
+      "borough": "Südwest",
+      "postcode": "04249",
+      "district": "Großzschocher",
+      "districtId": "großzschocher"
+    },
+    {
+      "street": "Raiffeisenstraße",
+      "street_number": "",
+      "description": "gegenüber Bushaltestelle",
+      "borough": "Südwest",
+      "postcode": "04249",
+      "district": "Großzschocher",
+      "districtId": "großzschocher"
+    }
+  ]

@@ -1,0 +1,65 @@
+[
+    {
+      "street": "Hans-Oster-Straße",
+      "street_number": "",
+      "description": "Höhe Landsberger Straße",
+      "borough": "Nord",
+      "postcode": "04157",
+      "district": "Gohlis-Nord",
+      "districtId": "gohlis-nord"
+    },
+    {
+      "street": "Max-Liebermann-Straße",
+      "street_number": 61,
+      "description": "Einkaufsmarkt",
+      "borough": "Nord",
+      "postcode": "04157",
+      "district": "Gohlis-Nord",
+      "districtId": "gohlis-nord"
+    },
+    {
+      "street": "Max-Liebermann-Straße",
+      "street_number": 97,
+      "description": "WSH (mit Altglasannahme)",
+      "borough": "Nord",
+      "postcode": "04157",
+      "district": "Gohlis-Nord",
+      "districtId": "gohlis-nord"
+    },
+    {
+      "street": "Sylter Straße",
+      "street_number": "",
+      "description": "Tankstelle Höhe Jörgen-Schmidtchen-Weg/Parkplatz",
+      "borough": "Nord",
+      "postcode": "04157",
+      "district": "Gohlis-Nord",
+      "districtId": "gohlis-nord"
+    },
+    {
+      "street": "Sylter Straße",
+      "street_number": 29,
+      "description": "Parkplatz",
+      "borough": "Nord",
+      "postcode": "04157",
+      "district": "Gohlis-Nord",
+      "districtId": "gohlis-nord"
+    },
+    {
+      "street": "Viertelsweg",
+      "street_number": 58,
+      "description": "Höhe Landsberger Straße/Kaufhalle",
+      "borough": "Nord",
+      "postcode": "04157",
+      "district": "Gohlis-Nord",
+      "districtId": "gohlis-nord"
+    },
+    {
+      "street": "Wangerooger Weg",
+      "street_number": 5,
+      "description": "Ecke Bremer Straße",
+      "borough": "Nord",
+      "postcode": "04157",
+      "district": "Gohlis-Nord",
+      "districtId": "gohlis-nord"
+    }
+  ]

@@ -1,0 +1,56 @@
+[
+  {
+    "street": "Ferdinand-Lassalle-Straße",
+    "street_number": "",
+    "description": "Einmündung Max-Reger-Allee (Elster)",
+    "borough": "Mitte",
+    "postcode": "04109",
+    "district": "Zentrum-West",
+    "districtId": "zentrum-west"
+  },
+  {
+    "street": "Käthe-Kollwitz-Straße",
+    "street_number": "",
+    "description": "Höhe Alexanderstraße",
+    "borough": "Mitte",
+    "postcode": "04109",
+    "district": "Zentrum-West",
+    "districtId": "zentrum-west"
+  },
+  {
+    "street": "Lessingstraße",
+    "street_number": 10,
+    "description": "Feuerwache",
+    "borough": "Mitte",
+    "postcode": "04109",
+    "district": "Zentrum-West",
+    "districtId": "zentrum-west"
+  },
+  {
+    "street": "Marschnerstraße",
+    "street_number": 29,
+    "description": "ggü. Aachener Straße",
+    "borough": "Mitte",
+    "postcode": "04109",
+    "district": "Zentrum-West",
+    "districtId": "zentrum-west"
+  },
+  {
+    "street": "Rudolphstraße",
+    "street_number": "",
+    "description": "Höhe Martin-Luther-Ring",
+    "borough": "Mitte",
+    "postcode": "04109",
+    "district": "Zentrum-West",
+    "districtId": "zentrum-west"
+  },
+  {
+    "street": "Sebastian-Bach-Straße",
+    "street_number": "",
+    "description": "Höhe Hauptmannstraße/Kaufhalle",
+    "borough": "Mitte",
+    "postcode": "04109",
+    "district": "Zentrum-West",
+    "districtId": "zentrum-west"
+  }
+]

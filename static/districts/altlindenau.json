@@ -1,0 +1,38 @@
+[
+    {
+      "street": "Demmeringstraße",
+      "street_number": 84,
+      "description": "Höhe Schule",
+      "borough": "Alt-West",
+      "postcode": "04177",
+      "district": "Altlindenau",
+      "districtId": "altlindenau"
+    },
+    {
+      "street": "Karl-Ferlemann-Straße",
+      "street_number": "",
+      "description": "Höhe Merseburger Straße/Tankstelle",
+      "borough": "Alt-West",
+      "postcode": "04177",
+      "district": "Altlindenau",
+      "districtId": "altlindenau"
+    },
+    {
+      "street": "Merseburger Straße",
+      "street_number": "",
+      "description": "gegenüber Calvisiusstraße, Höhe Einkaufsmarkt",
+      "borough": "Alt-West",
+      "postcode": "04177",
+      "district": "Altlindenau",
+      "districtId": "altlindenau"
+    },
+    {
+      "street": "Rietschelstraße",
+      "street_number": "",
+      "description": "Höhe Friesenstraße",
+      "borough": "Alt-West",
+      "postcode": "04177",
+      "district": "Altlindenau",
+      "districtId": "altlindenau"
+    }
+  ]

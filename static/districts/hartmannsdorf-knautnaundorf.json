@@ -1,0 +1,29 @@
+[
+    {
+      "street": "Erikenstraße",
+      "street_number": 32,
+      "description": "zwischen Birkenweg und Gartenweg",
+      "borough": "Südwest",
+      "postcode": "04249",
+      "district": "Hartmannsdorf-Knautnaundorf",
+      "districtId": "hartmannsdorf-knautnaundorf"
+    },
+    {
+      "street": "Erikenstraße",
+      "street_number": 46,
+      "description": "ggü.",
+      "borough": "Südwest",
+      "postcode": "04249",
+      "district": "Hartmannsdorf-Knautnaundorf",
+      "districtId": "hartmannsdorf-knautnaundorf"
+    },
+    {
+      "street": "Rehbacher Anger",
+      "street_number": "",
+      "description": "neben Haltestellenhäuschen",
+      "borough": "Südwest",
+      "postcode": "04249",
+      "district": "Hartmannsdorf-Knautnaundorf",
+      "districtId": "hartmannsdorf-knautnaundorf"
+    }
+  ]

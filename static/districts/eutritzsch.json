@@ -1,0 +1,74 @@
+[
+    {
+      "street": "Görlitzer Straße",
+      "street_number": "",
+      "description": "Höhe Schönefelder Straße",
+      "borough": "Nord",
+      "postcode": "04129",
+      "district": "Eutritzsch",
+      "districtId": "eutritzsch"
+    },
+    {
+      "street": "Gottschallstraße",
+      "street_number": "",
+      "description": "Höhe Kleiststraße/Bretschneider-Park",
+      "borough": "Nord",
+      "postcode": "04129",
+      "district": "Eutritzsch",
+      "districtId": "eutritzsch"
+    },
+    {
+      "street": "Hartzstraße",
+      "street_number": "",
+      "description": "Einkaufsmarkt",
+      "borough": "Nord",
+      "postcode": "04129",
+      "district": "Eutritzsch",
+      "districtId": "eutritzsch"
+    },
+    {
+      "street": "Schönefelder Straße",
+      "street_number": "",
+      "description": "Höhe Theresienstraße",
+      "borough": "Nord",
+      "postcode": "04129",
+      "district": "Eutritzsch",
+      "districtId": "eutritzsch"
+    },
+    {
+      "street": "Schönefelder Straße",
+      "street_number": "",
+      "description": "Höhe Delitzscher Straße",
+      "borough": "Nord",
+      "postcode": "04129",
+      "district": "Eutritzsch",
+      "districtId": "eutritzsch"
+    },
+    {
+      "street": "Schiebestraße",
+      "street_number": "",
+      "description": "Bernburger Straße/Arthur-Hausmann-Straße",
+      "borough": "Nord",
+      "postcode": "04129",
+      "district": "Eutritzsch",
+      "districtId": "eutritzsch"
+    },
+    {
+      "street": "Wittenberger Straße",
+      "street_number": 29,
+      "description": "Höhe Theresienstraße",
+      "borough": "Nord",
+      "postcode": "04129",
+      "district": "Eutritzsch",
+      "districtId": "eutritzsch"
+    },
+    {
+      "street": "Zschortauer Straße",
+      "street_number": "",
+      "description": "Höhe Tellweg",
+      "borough": "Nord",
+      "postcode": "04129",
+      "district": "Eutritzsch",
+      "districtId": "eutritzsch"
+    }
+  ]

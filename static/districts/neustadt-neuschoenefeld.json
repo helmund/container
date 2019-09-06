@@ -1,0 +1,47 @@
+[
+  {
+    "street": "Comeniusstraße",
+    "street_number": "",
+    "description": "Höhe Kohlgartenstraße",
+    "borough": "Ost",
+    "postcode": "04315",
+    "district": "Neustadt-Neuschönefeld",
+    "districtId": "neustadt-neuschoenefeld"
+  },
+  {
+    "street": "Kuchengartenstraße",
+    "street_number": "",
+    "description": "Höhe Gabelsberger Straße",
+    "borough": "Ost",
+    "postcode": "04315",
+    "district": "Neustadt-Neuschönefeld",
+    "districtId": "neustadt-neuschoenefeld"
+  },
+  {
+    "street": "Lilienstraße",
+    "street_number": "",
+    "description": "Höhe Köhlerstraße",
+    "borough": "Ost",
+    "postcode": "04315",
+    "district": "Neustadt-Neuschönefeld",
+    "districtId": "neustadt-neuschoenefeld"
+  },
+  {
+    "street": "Melanchthonstraße",
+    "street_number": 1,
+    "description": "Höhe Lutherstraße",
+    "borough": "Ost",
+    "postcode": "04315",
+    "district": "Neustadt-Neuschönefeld",
+    "districtId": "neustadt-neuschoenefeld"
+  },
+  {
+    "street": "Neustädter Straße",
+    "street_number": "",
+    "description": "Ecke Lorenzstraße",
+    "borough": "Ost",
+    "postcode": "04315",
+    "district": "Neustadt-Neuschönefeld",
+    "districtId": "neustadt-neuschoenefeld"
+  }
+]
