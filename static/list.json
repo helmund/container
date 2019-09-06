@@ -4,4151 +4,3915 @@
     "street_number": "",
     "description": "Ecke Lange Straße",
     "borough": "Mitte",
-    "postcode": "D-04103",
-    "district": "Zentrum-Ost"
+    "postcode": "04103",
+    "district": "Zentrum-Ost",
+    "districtId": "zentrum-ost"
   },
   {
     "street": "Johannisplatz",
     "street_number": "",
     "description": "auf Querstraße ggü Nr. 15",
     "borough": "Mitte",
-    "postcode": "D-04103",
-    "district": "Zentrum-Ost"
+    "postcode": "04103",
+    "district": "Zentrum-Ost",
+    "districtId": "zentrum-ost"
   },
   {
     "street": "Kurt-Schumacher-Straße",
     "street_number": 12,
     "description": "Wendeschleife",
     "borough": "Mitte",
-    "postcode": "D-04103",
-    "district": "Zentrum-Ost"
+    "postcode": "04103",
+    "district": "Zentrum-Ost",
+    "districtId": "zentrum-ost"
   },
   {
     "street": "Rosa-Luxemburg-Straße",
     "street_number": 49,
     "description": "Höhe Schulze-Delitzsch-Straße",
     "borough": "Mitte",
-    "postcode": "D-04103",
-    "district": "Zentrum-Ost"
+    "postcode": "04103",
+    "district": "Zentrum-Ost",
+    "districtId": "zentrum-ost"
   },
   {
     "street": "Schützenstraße",
     "street_number": "",
     "description": "Chopinstraße",
     "borough": "Mitte",
-    "postcode": "D-04103",
-    "district": "Zentrum-Ost"
+    "postcode": "04103",
+    "district": "Zentrum-Ost",
+    "districtId": "zentrum-ost"
   },
   {
     "street": "Nürnberger Straße",
     "street_number": 45,
     "description": "Höhe Bauhofstraße",
     "borough": "Mitte",
-    "postcode": "D-04103",
-    "district": "Zentrum-Südost"
+    "postcode": "04103",
+    "district": "Zentrum-Südost",
+    "districtId": "zentrum-suedost"
+    
   },
   {
     "street": "Semmelweisstraße",
     "street_number": "",
     "description": "Höhe Straße des 18. Oktober",
     "borough": "Mitte",
-    "postcode": "D-04103",
-    "district": "Zentrum-Südost"
+    "postcode": "04103",
+    "district": "Zentrum-Südost",
+    "districtId": "zentrum-suedost"
+    
   },
   {
     "street": "Straße des 18. Oktober",
     "street_number": "",
     "description": "Studentenwohnheim",
     "borough": "Mitte",
-    "postcode": "D-04103",
-    "district": "Zentrum-Südost"
+    "postcode": "04103",
+    "district": "Zentrum-Südost",
+    "districtId": "zentrum-suedost"
+    
   },
   {
     "street": "Straße des 18. Oktober",
     "street_number": "",
     "description": "Höhe Johannisallee",
     "borough": "Mitte",
-    "postcode": "D-04103",
-    "district": "Zentrum-Südost"
+    "postcode": "04103",
+    "district": "Zentrum-Südost",
+    "districtId": "zentrum-suedost"
+    
   },
   {
     "street": "Täubchenweg",
     "street_number": "",
     "description": "Höhe Spohrstraße",
     "borough": "Mitte",
-    "postcode": "D-04103",
-    "district": "Zentrum-Südost"
+    "postcode": "04103",
+    "district": "Zentrum-Südost",
+    "districtId": "zentrum-suedost"
+    
   },
   {
     "street": "Talstraße",
     "street_number": "",
     "description": "auf Prager Straße an Litfaßsäule",
     "borough": "Mitte",
-    "postcode": "D-04103",
-    "district": "Zentrum-Südost"
+    "postcode": "04103",
+    "district": "Zentrum-Südost",
+    "districtId": "zentrum-suedost"
+    
   },
   {
     "street": "Tarostraße",
     "street_number": 18,
     "description": "Studentenwohnheim",
     "borough": "Mitte",
-    "postcode": "D-04103",
-    "district": "Zentrum-Südost"
+    "postcode": "04103",
+    "district": "Zentrum-Südost",
+    "districtId": "zentrum-suedost"
+    
   },
   {
     "street": "Tarostraße",
     "street_number": 2,
     "description": "Einkaufsmarkt",
     "borough": "Mitte",
-    "postcode": "D-04103",
-    "district": "Zentrum-Südost"
+    "postcode": "04103",
+    "district": "Zentrum-Südost",
+    "districtId": "zentrum-suedost"
+    
   },
   {
     "street": "Tarostraße",
     "street_number": 8,
     "description": "",
     "borough": "Mitte",
-    "postcode": "D-04103",
-    "district": "Zentrum-Südost"
+    "postcode": "04103",
+    "district": "Zentrum-Südost",
+    "districtId": "zentrum-suedost"
+    
   },
   {
     "street": "Windmühlenstraße",
     "street_number": 31,
     "description": "Höhe Emilienstraße",
     "borough": "Mitte",
-    "postcode": "D-04103",
-    "district": "Zentrum-Südost"
+    "postcode": "04103",
+    "district": "Zentrum-Südost",
+    "districtId": "zentrum-suedost"
+    
   },
   {
     "street": "Arthur-Hoffmann-Straße",
     "street_number": "",
     "description": "Ecke Hohe Straße",
     "borough": "Mitte",
-    "postcode": "D-04107",
-    "district": "Zentrum-Süd"
+    "postcode": "04107",
+    "district": "Zentrum-Süd",
+    "districtId": "zentrum-sued"
   },
   {
     "street": "Bernhard-Göring-Straße",
     "street_number": "",
     "description": "Höhe Schletterstraße",
     "borough": "Mitte",
-    "postcode": "D-04107",
-    "district": "Zentrum-Süd"
+    "postcode": "04107",
+    "district": "Zentrum-Süd",
+    "districtId": "zentrum-sued"
   },
   {
     "street": "Dufourstraße",
     "street_number": "",
     "description": "zwischen Braustraße und Einmündung",
     "borough": "Mitte",
-    "postcode": "D-04107",
-    "district": "Zentrum-Süd"
-  },
-  {
-    "street": "",
-    "street_number": "",
-    "description": "Wundstraße",
-    "borough": "",
-    "postcode": "",
-    "district": ""
+    "postcode": "04107",
+    "district": "Zentrum-Süd",
+    "districtId": "zentrum-sued"
   },
   {
     "street": "Ferdinand-Rhode-Straße",
     "street_number": "",
     "description": "Höhe Telemannstraße",
     "borough": "Mitte",
-    "postcode": "D-04107",
-    "district": "Zentrum-Süd"
+    "postcode": "04107",
+    "district": "Zentrum-Süd",
+    "districtId": "zentrum-sued"
   },
   {
     "street": "Haydnstraße",
     "street_number": "",
     "description": "Ecke Karl-Tauchnitz-Straße",
     "borough": "Mitte",
-    "postcode": "D-04107",
-    "district": "Zentrum-Süd"
+    "postcode": "04107",
+    "district": "Zentrum-Süd",
+    "districtId": "zentrum-sued"
   },
   {
     "street": "Karl-Liebknecht-Straße",
     "street_number": 34,
     "description": "Ecke Braustraße",
     "borough": "Mitte",
-    "postcode": "D-04107",
-    "district": "Zentrum-Süd"
+    "postcode": "04107",
+    "district": "Zentrum-Süd",
+    "districtId": "zentrum-sued"
   },
   {
     "street": "Lößniger Straße",
     "street_number": 7,
     "description": "WSH (mit Altglas-Annahme)",
     "borough": "Mitte",
-    "postcode": "D-04107",
-    "district": "Zentrum-Süd"
+    "postcode": "04107",
+    "district": "Zentrum-Süd",
+    "districtId": "zentrum-sued"
   },
   {
     "street": "Mozartstraße",
     "street_number": "",
     "description": "ggü. Nr. 3, Ecke Simson-/Lampestraße",
     "borough": "Mitte",
-    "postcode": "D-04107",
-    "district": "Zentrum-Süd"
+    "postcode": "04107",
+    "district": "Zentrum-Süd",
+    "districtId": "zentrum-sued"
   },
   {
     "street": "Wächterstraße",
     "street_number": "",
     "description": "Ecke Grassistraße",
     "borough": "Mitte",
-    "postcode": "D-04107",
-    "district": "Zentrum-Süd"
+    "postcode": "04107",
+    "district": "Zentrum-Süd",
+    "districtId": "zentrum-sued"
   },
   {
     "street": "Wächterstraße",
     "street_number": 36,
     "description": "Höhe",
     "borough": "Mitte",
-    "postcode": "D-04107",
-    "district": "Zentrum-Süd"
-  },
-  {
-    "street": "",
-    "street_number": "",
-    "description": "Ferdinand-Rhode-Straße/Hochhaus",
-    "borough": "",
-    "postcode": "",
-    "district": ""
+    "postcode": "04107",
+    "district": "Zentrum-Süd",
+    "districtId": "zentrum-sued"
   },
   {
     "street": "Ferdinand-Lassalle-Straße",
     "street_number": "",
     "description": "Einmündung Max-Reger-Allee (Elster)",
     "borough": "Mitte",
-    "postcode": "D-04109",
-    "district": "Zentrum-West"
+    "postcode": "04109",
+    "district": "Zentrum-West",
+    "districtId": "zentrum-west"
   },
   {
     "street": "Käthe-Kollwitz-Straße",
     "street_number": "",
     "description": "Höhe Alexanderstraße",
     "borough": "Mitte",
-    "postcode": "D-04109",
-    "district": "Zentrum-West"
+    "postcode": "04109",
+    "district": "Zentrum-West",
+    "districtId": "zentrum-west"
   },
   {
     "street": "Lessingstraße",
     "street_number": 10,
     "description": "Feuerwache",
     "borough": "Mitte",
-    "postcode": "D-04109",
-    "district": "Zentrum-West"
+    "postcode": "04109",
+    "district": "Zentrum-West",
+    "districtId": "zentrum-west"
   },
   {
     "street": "Marschnerstraße",
     "street_number": 29,
     "description": "ggü. Aachener Straße",
     "borough": "Mitte",
-    "postcode": "D-04109",
-    "district": "Zentrum-West"
+    "postcode": "04109",
+    "district": "Zentrum-West",
+    "districtId": "zentrum-west"
   },
   {
     "street": "Rudolphstraße",
     "street_number": "",
     "description": "Höhe Martin-Luther-Ring",
     "borough": "Mitte",
-    "postcode": "D-04109",
-    "district": "Zentrum-West"
+    "postcode": "04109",
+    "district": "Zentrum-West",
+    "districtId": "zentrum-west"
   },
   {
     "street": "Sebastian-Bach-Straße",
     "street_number": "",
     "description": "Höhe Hauptmannstraße/Kaufhalle",
     "borough": "Mitte",
-    "postcode": "D-04109",
-    "district": "Zentrum-West"
+    "postcode": "04109",
+    "district": "Zentrum-West",
+    "districtId": "zentrum-west"
   },
   {
     "street": "Friedrich-Ebert-Straße",
     "street_number": 116,
     "description": "Höhe Schule",
     "borough": "Mitte",
-    "postcode": "D-04105",
-    "district": "Zentrum-Nordwest"
+    "postcode": "04105",
+    "district": "Zentrum-Nordwest",
+    "districtId": "zentrum-nordwest"
   },
   {
     "street": "Goyastraße",
     "street_number": 12,
     "description": "",
     "borough": "Mitte",
-    "postcode": "D-04105",
-    "district": "Zentrum-Nordwest"
+    "postcode": "04105",
+    "district": "Zentrum-Nordwest",
+    "districtId": "zentrum-nordwest"
   },
   {
     "street": "Kickerlingsberg",
     "street_number": "",
     "description": "zw. Preller- u. Ehrensteinstraße",
     "borough": "Mitte",
-    "postcode": "D-04105",
-    "district": "Zentrum-Nordwest"
+    "postcode": "04105",
+    "district": "Zentrum-Nordwest",
+    "districtId": "zentrum-nordwest"
   },
   {
     "street": "Waldstraße",
     "street_number": 177,
     "description": "ggü. Möckernsche Allee/Sportplatz",
     "borough": "Mitte",
-    "postcode": "D-04105",
-    "district": "Zentrum-Nordwest"
-  },
-  {
-    "street": "",
-    "street_number": "",
-    "description": "Olympia",
-    "borough": "",
-    "postcode": "",
-    "district": ""
+    "postcode": "04105",
+    "district": "Zentrum-Nordwest",
+    "districtId": "zentrum-nordwest"
   },
   {
     "street": "Frickestraße",
     "street_number": "",
     "description": "Trufanowstraße",
     "borough": "Mitte",
-    "postcode": "D-04105",
-    "district": "Zentrum-Nord"
+    "postcode": "04105",
+    "district": "Zentrum-Nord",
+    "districtId": "zentrum-nord"
   },
   {
     "street": "Karl-Rothe-Straße",
     "street_number": "",
     "description": "Höhe Gohliser Straße",
     "borough": "Mitte",
-    "postcode": "D-04105",
-    "district": "Zentrum-Nord"
+    "postcode": "04105",
+    "district": "Zentrum-Nord",
+    "districtId": "zentrum-nord"
   },
   {
     "street": "Michaelisstraße",
     "street_number": "",
     "description": "Gneisenaustraße",
     "borough": "Mitte",
-    "postcode": "D-04105",
-    "district": "Zentrum-Nord"
+    "postcode": "04105",
+    "district": "Zentrum-Nord",
+    "districtId": "zentrum-nord"
   },
   {
     "street": "Parthenstraße",
     "street_number": "",
     "description": "zwischen Löhrstraße und Nordstraße",
     "borough": "Mitte",
-    "postcode": "D-04105",
-    "district": "Zentrum-Nord"
+    "postcode": "04105",
+    "district": "Zentrum-Nord",
+    "districtId": "zentrum-nord"
   },
   {
     "street": "Pfaffendorfer Straße",
     "street_number": "",
     "description": "Höhe Parkhaus am Zoo",
     "borough": "Mitte",
-    "postcode": "D-04105",
-    "district": "Zentrum-Nord"
+    "postcode": "04105",
+    "district": "Zentrum-Nord",
+    "districtId": "zentrum-nord"
   },
   {
     "street": "Roscherstraße",
     "street_number": "",
     "description": "Höhe Nordplatz, beim Finanzamt",
     "borough": "Mitte",
-    "postcode": "D-04105",
-    "district": "Zentrum-Nord"
+    "postcode": "04105",
+    "district": "Zentrum-Nord",
+    "districtId": "zentrum-nord"
   },
   {
     "street": "Löbauer Straße",
     "street_number": "",
     "description": "Höhe Schönefelder Allee",
     "borough": "Nordost",
-    "postcode": "D-04347",
-    "district": "Schönefeld-"
-  },
-  {
-    "street": "",
-    "street_number": "",
-    "description": "",
-    "borough": "",
-    "postcode": "",
-    "district": "Abtnaundorf"
+    "postcode": "04347",
+    "district": "Schönefeld-Abtnaundorf",
+    "districtId": "schoenefeld-abtnaudorf"
   },
   {
     "street": "Löbauer Straße",
     "street_number": 35,
     "description": "Höhe Stöckelstraße",
     "borough": "Nordost",
-    "postcode": "D-04347",
-    "district": "Schönefeld-"
-  },
-  {
-    "street": "",
-    "street_number": "",
-    "description": "",
-    "borough": "",
-    "postcode": "",
-    "district": "Abtnaundorf"
+    "postcode": "04347",
+    "district": "Schönefeld-Abtnaundorf",
+    "districtId": "schoenefeld-abtnaudorf"
   },
   {
     "street": "Rackwitzer Straße",
     "street_number": 36,
     "description": "Höhe Fliederhof",
     "borough": "Nordost",
-    "postcode": "D-04347",
-    "district": "Schönefeld-"
-  },
-  {
-    "street": "",
-    "street_number": "",
-    "description": "",
-    "borough": "",
-    "postcode": "",
-    "district": "Abtnaundorf"
+    "postcode": "04347",
+    "district": "Schönefeld-Abtnaundorf",
+    "districtId": "schoenefeld-abtnaudorf"
   },
   {
     "street": "Stannebeinplatz",
     "street_number": "",
     "description": "am Taxistand Gorkistraße",
     "borough": "Nordost",
-    "postcode": "D-04347",
-    "district": "Schönefeld-"
-  },
-  {
-    "street": "",
-    "street_number": "",
-    "description": "",
-    "borough": "",
-    "postcode": "",
-    "district": "Abtnaundorf"
-  },
-  {
-    "street": "",
-    "street_number": "",
-    "description": 1,
-    "borough": "",
-    "postcode": "",
-    "district": ""
-  },
-  {
-    "street": "Straße",
-    "street_number": "HNr.",
-    "description": "Bemerkungen",
-    "borough": "Stadtbezirk",
-    "postcode": "Postleit-",
-    "district": "Ortsteil"
-  },
-  {
-    "street": "",
-    "street_number": "",
-    "description": "",
-    "borough": "",
-    "postcode": "zahl",
-    "district": ""
+    "postcode": "04347",
+    "district": "Schönefeld-Abtnaundorf",
+    "districtId": "schoenefeld-abtnaudorf"
   },
   {
     "street": "Volbedingstraße",
     "street_number": 4,
     "description": "am Zaun der ehem. Wollkämmerei",
     "borough": "Nordost",
-    "postcode": "D-04347",
-    "district": "Schönefeld-"
-  },
-  {
-    "street": "",
-    "street_number": "",
-    "description": "",
-    "borough": "",
-    "postcode": "",
-    "district": "Abtnaundorf"
+    "postcode": "04347",
+    "district": "Schönefeld-Abtnaundorf",
+    "districtId": "schoenefeld-abtnaudorf"
   },
   {
     "street": "Waldbaurstraße",
     "street_number": "",
     "description": "Höhe Emil-Schubert-Straße, Ecke",
     "borough": "Nordost",
-    "postcode": "D-04347",
-    "district": "Schönefeld-"
-  },
-  {
-    "street": "",
-    "street_number": "",
-    "description": "Ploßstraße",
-    "borough": "",
-    "postcode": "",
-    "district": "Abtnaundorf"
+    "postcode": "04347",
+    "district": "Schönefeld-Abtnaundorf",
+    "districtId": "schoenefeld-abtnaudorf"
   },
   {
     "street": "Bästleinstraße",
     "street_number": 35,
     "description": "ggü. Kindereinrichtung/Parktasche",
     "borough": "Nordost",
-    "postcode": "D-04347",
-    "district": "Schönefeld-Ost"
+    "postcode": "04347",
+    "district": "Schönefeld-Ost",
+    "districtId": "schoenefeld-ost"
   },
   {
     "street": "Bautzner Straße",
     "street_number": 67,
     "description": "",
     "borough": "Nordost",
-    "postcode": "D-04347",
-    "district": "Schönefeld-Ost"
+    "postcode": "04347",
+    "district": "Schönefeld-Ost",
+    "districtId": "schoenefeld-ost"
   },
   {
     "street": "Bautzner Straße",
     "street_number": 7,
     "description": "am Friedhof",
     "borough": "Nordost",
-    "postcode": "D-04347",
-    "district": "Schönefeld-Ost"
+    "postcode": "04347",
+    "district": "Schönefeld-Ost",
+    "districtId": "schoenefeld-ost"
   },
   {
     "street": "Fritz-Siemon-Straße",
     "street_number": "",
     "description": "Höhe Schulzeweg/Parktasche",
     "borough": "Nordost",
-    "postcode": "D-04347",
-    "district": "Schönefeld-Ost"
+    "postcode": "04347",
+    "district": "Schönefeld-Ost",
+    "districtId": "schoenefeld-ost"
   },
   {
     "street": "Fritz-Siemon-Straße",
     "street_number": "",
     "description": "Höhe Volksgartenstraße/Parktasche",
     "borough": "Nordost",
-    "postcode": "D-04347",
-    "district": "Schönefeld-Ost"
+    "postcode": "04347",
+    "district": "Schönefeld-Ost",
+    "districtId": "schoenefeld-ost"
   },
   {
     "street": "Kohlweg",
     "street_number": "",
     "description": "Ecke Heinrich-Schmidt-Straße",
     "borough": "Nordost",
-    "postcode": "D-04347",
-    "district": "Schönefeld-Ost"
+    "postcode": "04347",
+    "district": "Schönefeld-Ost",
+    "districtId": "schoenefeld-ost"
   },
   {
     "street": "Löbauer Straße",
     "street_number": "",
     "description": "EKZ Sonnenwall",
     "borough": "Nordost",
-    "postcode": "D-04347",
-    "district": "Schönefeld-Ost"
+    "postcode": "04347",
+    "district": "Schönefeld-Ost",
+    "districtId": "schoenefeld-ost"
   },
   {
     "street": "Löbauer Straße",
     "street_number": 59,
     "description": "ggü.",
     "borough": "Nordost",
-    "postcode": "D-04347",
-    "district": "Schönefeld-Ost"
+    "postcode": "04347",
+    "district": "Schönefeld-Ost",
+    "districtId": "schoenefeld-ost"
   },
   {
     "street": "Max-Lingner-Straße",
     "street_number": "",
     "description": "Höhe Löbauer Straße",
     "borough": "Nordost",
-    "postcode": "D-04347",
-    "district": "Schönefeld-Ost"
+    "postcode": "04347",
+    "district": "Schönefeld-Ost",
+    "districtId": "schoenefeld-ost"
   },
   {
     "street": "Permoserstraße",
     "street_number": "",
     "description": "Ecke Adenauerallee",
     "borough": "Nordost",
-    "postcode": "D-04347",
-    "district": "Schönefeld-Ost"
+    "postcode": "04347",
+    "district": "Schönefeld-Ost",
+    "districtId": "schoenefeld-ost"
   },
   {
     "street": "Permoserstraße",
     "street_number": 1,
     "description": "",
     "borough": "Nordost",
-    "postcode": "D-04347",
-    "district": "Schönefeld-Ost"
+    "postcode": "04347",
+    "district": "Schönefeld-Ost",
+    "districtId": "schoenefeld-ost"
   },
   {
     "street": "Poserstraße",
     "street_number": 45,
     "description": "",
     "borough": "Nordost",
-    "postcode": "D-04347",
-    "district": "Schönefeld-Ost"
+    "postcode": "04347",
+    "district": "Schönefeld-Ost",
+    "districtId": "schoenefeld-ost"
   },
   {
     "street": "Schwantesstraße",
     "street_number": 41,
     "description": "",
     "borough": "Nordost",
-    "postcode": "D-04347",
-    "district": "Schönefeld-Ost"
+    "postcode": "04347",
+    "district": "Schönefeld-Ost",
+    "districtId": "schoenefeld-ost"
   },
   {
     "street": "Shukowstraße",
     "street_number": "",
     "description": "Höhe Schulzeweg/Parktasche",
     "borough": "Nordost",
-    "postcode": "D-04347",
-    "district": "Schönefeld-Ost"
+    "postcode": "04347",
+    "district": "Schönefeld-Ost",
+    "districtId": "schoenefeld-ost"
   },
   {
     "street": "Shukowstraße",
     "street_number": 48,
     "description": "Höhe Losinskiweg/Parktasche",
     "borough": "Nordost",
-    "postcode": "D-04347",
-    "district": "Schönefeld-Ost"
+    "postcode": "04347",
+    "district": "Schönefeld-Ost",
+    "districtId": "schoenefeld-ost"
   },
   {
     "street": "Shukowstraße",
     "street_number": 8,
     "description": "",
     "borough": "Nordost",
-    "postcode": "D-04347",
-    "district": "Schönefeld-Ost"
+    "postcode": "04347",
+    "district": "Schönefeld-Ost",
+    "districtId": "schoenefeld-ost"
   },
   {
     "street": "Stöhrerstraße",
     "street_number": 16,
-    "description": "Betriebsgelände Remondis/WSH (mit",
+    "description": "Betriebsgelände Remondis/WSH (mit Altglas-Annahme)",
     "borough": "Nordost",
-    "postcode": "D-04347",
-    "district": "Schönefeld-Ost"
-  },
-  {
-    "street": "",
-    "street_number": "",
-    "description": "Altglas-Annahme)",
-    "borough": "",
-    "postcode": "",
-    "district": ""
+    "postcode": "04347",
+    "district": "Schönefeld-Ost",
+    "districtId": "schoenefeld-ost"
   },
   {
     "street": "Volksgartenstraße",
     "street_number": "",
     "description": "Parkplatz",
     "borough": "Nordost",
-    "postcode": "D-04347",
-    "district": "Schönefeld-Ost"
+    "postcode": "04347",
+    "district": "Schönefeld-Ost",
+    "districtId": "schoenefeld-ost"
   },
   {
     "street": "Döringstraße",
     "street_number": 25,
     "description": "ggü.",
     "borough": "Nordost",
-    "postcode": "D-04357",
-    "district": "Mockau-Süd"
+    "postcode": "04357",
+    "district": "Mockau-Süd",
+    "districtId": "mockau-sued"
   },
   {
     "street": "Friedrichshafner Straße",
     "street_number": "",
     "description": "Höhe Wilhelm-Busch-Straße",
     "borough": "Nordost",
-    "postcode": "D-04357",
-    "district": "Mockau-Süd"
+    "postcode": "04357",
+    "district": "Mockau-Süd",
+    "districtId": "mockau-sued"
   },
   {
     "street": "Gontardweg",
     "street_number": "",
     "description": "Höhe Mockauer Straße",
     "borough": "Nordost",
-    "postcode": "D-04357",
-    "district": "Mockau-Süd"
+    "postcode": "04357",
+    "district": "Mockau-Süd",
+    "districtId": "mockau-sued"
   },
   {
     "street": "Friedrichshafner Straße",
     "street_number": "",
     "description": "Höhe Majakowskistraße",
     "borough": "Nordost",
-    "postcode": "D-04356",
-    "district": "Mockau-Nord"
+    "postcode": "04356",
+    "district": "Mockau-Nord",
+    "districtId": "mockau-nord"
   },
   {
     "street": "Majakowskistraße",
     "street_number": 4,
     "description": "Höhe Stralsunder Straße",
     "borough": "Nordost",
-    "postcode": "D-04356",
-    "district": "Mockau-Nord"
+    "postcode": "04356",
+    "district": "Mockau-Nord",
+    "districtId": "mockau-nord"
   },
   {
     "street": "Essener Straße",
     "street_number": "",
     "description": "Einkaufsmarkt",
     "borough": "Nordost",
-    "postcode": "D-04357",
-    "district": "Mockau-Nord"
+    "postcode": "04357",
+    "district": "Mockau-Nord",
+    "districtId": "mockau-nord"
   },
   {
     "street": "Gogolstraße",
     "street_number": "",
     "description": "Höhe Kuckhoffstraße",
     "borough": "Nordost",
-    "postcode": "D-04357",
-    "district": "Mockau-Nord"
+    "postcode": "04357",
+    "district": "Mockau-Nord",
+    "districtId": "mockau-nord"
   },
   {
     "street": "Kieler Straße",
     "street_number": 84,
     "description": "Höhe Mockauer Straße",
     "borough": "Nordost",
-    "postcode": "D-04357",
-    "district": "Mockau-Nord"
+    "postcode": "04357",
+    "district": "Mockau-Nord",
+    "districtId": "mockau-nord"
   },
   {
     "street": "Otto-Michael-Straße",
     "street_number": "",
     "description": "Höhe Friedrichshafner Straße",
     "borough": "Nordost",
-    "postcode": "D-04357",
-    "district": "Mockau-Nord"
+    "postcode": "04357",
+    "district": "Mockau-Nord",
+    "districtId": "mockau-nord"
   },
   {
     "street": "Samuel-Lampel-Straße",
     "street_number": "",
     "description": "Parkplatz Einkaufsmarkt/Ärztehaus",
     "borough": "Nordost",
-    "postcode": "D-04357",
-    "district": "Mockau-Nord"
+    "postcode": "04357",
+    "district": "Mockau-Nord",
+    "districtId": "mockau-nord"
   },
   {
     "street": "Simón-Bolívar-Straße",
     "street_number": 92,
     "description": "Höhe Otto-Heinze-Straße",
     "borough": "Nordost",
-    "postcode": "D-04357",
-    "district": "Mockau-Nord"
+    "postcode": "04357",
+    "district": "Mockau-Nord",
+    "districtId": "mockau-nord"
   },
   {
     "street": "Stralsunder Straße",
     "street_number": "",
     "description": "Höhe Tauchaer Straße",
     "borough": "Nordost",
-    "postcode": "D-04357",
-    "district": "Mockau-Nord"
+    "postcode": "04357",
+    "district": "Mockau-Nord",
+    "districtId": "mockau-nord"
   },
   {
     "street": "Walter-Albrecht-Weg",
     "street_number": "",
     "description": "Ecke Friedrichshafner Straße",
     "borough": "Nordost",
-    "postcode": "D-04357",
-    "district": "Mockau-Nord"
+    "postcode": "04357",
+    "district": "Mockau-Nord",
+    "districtId": "mockau-nord"
   },
   {
     "street": "Cleudner Straße",
     "street_number": "",
     "description": "Richtung Tauchaer Straße",
     "borough": "Nordost",
-    "postcode": "D-04349",
-    "district": "Thekla"
+    "postcode": "04349",
+    "district": "Thekla",
+    "districtId": "thekla"
   },
   {
     "street": "Freiberger Straße",
     "street_number": "",
     "description": "Ecke Klingenthaler Straße",
     "borough": "Nordost",
-    "postcode": "D-04349",
-    "district": "Thekla"
+    "postcode": "04349",
+    "district": "Thekla",
+    "districtId": "thekla"
   },
   {
     "street": "Göteborger Straße",
     "street_number": "",
     "description": "Höhe Tauchaer Straße",
     "borough": "Nordost",
-    "postcode": "D-04349",
-    "district": "Thekla"
+    "postcode": "04349",
+    "district": "Thekla",
+    "districtId": "thekla"
   },
   {
     "street": "Lidicestraße",
     "street_number": 8,
     "description": "Höhe Theklaer Straße/Parkplatz",
     "borough": "Nordost",
-    "postcode": "D-04349",
-    "district": "Thekla"
+    "postcode": "04349",
+    "district": "Thekla",
+    "districtId": "thekla"
   },
   {
     "street": "Neutzscher Straße",
     "street_number": "",
     "description": "Höhe Kiebitzstraße",
     "borough": "Nordost",
-    "postcode": "D-04349",
-    "district": "Thekla"
+    "postcode": "04349",
+    "district": "Thekla",
+    "districtId": "thekla"
   },
   {
     "street": "Seelestraße",
     "street_number": "27 a",
     "description": "Parkfläche ggü. Fortuna-Gaststätte",
     "borough": "Nordost",
-    "postcode": "D-04349",
-    "district": "Thekla"
+    "postcode": "04349",
+    "district": "Thekla",
+    "districtId": "thekla"
   },
   {
     "street": "Zschopauer Straße",
     "street_number": "",
     "description": "Höhe Theklaer Straße",
     "borough": "Nordost",
-    "postcode": "D-04349",
-    "district": "Thekla"
+    "postcode": "04349",
+    "district": "Thekla",
+    "districtId": "thekla"
   },
   {
     "street": "Am Künstlerbogen",
     "street_number": "",
     "description": "Parkstadt 2000",
     "borough": "Nordost",
-    "postcode": "D-04349",
-    "district": "Plaußig-Portitz"
+    "postcode": "04349",
+    "district": "Plaußig-Portitz",
+    "districtId": "plaußig-portitz"
   },
   {
     "street": "Am langen Teiche",
     "street_number": "",
     "description": "Höhe Cradefelder Straße",
     "borough": "Nordost",
-    "postcode": "D-04349",
-    "district": "Plaußig-Portitz"
+    "postcode": "04349",
+    "district": "Plaußig-Portitz",
+    "districtId": "plaußig-portitz"
   },
   {
     "street": "Hohenheidaer Straße",
     "street_number": "",
     "description": "Ecke Hinter dem Dorf",
     "borough": "Nordost",
-    "postcode": "D-04349",
-    "district": "Plaußig-Portitz"
+    "postcode": "04349",
+    "district": "Plaußig-Portitz",
+    "districtId": "plaußig-portitz"
   },
   {
     "street": "Comeniusstraße",
     "street_number": "",
     "description": "Höhe Kohlgartenstraße",
     "borough": "Ost",
-    "postcode": "D-04315",
-    "district": "Neustadt-"
-  },
-  {
-    "street": "",
-    "street_number": "",
-    "description": "",
-    "borough": "",
-    "postcode": "",
-    "district": "Neuschönefeld"
+    "postcode": "04315",
+    "district": "Neustadt-Neuschönefeld",
+    "districtId": "neustadt-neuschoenefeld"
   },
   {
     "street": "Kuchengartenstraße",
     "street_number": "",
     "description": "Höhe Gabelsberger Straße",
     "borough": "Ost",
-    "postcode": "D-04315",
-    "district": "Neustadt-"
-  },
-  {
-    "street": "",
-    "street_number": "",
-    "description": "",
-    "borough": "",
-    "postcode": "",
-    "district": "Neuschönefeld"
+    "postcode": "04315",
+    "district": "Neustadt-Neuschönefeld",
+    "districtId": "neustadt-neuschoenefeld"
   },
   {
     "street": "Lilienstraße",
     "street_number": "",
     "description": "Höhe Köhlerstraße",
     "borough": "Ost",
-    "postcode": "D-04315",
-    "district": "Neustadt-"
-  },
-  {
-    "street": "",
-    "street_number": "",
-    "description": "",
-    "borough": "",
-    "postcode": "",
-    "district": "Neuschönefeld"
+    "postcode": "04315",
+    "district": "Neustadt-Neuschönefeld",
+    "districtId": "neustadt-neuschoenefeld"
   },
   {
     "street": "Melanchthonstraße",
     "street_number": 1,
     "description": "Höhe Lutherstraße",
     "borough": "Ost",
-    "postcode": "D-04315",
-    "district": "Neustadt-"
-  },
-  {
-    "street": "",
-    "street_number": "",
-    "description": "",
-    "borough": "",
-    "postcode": "",
-    "district": "Neuschönefeld"
+    "postcode": "04315",
+    "district": "Neustadt-Neuschönefeld",
+    "districtId": "neustadt-neuschoenefeld"
   },
   {
     "street": "Neustädter Straße",
     "street_number": "",
     "description": "Ecke Lorenzstraße",
     "borough": "Ost",
-    "postcode": "D-04315",
-    "district": "Neustadt-"
-  },
-  {
-    "street": "",
-    "street_number": "",
-    "description": "",
-    "borough": "",
-    "postcode": "",
-    "district": "Neuschönefeld"
-  },
-  {
-    "street": "",
-    "street_number": "",
-    "description": 2,
-    "borough": "",
-    "postcode": "",
-    "district": ""
-  },
-  {
-    "street": "Straße",
-    "street_number": "HNr.",
-    "description": "Bemerkungen",
-    "borough": "Stadtbezirk",
-    "postcode": "Postleit-",
-    "district": "Ortsteil"
-  },
-  {
-    "street": "",
-    "street_number": "",
-    "description": "",
-    "borough": "",
-    "postcode": "zahl",
-    "district": ""
+    "postcode": "04315",
+    "district": "Neustadt-Neuschönefeld",
+    "districtId": "neustadt-neuschoenefeld"
   },
   {
     "street": "Bülowstraße",
     "street_number": 35,
-    "description": "Ecke Eisenbahnstraße, Parkplatz",
+    "description": "Ecke Eisenbahnstraße, Parkplatz Sozialwarenkaufhaus",
     "borough": "Ost",
-    "postcode": "D-04315",
-    "district": "Volkmarsdorf"
-  },
-  {
-    "street": "",
-    "street_number": "",
-    "description": "Sozialwarenkaufhaus",
-    "borough": "",
-    "postcode": "",
-    "district": ""
+    "postcode": "04315",
+    "district": "Volkmarsdorf",
+    "districtId": "volkmarsdorf"
   },
   {
     "street": "Bennigsenstraße",
     "street_number": 26,
     "description": "Höhe Mariannenstraße",
     "borough": "Ost",
-    "postcode": "D-04315",
-    "district": "Volkmarsdorf"
+    "postcode": "04315",
+    "district": "Volkmarsdorf",
+    "districtId": "volkmarsdorf"
   },
   {
     "street": "Dornbergerstraße",
     "street_number": "",
     "description": "Höhe Hermann-Liebmann-Straße",
     "borough": "Ost",
-    "postcode": "D-04315",
-    "district": "Volkmarsdorf"
+    "postcode": "04315",
+    "district": "Volkmarsdorf",
+    "districtId": "volkmarsdorf"
   },
   {
     "street": "Geißlerstraße",
     "street_number": "",
     "description": "Höhe Wurzner Straße",
     "borough": "Ost",
-    "postcode": "D-04315",
-    "district": "Volkmarsdorf"
+    "postcode": "04315",
+    "district": "Volkmarsdorf",
+    "districtId": "volkmarsdorf"
   },
   {
     "street": "Idastraße",
     "street_number": 26,
     "description": "Höhe Konradstraße",
     "borough": "Ost",
-    "postcode": "D-04315",
-    "district": "Volkmarsdorf"
+    "postcode": "04315",
+    "district": "Volkmarsdorf",
+    "districtId": "volkmarsdorf"
   },
   {
     "street": "Juliusstraße",
     "street_number": 18,
     "description": "Parktasche",
     "borough": "Ost",
-    "postcode": "D-04315",
-    "district": "Volkmarsdorf"
+    "postcode": "04315",
+    "district": "Volkmarsdorf",
+    "districtId": "volkmarsdorf"
   },
   {
     "street": "Torgauer Straße",
     "street_number": "",
     "description": "Höhe Bülowstraße/Insel",
     "borough": "Ost",
-    "postcode": "D-04315",
-    "district": "Volkmarsdorf"
+    "postcode": "04315",
+    "district": "Volkmarsdorf",
+    "districtId": "volkmarsdorf"
   },
   {
     "street": "Friedrich-Dittes-Straße",
     "street_number": "",
     "description": "Höhe Grüne Gasse",
     "borough": "Ost",
-    "postcode": "D-04318",
-    "district": "Anger-Crottendorf"
+    "postcode": "04318",
+    "district": "Anger-Crottendorf",
+    "districtId": "anger-crottenddorf"
   },
   {
     "street": "Theodor-Neubauer-Straße",
     "street_number": "",
     "description": "Höhe Gregor-Fuchs-Straße",
     "borough": "Ost",
-    "postcode": "D-04318",
-    "district": "Anger-Crottendorf"
+    "postcode": "04318",
+    "district": "Anger-Crottendorf",
+    "districtId": "anger-crottenddorf"
   },
   {
     "street": "Theodor-Neubauer-Straße",
     "street_number": 3,
     "description": "Höhe Borsdorfer Straße",
     "borough": "Ost",
-    "postcode": "D-04318",
-    "district": "Anger-Crottendorf"
+    "postcode": "04318",
+    "district": "Anger-Crottendorf",
+    "districtId": "anger-crottenddorf"
   },
   {
     "street": "Wichernstraße",
     "street_number": 5,
     "description": "",
     "borough": "Ost",
-    "postcode": "D-04318",
-    "district": "Anger-Crottendorf"
+    "postcode": "04318",
+    "district": "Anger-Crottendorf",
+    "districtId": "anger-crottenddorf"
   },
   {
     "street": "Wiebelstraße",
     "street_number": 9,
     "description": "Höhe Wurzner Straße",
     "borough": "Ost",
-    "postcode": "D-04318",
-    "district": "Anger-Crottendorf"
+    "postcode": "04318",
+    "district": "Anger-Crottendorf",
+    "districtId": "anger-crottenddorf"
   },
   {
     "street": "Zweinaundorfer Straße",
     "street_number": "78 b",
     "description": "Eingang Ostfriedhof",
     "borough": "Ost",
-    "postcode": "D-04318",
-    "district": "Anger-Crottendorf"
+    "postcode": "04318",
+    "district": "Anger-Crottendorf",
+    "districtId": "anger-crottenddorf"
   },
   {
     "street": "Cunnersdorfer Straße",
     "street_number": "",
     "description": "Höhe Emmausstraße",
     "borough": "Ost",
-    "postcode": "D-04318",
-    "district": "Sellerhausen-Stünz"
+    "postcode": "04318",
+    "district": "Sellerhausen-Stünz",
+    "districtId": "sellerhausen-stuenz"
   },
   {
     "street": "Eisenbahnstraße",
     "street_number": "",
     "description": "Höhe Portitzer Straße",
     "borough": "Ost",
-    "postcode": "D-04318",
-    "district": "Sellerhausen-Stünz"
+    "postcode": "04318",
+    "district": "Sellerhausen-Stünz",
+    "districtId": "sellerhausen-stuenz"
   },
   {
     "street": "Leonhard-Frank-Straße",
     "street_number": "",
     "description": "ggü. Einkaufsmarkt",
     "borough": "Ost",
-    "postcode": "D-04318",
-    "district": "Sellerhausen-Stünz"
+    "postcode": "04318",
+    "district": "Sellerhausen-Stünz",
+    "districtId": "sellerhausen-stuenz"
   },
   {
     "street": "Leonhard-Frank-Straße",
     "street_number": "",
     "description": "Ecke Louis-Fürnberg-Straße",
     "borough": "Ost",
-    "postcode": "D-04318",
-    "district": "Sellerhausen-Stünz"
+    "postcode": "04318",
+    "district": "Sellerhausen-Stünz",
+    "districtId": "sellerhausen-stuenz"
   },
   {
     "street": "Leonhard-Frank-Straße",
     "street_number": 2,
     "description": "ggü.",
     "borough": "Ost",
-    "postcode": "D-04318",
-    "district": "Sellerhausen-Stünz"
+    "postcode": "04318",
+    "district": "Sellerhausen-Stünz",
+    "districtId": "sellerhausen-stuenz"
   },
   {
     "street": "Portitzer Straße",
     "street_number": 16,
     "description": "",
     "borough": "Ost",
-    "postcode": "D-04318",
-    "district": "Sellerhausen-Stünz"
+    "postcode": "04318",
+    "district": "Sellerhausen-Stünz",
+    "districtId": "sellerhausen-stuenz"
   },
   {
     "street": "Walter-Barth-Straße",
     "street_number": 9,
     "description": "Höhe Reinhardtstraße",
     "borough": "Ost",
-    "postcode": "D-04318",
-    "district": "Sellerhausen-Stünz"
+    "postcode": "04318",
+    "district": "Sellerhausen-Stünz",
+    "districtId": "sellerhausen-stuenz"
   },
   {
     "street": "Elisabeth-Schumacher-",
     "street_number": "",
     "description": "Höhe Schmitzstraße",
     "borough": "Ost",
-    "postcode": "D-04328",
-    "district": "Sellerhausen-Stünz"
-  },
-  {
-    "street": "Straße",
-    "street_number": "",
-    "description": "",
-    "borough": "",
-    "postcode": "",
-    "district": ""
+    "postcode": "04328",
+    "district": "Sellerhausen-Stünz",
+    "districtId": "sellerhausen-stuenz"
   },
   {
     "street": "Ostheimstraße",
     "street_number": 24,
     "description": "Höhe Weidlichstraße",
     "borough": "Ost",
-    "postcode": "D-04328",
-    "district": "Sellerhausen-Stünz"
+    "postcode": "04328",
+    "district": "Sellerhausen-Stünz",
+    "districtId": "sellerhausen-stuenz"
   },
   {
     "street": "Permoserstraße",
     "street_number": 50,
-    "description": "Ecke Elisabeth-Schumacher-Straße,",
+    "description": "Ecke Elisabeth-Schumacher-Straße, neben Haltestelle",
     "borough": "Ost",
-    "postcode": "D-04328",
-    "district": "Sellerhausen-Stünz"
-  },
-  {
-    "street": "",
-    "street_number": "",
-    "description": "neben Haltestelle",
-    "borough": "",
-    "postcode": "",
-    "district": ""
+    "postcode": "04328",
+    "district": "Sellerhausen-Stünz",
+    "districtId": "sellerhausen-stuenz"
   },
   {
     "street": "Döllingstraße",
     "street_number": "",
-    "description": "WSH (mit Altglas-Annahme) Ecke",
+    "description": "WSH (mit Altglas-Annahme) Ecke Sachsenstraße",
     "borough": "Ost",
-    "postcode": "D-04328",
-    "district": "Paunsdorf"
-  },
-  {
-    "street": "",
-    "street_number": "",
-    "description": "Sachsenstraße",
-    "borough": "",
-    "postcode": "",
-    "district": ""
+    "postcode": "04328",
+    "district": "Paunsdorf",
+    "districtId": "paunsdorf"
   },
   {
     "street": "Döllingstraße",
     "street_number": 1,
     "description": "Höhe Theodor-Heuss-Straße",
     "borough": "Ost",
-    "postcode": "D-04328",
-    "district": "Paunsdorf"
+    "postcode": "04328",
+    "district": "Paunsdorf",
+    "districtId": "paunsdorf"
   },
   {
     "street": "Sommerfelder Weg",
     "street_number": "",
-    "description": "Nutzung beschränkt auf Anwohner",
+    "description": "Nutzung beschränkt auf Anwohner Sommerfelder Weg",
     "borough": "Ost",
-    "postcode": "D-04328",
-    "district": "Paunsdorf"
-  },
-  {
-    "street": "",
-    "street_number": "",
-    "description": "Sommerfelder Weg",
-    "borough": "",
-    "postcode": "",
-    "district": ""
+    "postcode": "04328",
+    "district": "Paunsdorf",
+    "districtId": "paunsdorf"
   },
   {
     "street": "Ahornstraße",
     "street_number": 2,
     "description": "Höhe Heiterblickallee",
     "borough": "Ost",
-    "postcode": "D-04329",
-    "district": "Paunsdorf"
+    "postcode": "04329",
+    "district": "Paunsdorf",
+    "districtId": "paunsdorf"
   },
   {
     "street": "Am Vorwerk",
     "street_number": 1,
     "description": "Höhe Heiterblickallee",
     "borough": "Ost",
-    "postcode": "D-04329",
-    "district": "Paunsdorf"
+    "postcode": "04329",
+    "district": "Paunsdorf",
+    "districtId": "paunsdorf"
   },
   {
     "street": "Goldsternstraße",
     "street_number": 13,
     "description": "an Sporthalle",
     "borough": "Ost",
-    "postcode": "D-04329",
-    "district": "Paunsdorf"
+    "postcode": "04329",
+    "district": "Paunsdorf",
+    "districtId": "paunsdorf"
   },
   {
     "street": "Goldsternstraße",
     "street_number": 54,
     "description": "Höhe Heiterblickallee",
     "borough": "Ost",
-    "postcode": "D-04329",
-    "district": "Paunsdorf"
+    "postcode": "04329",
+    "district": "Paunsdorf",
+    "districtId": "paunsdorf"
   },
   {
     "street": "Gundermannstraße",
     "street_number": "",
     "description": "Ecke Zum Wäldchen",
     "borough": "Ost",
-    "postcode": "D-04329",
-    "district": "Paunsdorf"
+    "postcode": "04329",
+    "district": "Paunsdorf",
+    "districtId": "paunsdorf"
   },
   {
     "street": "Hainbuchenstraße",
     "street_number": 32,
     "description": "",
     "borough": "Ost",
-    "postcode": "D-04329",
-    "district": "Paunsdorf"
+    "postcode": "04329",
+    "district": "Paunsdorf",
+    "districtId": "paunsdorf"
   },
   {
     "street": "Heiterblickallee",
     "street_number": 11,
     "description": "Höhe Günselstraße",
     "borough": "Ost",
-    "postcode": "D-04329",
-    "district": "Paunsdorf"
+    "postcode": "04329",
+    "district": "Paunsdorf",
+    "districtId": "paunsdorf"
   },
   {
     "street": "Heiterblickallee",
     "street_number": 31,
     "description": "auf Parkplatz",
     "borough": "Ost",
-    "postcode": "D-04329",
-    "district": "Paunsdorf"
+    "postcode": "04329",
+    "district": "Paunsdorf",
+    "districtId": "paunsdorf"
   },
   {
     "street": "Heiterblickallee",
     "street_number": 52,
     "description": "Höhe Wiesenstraße",
     "borough": "Ost",
-    "postcode": "D-04329",
-    "district": "Paunsdorf"
+    "postcode": "04329",
+    "district": "Paunsdorf",
+    "districtId": "paunsdorf"
   },
   {
     "street": "Heiterblickallee",
     "street_number": 81,
     "description": "Höhe Waldkerbelstraße",
     "borough": "Ost",
-    "postcode": "D-04329",
-    "district": "Paunsdorf"
+    "postcode": "04329",
+    "district": "Paunsdorf",
+    "districtId": "paunsdorf"
   },
   {
     "street": "Klettenstraße",
     "street_number": 2,
     "description": "ggü. auf Parkplatz",
     "borough": "Ost",
-    "postcode": "D-04329",
-    "district": "Paunsdorf"
+    "postcode": "04329",
+    "district": "Paunsdorf",
+    "districtId": "paunsdorf"
   },
   {
     "street": "Kreuzdornstraße",
     "street_number": "",
     "description": "Höhe Hartriegelstraße",
     "borough": "Ost",
-    "postcode": "D-04329",
-    "district": "Paunsdorf"
+    "postcode": "04329",
+    "district": "Paunsdorf",
+    "districtId": "paunsdorf"
   },
   {
     "street": "Platanenstraße",
     "street_number": 51,
     "description": "",
     "borough": "Ost",
-    "postcode": "D-04329",
-    "district": "Paunsdorf"
+    "postcode": "04329",
+    "district": "Paunsdorf",
+    "districtId": "paunsdorf"
   },
   {
     "street": "Südblick",
     "street_number": 8,
     "description": "Höhe Hartriegelstraße",
     "borough": "Ost",
-    "postcode": "D-04329",
-    "district": "Paunsdorf"
+    "postcode": "04329",
+    "district": "Paunsdorf",
+    "districtId": "paunsdorf"
   },
   {
     "street": "Schlehenweg",
     "street_number": "",
     "description": "Höhe Platanenstraße",
     "borough": "Ost",
-    "postcode": "D-04329",
-    "district": "Paunsdorf"
+    "postcode": "04329",
+    "district": "Paunsdorf",
+    "districtId": "paunsdorf"
   },
   {
     "street": "Dachsstraße",
     "street_number": "",
     "description": "Höhe Igelstraße",
     "borough": "Ost",
-    "postcode": "D-04329",
-    "district": "Heiterblick"
+    "postcode": "04329",
+    "district": "Heiterblick",
+    "districtId": "heiterblick"
   },
   {
     "street": "Paunsdorfer Allee",
     "street_number": "",
     "description": "Ecke Goldene Hufe",
     "borough": "Ost",
-    "postcode": "D-04329",
-    "district": "Heiterblick"
+    "postcode": "04329",
+    "district": "Heiterblick",
+    "districtId": "heiterblick"
   },
   {
     "street": "Am Gutspark",
     "street_number": "",
     "description": "Adolf-Koppe-Straße",
     "borough": "Ost",
-    "postcode": "D-04316",
-    "district": "Mölkau"
+    "postcode": "04316",
+    "district": "Mölkau",
+    "districtId": "moelkau"
   },
   {
     "street": "Engelsdorfer Straße",
     "street_number": "",
     "description": "am Weg zur August-Knauer-Straße",
     "borough": "Ost",
-    "postcode": "D-04316",
-    "district": "Mölkau"
+    "postcode": "04316",
+    "district": "Mölkau",
+    "districtId": "moelkau"
   },
   {
     "street": "Mühlweg",
     "street_number": "",
     "description": "Hasenheide",
     "borough": "Ost",
-    "postcode": "D-04316",
-    "district": "Mölkau"
+    "postcode": "04316",
+    "district": "Mölkau",
+    "districtId": "moelkau"
   },
   {
     "street": "Willmar-Schwabe-Ring",
     "street_number": "",
     "description": "Höhe Albrechtshainer Straße",
     "borough": "Ost",
-    "postcode": "D-04316",
-    "district": "Mölkau"
+    "postcode": "04316",
+    "district": "Mölkau",
+    "districtId": "moelkau"
   },
   {
     "street": "Achatstraße",
     "street_number": "",
     "description": "Ecke Opalstraße",
     "borough": "Ost",
-    "postcode": "D-04319",
-    "district": "Engelsdorf"
+    "postcode": "04319",
+    "district": "Engelsdorf",
+    "districtId": "engelsdorf"
   },
   {
     "street": "Arnoldplatz",
     "street_number": "",
     "description": "Ecke Herzberger Straße",
     "borough": "Ost",
-    "postcode": "D-04319",
-    "district": "Engelsdorf"
+    "postcode": "04319",
+    "district": "Engelsdorf",
+    "districtId": "engelsdorf"
   },
   {
     "street": "Hans-Weigel-Straße",
     "street_number": "",
     "description": "Parkplatz",
     "borough": "Ost",
-    "postcode": "D-04319",
-    "district": "Engelsdorf"
+    "postcode": "04319",
+    "district": "Engelsdorf",
+    "districtId": "engelsdorf"
   },
   {
     "street": "Harpstedter Straße",
     "street_number": 8,
     "description": "im Innenhof",
     "borough": "Ost",
-    "postcode": "D-04319",
-    "district": "Engelsdorf"
-  },
-  {
-    "street": "",
-    "street_number": "",
-    "description": 3,
-    "borough": "",
-    "postcode": "",
-    "district": ""
-  },
-  {
-    "street": "Straße",
-    "street_number": "HNr.",
-    "description": "Bemerkungen",
-    "borough": "Stadtbezirk",
-    "postcode": "Postleit-",
-    "district": "Ortsteil"
-  },
-  {
-    "street": "",
-    "street_number": "",
-    "description": "",
-    "borough": "",
-    "postcode": "zahl",
-    "district": ""
+    "postcode": "04319",
+    "district": "Engelsdorf",
+    "districtId": "engelsdorf"
   },
   {
     "street": "Reichsbahnerstraße",
     "street_number": "5/7",
     "description": "ggü.",
     "borough": "Ost",
-    "postcode": "D-04319",
-    "district": "Engelsdorf"
+    "postcode": "04319",
+    "district": "Engelsdorf",
+    "districtId": "engelsdorf"
   },
   {
     "street": "Schulweg",
     "street_number": 4,
     "description": "vor Wertstoffhof",
     "borough": "Ost",
-    "postcode": "D-04319",
-    "district": "Engelsdorf"
+    "postcode": "04319",
+    "district": "Engelsdorf",
+    "districtId": "engelsdorf"
   },
   {
     "street": "Topasstraße",
     "street_number": 48,
-    "description": "Nutzung beschränkt auf Anwohner der",
+    "description": "Nutzung beschränkt auf Anwohner der Großwohnanlage",
     "borough": "Ost",
-    "postcode": "D-04319",
-    "district": "Engelsdorf"
-  },
-  {
-    "street": "",
-    "street_number": "",
-    "description": "Großwohnanlage",
-    "borough": "",
-    "postcode": "",
-    "district": ""
+    "postcode": "04319",
+    "district": "Engelsdorf",
+    "districtId": "engelsdorf"
   },
   {
     "street": "Topasstraße",
     "street_number": 57,
-    "description": "Nutzung beschränkt auf Anwohner der",
+    "description": "Nutzung beschränkt auf Anwohner der Großwohnanlage",
     "borough": "Ost",
-    "postcode": "D-04319",
-    "district": "Engelsdorf"
-  },
-  {
-    "street": "",
-    "street_number": "",
-    "description": "Großwohnanlage",
-    "borough": "",
-    "postcode": "",
-    "district": ""
+    "postcode": "04319",
+    "district": "Engelsdorf",
+    "districtId": "engelsdorf"
   },
   {
     "street": "Wasserturmstraße",
     "street_number": "",
     "description": "im Innenhof der Wohnanlage",
     "borough": "Ost",
-    "postcode": "D-04319",
-    "district": "Engelsdorf"
+    "postcode": "04319",
+    "district": "Engelsdorf",
+    "districtId": "engelsdorf"
   },
   {
     "street": "Werkstättenstraße",
     "street_number": 4,
     "description": "an Kreuzung",
     "borough": "Ost",
-    "postcode": "D-04319",
-    "district": "Engelsdorf"
+    "postcode": "04319",
+    "district": "Engelsdorf",
+    "districtId": "engelsdorf"
   },
   {
     "street": "Wiesenweg",
     "street_number": "",
     "description": "Ecke Sternenstraße",
     "borough": "Ost",
-    "postcode": "D-04319",
-    "district": "Engelsdorf"
+    "postcode": "04319",
+    "district": "Engelsdorf",
+    "districtId": "engelsdorf"
   },
   {
     "street": "Gottfried-Jähnichen-Weg",
     "street_number": "",
     "description": "Ecke Kurt-Hänselmann-Weg",
     "borough": "Ost",
-    "postcode": "D-04316",
-    "district": "Baalsdorf"
+    "postcode": "04316",
+    "district": "Baalsdorf",
+    "districtId": "baalsdorf"
   },
   {
     "street": "Althener Anger",
     "street_number": "",
     "description": "Sportplatz",
     "borough": "Ost",
-    "postcode": "D-04319",
-    "district": "Althen-Kleinpösna"
+    "postcode": "04319",
+    "district": "Althen-Kleinpösna",
+    "districtId": "althen-kleinpoesna"
   },
   {
     "street": "Am Wiesenblick",
     "street_number": "",
     "description": "",
     "borough": "Ost",
-    "postcode": "D-04319",
-    "district": "Althen-Kleinpösna"
+    "postcode": "04319",
+    "district": "Althen-Kleinpösna",
+    "districtId": "althen-kleinpoesna"
   },
   {
     "street": "Dorfstraße",
     "street_number": "",
     "description": "Ecke An der Weide",
     "borough": "Ost",
-    "postcode": "D-04319",
-    "district": "Althen-Kleinpösna"
+    "postcode": "04319",
+    "district": "Althen-Kleinpösna",
+    "districtId": "althen-kleinpoesna"
   },
   {
     "street": "Hersvelder Straße",
     "street_number": "",
     "description": "ggü. Nr. 7 nahe Kreuzung Hersvelder",
     "borough": "Ost",
-    "postcode": "D-04319",
-    "district": "Althen-Kleinpösna"
-  },
-  {
-    "street": "",
-    "street_number": "",
-    "description": "Straße",
-    "borough": "",
-    "postcode": "",
-    "district": ""
+    "postcode": "04319",
+    "district": "Althen-Kleinpösna",
+    "districtId": "althen-kleinpoesna"
   },
   {
     "street": "Breitkopfstraße",
     "street_number": "",
     "description": "Reichpietschstraße 40",
     "borough": "Südost",
-    "postcode": "D-04317",
-    "district": "Reudnitz-Thonberg"
+    "postcode": "04317",
+    "district": "Reudnitz-Thonberg",
+    "districtId": "reudnitz-thonberg"
   },
   {
     "street": "Breitkopfstraße",
     "street_number": "",
     "description": "Crusiusstraße/Täubchenweg",
     "borough": "Südost",
-    "postcode": "D-04317",
-    "district": "Reudnitz-Thonberg"
+    "postcode": "04317",
+    "district": "Reudnitz-Thonberg",
+    "districtId": "reudnitz-thonberg"
   },
   {
     "street": "Dresdner Straße",
     "street_number": "",
     "description": "ggü. Reclamstraße",
     "borough": "Südost",
-    "postcode": "D-04317",
-    "district": "Reudnitz-Thonberg"
+    "postcode": "04317",
+    "district": "Reudnitz-Thonberg",
+    "districtId": "reudnitz-thonberg"
   },
   {
     "street": "Eilenburger Straße",
     "street_number": "",
     "description": "Höhe Seemannstraße",
     "borough": "Südost",
-    "postcode": "D-04317",
-    "district": "Reudnitz-Thonberg"
+    "postcode": "04317",
+    "district": "Reudnitz-Thonberg",
+    "districtId": "reudnitz-thonberg"
   },
   {
     "street": "Hofer Straße",
     "street_number": "",
     "description": "Höhe Stötteritzer Straße",
     "borough": "Südost",
-    "postcode": "D-04317",
-    "district": "Reudnitz-Thonberg"
+    "postcode": "04317",
+    "district": "Reudnitz-Thonberg",
+    "districtId": "reudnitz-thonberg"
   },
   {
     "street": "Hofer Straße",
     "street_number": 46,
     "description": "Stiftung Meyersche Häuser",
     "borough": "Südost",
-    "postcode": "D-04317",
-    "district": "Reudnitz-Thonberg"
+    "postcode": "04317",
+    "district": "Reudnitz-Thonberg",
+    "districtId": "reudnitz-thonberg"
   },
   {
     "street": "Holsteinstraße",
     "street_number": 32,
     "description": "Ecke Kurt-Günther-Straße",
     "borough": "Südost",
-    "postcode": "D-04317",
-    "district": "Reudnitz-Thonberg"
+    "postcode": "04317",
+    "district": "Reudnitz-Thonberg",
+    "districtId": "reudnitz-thonberg"
   },
   {
     "street": "Holsteinstraße",
     "street_number": 62,
-    "description": "Höhe",
+    "description": "Höhe Reinhold-Krüger-Straße/Parktasche",
     "borough": "Südost",
-    "postcode": "D-04317",
-    "district": "Reudnitz-Thonberg"
-  },
-  {
-    "street": "",
-    "street_number": "",
-    "description": "Reinhold-Krüger-Straße/Parktasche",
-    "borough": "",
-    "postcode": "",
-    "district": ""
+    "postcode": "04317",
+    "district": "Reudnitz-Thonberg",
+    "districtId": "reudnitz-thonberg"
   },
   {
     "street": "Karl-Siegismund-Straße",
     "street_number": "",
     "description": "hinter Bioladen",
     "borough": "Südost",
-    "postcode": "D-04317",
-    "district": "Reudnitz-Thonberg"
+    "postcode": "04317",
+    "district": "Reudnitz-Thonberg",
+    "districtId": "reudnitz-thonberg"
   },
   {
     "street": "Kippenbergstraße",
     "street_number": "",
     "description": "Höhe Geyerstraße",
     "borough": "Südost",
-    "postcode": "D-04317",
-    "district": "Reudnitz-Thonberg"
+    "postcode": "04317",
+    "district": "Reudnitz-Thonberg",
+    "districtId": "reudnitz-thonberg"
   },
   {
     "street": "Kurt-Günther-Straße",
     "street_number": 1,
     "description": "Höhe Riebeckstraße",
     "borough": "Südost",
-    "postcode": "D-04317",
-    "district": "Reudnitz-Thonberg"
+    "postcode": "04317",
+    "district": "Reudnitz-Thonberg",
+    "districtId": "reudnitz-thonberg"
   },
   {
     "street": "Mühlstraße",
     "street_number": "",
     "description": "Höhe Cäcilienstraße/ggü. Brauerei",
     "borough": "Südost",
-    "postcode": "D-04317",
-    "district": "Reudnitz-Thonberg"
+    "postcode": "04317",
+    "district": "Reudnitz-Thonberg",
+    "districtId": "reudnitz-thonberg"
   },
   {
     "street": "Oststraße",
     "street_number": 101,
     "description": "",
     "borough": "Südost",
-    "postcode": "D-04317",
-    "district": "Reudnitz-Thonberg"
+    "postcode": "04317",
+    "district": "Reudnitz-Thonberg",
+    "districtId": "reudnitz-thonberg"
   },
   {
     "street": "Gletschersteinstraße",
     "street_number": "",
     "description": "Höhe Naunhofer Straße/Gregoryplatz",
     "borough": "Südost",
-    "postcode": "D-04299",
-    "district": "Stötteritz"
+    "postcode": "04299",
+    "district": "Stötteritz",
+    "districtId": "stoetteritz"
   },
   {
     "street": "Holzhäuser Straße",
     "street_number": "",
     "description": "Höhe Breslauer Straße",
     "borough": "Südost",
-    "postcode": "D-04299",
-    "district": "Stötteritz"
+    "postcode": "04299",
+    "district": "Stötteritz",
+    "districtId": "stoetteritz"
   },
   {
     "street": "Holzhäuser Straße",
     "street_number": "",
     "description": "am Einkaufsmarkt",
     "borough": "Südost",
-    "postcode": "D-04299",
-    "district": "Stötteritz"
+    "postcode": "04299",
+    "district": "Stötteritz",
+    "districtId": "stoetteritz"
   },
   {
     "street": "Kolmstraße",
     "street_number": 63,
     "description": "Höhe Kommandant-Prendel-Allee",
     "borough": "Südost",
-    "postcode": "D-04299",
-    "district": "Stötteritz"
+    "postcode": "04299",
+    "district": "Stötteritz",
+    "districtId": "stoetteritz"
   },
   {
     "street": "Lange Reihe",
     "street_number": 1,
     "description": "Ecke Oberdorfstraße",
     "borough": "Südost",
-    "postcode": "D-04299",
-    "district": "Stötteritz"
+    "postcode": "04299",
+    "district": "Stötteritz",
+    "districtId": "stoetteritz"
   },
   {
     "street": "Naunhofer Straße",
     "street_number": "",
     "description": "Gustav-Schwabe-Platz (Thiemstraße)",
     "borough": "Südost",
-    "postcode": "D-04299",
-    "district": "Stötteritz"
+    "postcode": "04299",
+    "district": "Stötteritz",
+    "districtId": "stoetteritz"
   },
   {
     "street": "Oststraße",
     "street_number": "",
     "description": "Höhe Papiermühlstraße",
     "borough": "Südost",
-    "postcode": "D-04299",
-    "district": "Stötteritz"
+    "postcode": "04299",
+    "district": "Stötteritz",
+    "districtId": "stoetteritz"
   },
   {
     "street": "An der Tabaksmühle",
     "street_number": "",
     "description": "Höhe Friedhofsweg",
     "borough": "Südost",
-    "postcode": "D-04289",
-    "district": "Probstheida"
+    "postcode": "04289",
+    "district": "Probstheida",
+    "districtId": "probstheida"
   },
   {
     "street": "Augustinerstraße",
     "street_number": 8,
     "description": "WSH (mit Altglas-Annahme)",
     "borough": "Südost",
-    "postcode": "D-04289",
-    "district": "Probstheida"
+    "postcode": "04289",
+    "district": "Probstheida",
+    "districtId": "probstheida"
   },
   {
     "street": "Bockstraße",
     "street_number": 3,
     "description": "ggü./Ecke Leuckartstraße",
     "borough": "Südost",
-    "postcode": "D-04289",
-    "district": "Probstheida"
+    "postcode": "04289",
+    "district": "Probstheida",
+    "districtId": "probstheida"
   },
   {
     "street": "Höltystraße",
     "street_number": "",
     "description": "Höhe Lene-Voigt-Straße",
     "borough": "Südost",
-    "postcode": "D-04289",
-    "district": "Probstheida"
+    "postcode": "04289",
+    "district": "Probstheida",
+    "districtId": "probstheida"
   },
   {
     "street": "Lene-Voigt-Straße",
     "street_number": 2,
     "description": "ggü. Einkaufsmarkt",
     "borough": "Südost",
-    "postcode": "D-04289",
-    "district": "Probstheida"
+    "postcode": "04289",
+    "district": "Probstheida",
+    "districtId": "probstheida"
   },
   {
     "street": "Strümpellstraße",
     "street_number": "",
     "description": "zwischen Zweifel- und Crednerstraße",
     "borough": "Südost",
-    "postcode": "D-04289",
-    "district": "Probstheida"
+    "postcode": "04289",
+    "district": "Probstheida",
+    "districtId": "probstheida"
   },
   {
     "street": "Tirolerweg",
     "street_number": 6,
     "description": "ggü./Parkplatz Sonnenpark",
     "borough": "Südost",
-    "postcode": "D-04289",
-    "district": "Probstheida"
+    "postcode": "04289",
+    "district": "Probstheida",
+    "districtId": "probstheida"
   },
   {
     "street": "Trendelenburgstraße",
     "street_number": 8,
     "description": "",
     "borough": "Südost",
-    "postcode": "D-04289",
-    "district": "Probstheida"
+    "postcode": "04289",
+    "district": "Probstheida",
+    "districtId": "probstheida"
   },
   {
     "street": "Cervantesweg",
     "street_number": "",
     "description": "",
     "borough": "Südost",
-    "postcode": "D-04289",
-    "district": "Meusdorf"
+    "postcode": "04289",
+    "district": "Meusdorf",
+    "districtId": "meusdorf"
   },
   {
     "street": "An der Eisenbahn",
     "street_number": "",
     "description": "Am Bahnhof",
     "borough": "Südost",
-    "postcode": "D-04288",
-    "district": "Liebertwolkwitz"
+    "postcode": "04288",
+    "district": "Liebertwolkwitz",
+    "districtId": "liebertwolkwitz"
   },
   {
     "street": "Carl-Munde-Straße",
     "street_number": 8,
     "description": "",
     "borough": "Südost",
-    "postcode": "D-04288",
-    "district": "Liebertwolkwitz"
+    "postcode": "04288",
+    "district": "Liebertwolkwitz",
+    "districtId": "liebertwolkwitz"
   },
   {
     "street": "Güldengossaer Straße",
     "street_number": "",
     "description": "",
     "borough": "Südost",
-    "postcode": "D-04288",
-    "district": "Liebertwolkwitz"
+    "postcode": "04288",
+    "district": "Liebertwolkwitz",
+    "districtId": "liebertwolkwitz"
   },
   {
     "street": "Großpösnaer Straße",
     "street_number": 30,
     "description": "",
     "borough": "Südost",
-    "postcode": "D-04288",
-    "district": "Liebertwolkwitz"
+    "postcode": "04288",
+    "district": "Liebertwolkwitz",
+    "districtId": "liebertwolkwitz"
   },
   {
     "street": "Prager Straße",
     "street_number": "",
     "description": "zw. Schwarzenbergweg und Tankstelle",
     "borough": "Südost",
-    "postcode": "D-04288",
-    "district": "Liebertwolkwitz"
+    "postcode": "04288",
+    "district": "Liebertwolkwitz",
+    "districtId": "liebertwolkwitz"
   },
   {
     "street": "Wiesengrund",
     "street_number": 30,
     "description": "",
     "borough": "Südost",
-    "postcode": "D-04288",
-    "district": "Liebertwolkwitz"
+    "postcode": "04288",
+    "district": "Liebertwolkwitz",
+    "districtId": "liebertwolkwitz"
   },
   {
     "street": "Emil-Altner-Weg",
     "street_number": "",
     "description": "Ecke Stötteritzer Landstraße",
     "borough": "Südost",
-    "postcode": "D-04288",
-    "district": "Holzhausen"
+    "postcode": "04288",
+    "district": "Holzhausen",
+    "districtId": "holzhausen"
   },
   {
-    "street": "Hinter dem Zuckelhausener",
+    "street": "Hinter dem Zuckelhausener Ring",
     "street_number": "",
     "description": "Ecke Liebertwolkwitzer Straße",
     "borough": "Südost",
-    "postcode": "D-04288",
-    "district": "Holzhausen"
-  },
-  {
-    "street": "Ring",
-    "street_number": "",
-    "description": "",
-    "borough": "",
-    "postcode": "",
-    "district": ""
+    "postcode": "04288",
+    "district": "Holzhausen",
+    "districtId": "holzhausen"
   },
   {
     "street": "Liebertwolkwitzer Straße",
     "street_number": 39,
     "description": "WSH (mit Altglas-Annahme)",
     "borough": "Südost",
-    "postcode": "D-04288",
-    "district": "Holzhausen"
+    "postcode": "04288",
+    "district": "Holzhausen",
+    "districtId": "holzhausen"
   },
   {
     "street": "Walter-Heise-Straße",
     "street_number": "",
     "description": "Ecke Händelstraße",
     "borough": "Südost",
-    "postcode": "D-04288",
-    "district": "Holzhausen"
-  },
-  {
-    "street": "",
-    "street_number": "",
-    "description": 4,
-    "borough": "",
-    "postcode": "",
-    "district": ""
-  },
-  {
-    "street": "Straße",
-    "street_number": "HNr.",
-    "description": "Bemerkungen",
-    "borough": "Stadtbezirk",
-    "postcode": "Postleit-",
-    "district": "Ortsteil"
-  },
-  {
-    "street": "",
-    "street_number": "",
-    "description": "",
-    "borough": "",
-    "postcode": "zahl",
-    "district": ""
+    "postcode": "04288",
+    "district": "Holzhausen",
+    "districtId": "holzhausen"
   },
   {
     "street": "Bernhard-Göring-Straße",
     "street_number": 43,
     "description": "ggü. Albrecht-Dürer-Platz",
     "borough": "Süd",
-    "postcode": "D-04275",
-    "district": "Südvorstadt"
+    "postcode": "04275",
+    "district": "Südvorstadt",
+    "districtId": "suedvorstadt"
   },
   {
     "street": "Fockestraße",
     "street_number": 12,
     "description": "Höhe Kurt-Eisner-Straße",
     "borough": "Süd",
-    "postcode": "D-04275",
-    "district": "Südvorstadt"
+    "postcode": "04275",
+    "district": "Südvorstadt",
+    "districtId": "suedvorstadt"
   },
   {
     "street": "Karl-Liebknecht-Straße",
     "street_number": "",
     "description": "Höhe Hardenbergstraße",
     "borough": "Süd",
-    "postcode": "D-04275",
-    "district": "Südvorstadt"
+    "postcode": "04275",
+    "district": "Südvorstadt",
+    "districtId": "suedvorstadt"
   },
   {
     "street": "Kohlenstraße",
     "street_number": "",
     "description": "Höhe Körnerstraße",
     "borough": "Süd",
-    "postcode": "D-04275",
-    "district": "Südvorstadt"
+    "postcode": "04275",
+    "district": "Südvorstadt",
+    "districtId": "suedvorstadt"
   },
   {
     "street": "Arno-Nitzsche-Straße",
     "street_number": "",
     "description": "Höhe Meusdorfer Straße",
     "borough": "Süd",
-    "postcode": "D-04277",
-    "district": "Connewitz"
+    "postcode": "04277",
+    "district": "Connewitz",
+    "districtId": "connewitz"
   },
   {
     "street": "Arno-Nitzsche-Straße",
     "street_number": "",
     "description": "Höhe Schwimmhalle",
     "borough": "Süd",
-    "postcode": "D-04277",
-    "district": "Connewitz"
+    "postcode": "04277",
+    "district": "Connewitz",
+    "districtId": "connewitz"
   },
   {
     "street": "Bärlauchweg",
     "street_number": 25,
     "description": "schräg ggü.",
     "borough": "Süd",
-    "postcode": "D-04277",
-    "district": "Connewitz"
+    "postcode": "04277",
+    "district": "Connewitz",
+    "districtId": "connewitz"
   },
   {
     "street": "Bornaische Straße",
     "street_number": 2,
     "description": "Höhe Biedermannstraße",
     "borough": "Süd",
-    "postcode": "D-04277",
-    "district": "Connewitz"
+    "postcode": "04277",
+    "district": "Connewitz",
+    "districtId": "connewitz"
   },
   {
     "street": "Brandstraße",
     "street_number": 40,
     "description": "Höhe Selneckerstraße",
     "borough": "Süd",
-    "postcode": "D-04277",
-    "district": "Connewitz"
+    "postcode": "04277",
+    "district": "Connewitz",
+    "districtId": "connewitz"
   },
   {
     "street": "Burgstädter Straße",
     "street_number": "",
     "description": "zw. Hildebrand- und Kohrener Straße",
     "borough": "Süd",
-    "postcode": "D-04277",
-    "district": "Connewitz"
+    "postcode": "04277",
+    "district": "Connewitz",
+    "districtId": "connewitz"
   },
   {
     "street": "Karl-Liebknecht-Straße",
     "street_number": "",
     "description": "Scheffelstraße",
     "borough": "Süd",
-    "postcode": "D-04277",
-    "district": "Connewitz"
+    "postcode": "04277",
+    "district": "Connewitz",
+    "districtId": "connewitz"
   },
   {
     "street": "Pfeffingerstraße",
     "street_number": "",
     "description": "Ende Sackgasse",
     "borough": "Süd",
-    "postcode": "D-04277",
-    "district": "Connewitz"
+    "postcode": "04277",
+    "district": "Connewitz",
+    "districtId": "connewitz"
   },
   {
     "street": "Probstheidaer Straße",
     "street_number": "",
-    "description": "Ecke Burgstädter Straße, Platz nahe",
+    "description": "Ecke Burgstädter Straße, Platz nahe Bahnübergang",
     "borough": "Süd",
-    "postcode": "D-04277",
-    "district": "Connewitz"
-  },
-  {
-    "street": "",
-    "street_number": "",
-    "description": "Bahnübergang",
-    "borough": "",
-    "postcode": "",
-    "district": ""
+    "postcode": "04277",
+    "district": "Connewitz",
+    "districtId": "connewitz"
   },
   {
     "street": "Richard-Lehmann-Straße",
     "street_number": "",
-    "description": "ggü. Polizei, zwischen Koch- und",
+    "description": "ggü. Polizei, zwischen Koch- und Windscheidstraße",
     "borough": "Süd",
-    "postcode": "D-04277",
-    "district": "Connewitz"
-  },
-  {
-    "street": "",
-    "street_number": "",
-    "description": "Windscheidstraße",
-    "borough": "",
-    "postcode": "",
-    "district": ""
+    "postcode": "04277",
+    "district": "Connewitz",
+    "districtId": "connewitz"
   },
   {
     "street": "Richard-Lehmann-Straße",
     "street_number": 110,
     "description": "Zufahrt zum Panometer",
     "borough": "Süd",
-    "postcode": "D-04277",
-    "district": "Connewitz"
+    "postcode": "04277",
+    "district": "Connewitz",
+    "districtId": "connewitz"
   },
   {
     "street": "Wolfgang-Heinze-Straße",
     "street_number": "",
     "description": "Höhe Basedowstraße",
     "borough": "Süd",
-    "postcode": "D-04277",
-    "district": "Connewitz"
+    "postcode": "04277",
+    "district": "Connewitz",
+    "districtId": "connewitz"
   },
   {
     "street": "An der Märchenwiese",
     "street_number": 49,
     "description": "ggü. Schule",
     "borough": "Süd",
-    "postcode": "D-04277",
-    "district": "Marienbrunn"
+    "postcode": "04277",
+    "district": "Marienbrunn",
+    "districtId": "marienbrunn"
   },
   {
     "street": "Rübezahlweg",
     "street_number": "",
     "description": "Höhe Sandmännchenweg",
     "borough": "Süd",
-    "postcode": "D-04277",
-    "district": "Marienbrunn"
+    "postcode": "04277",
+    "district": "Marienbrunn",
+    "districtId": "marienbrunn"
   },
   {
-    "street": "Bernhard-Kellermann-",
+    "street": "Bernhard-Kellermann-Straße",
     "street_number": 8,
     "description": "Höhe Probstheidaer Straße",
     "borough": "Süd",
-    "postcode": "D-04279",
-    "district": "Lößnig"
-  },
-  {
-    "street": "Straße",
-    "street_number": "",
-    "description": "",
-    "borough": "",
-    "postcode": "",
-    "district": ""
+    "postcode": "04279",
+    "district": "Lößnig",
+    "districtId": "loeßnig"
   },
   {
     "street": "Dürrstraße",
     "street_number": 69,
     "description": "Höhe Zehmischstraße",
     "borough": "Süd",
-    "postcode": "D-04279",
-    "district": "Lößnig"
+    "postcode": "04279",
+    "district": "Lößnig",
+    "districtId": "loeßnig"
   },
   {
     "street": "Hans-Marchwitza-Straße",
     "street_number": "",
     "description": "Ecke Johannes-R.-Becher-Straße",
     "borough": "Süd",
-    "postcode": "D-04279",
-    "district": "Lößnig"
+    "postcode": "04279",
+    "district": "Lößnig",
+    "districtId": "loeßnig"
   },
   {
     "street": "Johannes-R.-Becher-Straße",
     "street_number": 11,
     "description": "hinter Studentenwohnheim",
     "borough": "Süd",
-    "postcode": "D-04279",
-    "district": "Lößnig"
+    "postcode": "04279",
+    "district": "Lößnig",
+    "districtId": "loeßnig"
   },
   {
     "street": "Johannes-R.-Becher-Straße",
     "street_number": 13,
     "description": "WSH (mit Altglas-Annahme)",
     "borough": "Süd",
-    "postcode": "D-04279",
-    "district": "Lößnig"
+    "postcode": "04279",
+    "district": "Lößnig",
+    "districtId": "loeßnig"
   },
   {
     "street": "Johannes-R.-Becher-Straße",
     "street_number": 22,
     "description": "",
     "borough": "Süd",
-    "postcode": "D-04279",
-    "district": "Lößnig"
+    "postcode": "04279",
+    "district": "Lößnig",
+    "districtId": "loeßnig"
   },
   {
     "street": "Johannes-R.-Becher-Straße",
     "street_number": 3,
     "description": "Höhe Zwickauer Straße",
     "borough": "Süd",
-    "postcode": "D-04279",
-    "district": "Lößnig"
+    "postcode": "04279",
+    "district": "Lößnig",
+    "districtId": "loeßnig"
   },
   {
     "street": "Kurt-Tucholsky-Straße",
     "street_number": 2,
     "description": "Parkplatz",
     "borough": "Süd",
-    "postcode": "D-04279",
-    "district": "Lößnig"
+    "postcode": "04279",
+    "district": "Lößnig",
+    "districtId": "loeßnig"
   },
   {
     "street": "Liechtensteinstraße",
     "street_number": "",
     "description": "Höhe Lobstädter Straße",
     "borough": "Süd",
-    "postcode": "D-04279",
-    "district": "Lößnig"
+    "postcode": "04279",
+    "district": "Lößnig",
+    "districtId": "loeßnig"
   },
   {
     "street": "Probstheidaer Straße",
     "street_number": "",
     "description": "Höhe Hans-Otto-Straße",
     "borough": "Süd",
-    "postcode": "D-04279",
-    "district": "Lößnig"
+    "postcode": "04279",
+    "district": "Lößnig",
+    "districtId": "loeßnig"
   },
   {
     "street": "Siegfriedstraße",
     "street_number": "",
     "description": "Kaufhalle",
     "borough": "Süd",
-    "postcode": "D-04279",
-    "district": "Lößnig"
+    "postcode": "04279",
+    "district": "Lößnig",
+    "districtId": "loeßnig"
   },
   {
     "street": "Zwickauer Straße",
     "street_number": "",
     "description": "Höhe Dankwartstraße",
     "borough": "Süd",
-    "postcode": "D-04279",
-    "district": "Lößnig"
+    "postcode": "04279",
+    "district": "Lößnig",
+    "districtId": "loeßnig"
   },
   {
     "street": "Bornaische Straße",
     "street_number": "",
     "description": "Eingang Agra",
     "borough": "Süd",
-    "postcode": "D-04279",
-    "district": "Dölitz-Dösen"
+    "postcode": "04279",
+    "district": "Dölitz-Dösen",
+    "districtId": "doelitz-doesen"
   },
   {
     "street": "Eigenheimstraße",
     "street_number": "",
     "description": "Höhe Libertastraße",
     "borough": "Süd",
-    "postcode": "D-04279",
-    "district": "Dölitz-Dösen"
+    "postcode": "04279",
+    "district": "Dölitz-Dösen",
+    "districtId": "doelitz-doesen"
   },
   {
     "street": "Friederikenstraße",
     "street_number": 50,
     "description": "ggü.",
     "borough": "Süd",
-    "postcode": "D-04279",
-    "district": "Dölitz-Dösen"
+    "postcode": "04279",
+    "district": "Dölitz-Dösen",
+    "districtId": "doelitz-doesen"
   },
   {
     "street": "Georg-Maurer-Straße",
     "street_number": 23,
     "description": "Höhe Gersterstraße/Parkplatz",
     "borough": "Süd",
-    "postcode": "D-04279",
-    "district": "Dölitz-Dösen"
+    "postcode": "04279",
+    "district": "Dölitz-Dösen",
+    "districtId": "doelitz-doesen"
   },
   {
     "street": "Holbeinstraße",
     "street_number": "",
     "description": "Höhe Limburgerstraße",
     "borough": "Südwest",
-    "postcode": "D-04229",
-    "district": "Schleußig"
+    "postcode": "04229",
+    "district": "Schleußig",
+    "districtId": "schleußig"
   },
   {
     "street": "Könneritzstraße",
     "street_number": 101,
     "description": "Höhe Oeserstraße",
     "borough": "Südwest",
-    "postcode": "D-04229",
-    "district": "Schleußig"
+    "postcode": "04229",
+    "district": "Schleußig",
+    "districtId": "schleußig"
   },
   {
     "street": "Rödelstraße",
     "street_number": "",
     "description": "Höhe Rochlitzstraße (an Schule)",
     "borough": "Südwest",
-    "postcode": "D-04229",
-    "district": "Schleußig"
+    "postcode": "04229",
+    "district": "Schleußig",
+    "districtId": "schleußig"
   },
   {
     "street": "Engertstraße",
     "street_number": "",
-    "description": "Höhe Naumburger",
+    "description": "Höhe Naumburger Straße/Wendeschleife Straßenbahn",
     "borough": "Südwest",
-    "postcode": "D-04229",
-    "district": "Plagwitz"
-  },
-  {
-    "street": "",
-    "street_number": "",
-    "description": "Straße/Wendeschleife Straßenbahn",
-    "borough": "",
-    "postcode": "",
-    "district": ""
+    "postcode": "04229",
+    "district": "Plagwitz",
+    "districtId": "plagwitz"
   },
   {
     "street": "Erich-Zeigner-Allee",
     "street_number": 20,
     "description": "gegenüber Kirche",
     "borough": "Südwest",
-    "postcode": "D-04229",
-    "district": "Plagwitz"
+    "postcode": "04229",
+    "district": "Plagwitz",
+    "districtId": "plagwitz"
   },
   {
     "street": "Erich-Zeigner-Allee",
     "street_number": 69,
     "description": "Höhe Gewerbeobjekt",
     "borough": "Südwest",
-    "postcode": "D-04229",
-    "district": "Plagwitz"
+    "postcode": "04229",
+    "district": "Plagwitz",
+    "districtId": "plagwitz"
   },
   {
     "street": "Erich-Zeigner-Allee",
     "street_number": 91,
     "description": "",
     "borough": "Südwest",
-    "postcode": "D-04229",
-    "district": "Plagwitz"
+    "postcode": "04229",
+    "district": "Plagwitz",
+    "districtId": "plagwitz"
   },
   {
     "street": "Gießerstraße",
     "street_number": "",
     "description": "Höhe Baumarkt",
     "borough": "Südwest",
-    "postcode": "D-04229",
-    "district": "Plagwitz"
+    "postcode": "04229",
+    "district": "Plagwitz",
+    "districtId": "plagwitz"
   },
   {
     "street": "Markranstädter Straße",
     "street_number": "",
     "description": "Ecke Zschochersche Straße",
     "borough": "Südwest",
-    "postcode": "D-04229",
-    "district": "Plagwitz"
+    "postcode": "04229",
+    "district": "Plagwitz",
+    "districtId": "plagwitz"
   },
   {
     "street": "Diezmannstraße",
     "street_number": 61,
     "description": "im Hof der Meyerschen Häuser",
     "borough": "Südwest",
-    "postcode": "D-04207",
-    "district": "Kleinzschocher"
+    "postcode": "04207",
+    "district": "Kleinzschocher",
+    "districtId": "kleinzschocher"
   },
   {
     "street": "Gärtnerstraße",
     "street_number": 36,
-    "description": "WSH (mit Altglas-Annahme) Ecke",
+    "description": "WSH (mit Altglas-Annahme) Ecke Brünner Straße",
     "borough": "Südwest",
-    "postcode": "D-04207",
-    "district": "Kleinzschocher"
-  },
-  {
-    "street": "",
-    "street_number": "",
-    "description": "Brünner Straße",
-    "borough": "",
-    "postcode": "",
-    "district": ""
+    "postcode": "04207",
+    "district": "Kleinzschocher",
+    "districtId": "kleinzschocher"
   },
   {
     "street": "Herrmann-Meyer-Straße",
     "street_number": "55/57",
     "description": "im Hof der Meyerschen Häuser",
     "borough": "Südwest",
-    "postcode": "D-04207",
-    "district": "Kleinzschocher"
+    "postcode": "04207",
+    "district": "Kleinzschocher",
+    "districtId": "kleinzschocher"
   },
   {
     "street": "Nikolai-Rumjanzew-Straße",
     "street_number": "",
     "description": "Höhe Straße am Park",
     "borough": "Südwest",
-    "postcode": "D-04207",
-    "district": "Kleinzschocher"
+    "postcode": "04207",
+    "district": "Kleinzschocher",
+    "districtId": "kleinzschocher"
   },
   {
     "street": "Ratzelstraße",
     "street_number": 59,
     "description": "im Hof der Meyerschen Häuser",
     "borough": "Südwest",
-    "postcode": "D-04207",
-    "district": "Kleinzschocher"
+    "postcode": "04207",
+    "district": "Kleinzschocher",
+    "districtId": "kleinzschocher"
   },
   {
     "street": "Ratzelstraße",
     "street_number": 91,
     "description": "im Hof der Meyerschen Häuser",
     "borough": "Südwest",
-    "postcode": "D-04207",
-    "district": "Kleinzschocher"
+    "postcode": "04207",
+    "district": "Kleinzschocher",
+    "districtId": "kleinzschocher"
   },
   {
     "street": "Dieskaustraße",
     "street_number": "",
     "description": "Ecke Schwartzestraße",
     "borough": "Südwest",
-    "postcode": "D-04229",
-    "district": "Kleinzschocher"
+    "postcode": "04229",
+    "district": "Kleinzschocher",
+    "districtId": "kleinzschocher"
   },
   {
     "street": "Dieskaustraße",
     "street_number": 133,
     "description": "WSH (mit Altglas-Annahme)",
     "borough": "Südwest",
-    "postcode": "D-04229",
-    "district": "Kleinzschocher"
-  },
-  {
-    "street": "",
-    "street_number": "",
-    "description": 5,
-    "borough": "",
-    "postcode": "",
-    "district": ""
-  },
-  {
-    "street": "Straße",
-    "street_number": "HNr.",
-    "description": "Bemerkungen",
-    "borough": "Stadtbezirk",
-    "postcode": "Postleit-",
-    "district": "Ortsteil"
-  },
-  {
-    "street": "",
-    "street_number": "",
-    "description": "",
-    "borough": "",
-    "postcode": "zahl",
-    "district": ""
+    "postcode": "04229",
+    "district": "Kleinzschocher",
+    "districtId": "kleinzschocher"
   },
   {
     "street": "Kantatenweg",
     "street_number": "",
     "description": "Richtung Antonienstraße",
     "borough": "Südwest",
-    "postcode": "D-04229",
-    "district": "Kleinzschocher"
+    "postcode": "04229",
+    "district": "Kleinzschocher",
+    "districtId": "kleinzschocher"
   },
   {
     "street": "Luckaer Straße",
     "street_number": "",
     "description": "Höhe Kulkwitzer Straße",
     "borough": "Südwest",
-    "postcode": "D-04229",
-    "district": "Kleinzschocher"
+    "postcode": "04229",
+    "district": "Kleinzschocher",
+    "districtId": "kleinzschocher"
   },
   {
     "street": "Windorfer Straße",
     "street_number": "",
     "description": "Dieskaustraße 111, neben Tankstelle",
     "borough": "Südwest",
-    "postcode": "D-04229",
-    "district": "Kleinzschocher"
+    "postcode": "04229",
+    "district": "Kleinzschocher",
+    "districtId": "kleinzschocher"
   },
   {
     "street": "Arthur-Nagel-Straße",
     "street_number": "",
     "description": "Höhe Kloßstraße",
     "borough": "Südwest",
-    "postcode": "D-04249",
-    "district": "Großzschocher"
+    "postcode": "04249",
+    "district": "Großzschocher",
+    "districtId": "großzschocher"
   },
   {
     "street": "Arthur-Nagel-Straße",
     "street_number": 7,
     "description": "Höhe Otto-Militzer-Straße/Parktasche",
     "borough": "Südwest",
-    "postcode": "D-04249",
-    "district": "Großzschocher"
+    "postcode": "04249",
+    "district": "Großzschocher",
+    "districtId": "großzschocher"
   },
   {
     "street": "Brauereistraße",
     "street_number": "",
     "description": "Höhe Einkaufsmarkt",
     "borough": "Südwest",
-    "postcode": "D-04249",
-    "district": "Großzschocher"
+    "postcode": "04249",
+    "district": "Großzschocher",
+    "districtId": "großzschocher"
   },
   {
     "street": "Dieskaustraße",
     "street_number": 295,
     "description": "gegenüber auf der Freifläche",
     "borough": "Südwest",
-    "postcode": "D-04249",
-    "district": "Großzschocher"
+    "postcode": "04249",
+    "district": "Großzschocher",
+    "districtId": "großzschocher"
   },
   {
     "street": "Eichelbaumstraße",
     "street_number": 15,
     "description": "Kaufhalle",
     "borough": "Südwest",
-    "postcode": "D-04249",
-    "district": "Großzschocher"
+    "postcode": "04249",
+    "district": "Großzschocher",
+    "districtId": "großzschocher"
   },
   {
     "street": "Kloßstraße",
     "street_number": "",
     "description": "Höhe Bismarckstraße/Parkplatz",
     "borough": "Südwest",
-    "postcode": "D-04249",
-    "district": "Großzschocher"
+    "postcode": "04249",
+    "district": "Großzschocher",
+    "districtId": "großzschocher"
   },
   {
     "street": "Neubauernstraße",
     "street_number": 9,
     "description": "Rapsweg/Neubauernstraße",
     "borough": "Südwest",
-    "postcode": "D-04249",
-    "district": "Großzschocher"
+    "postcode": "04249",
+    "district": "Großzschocher",
+    "districtId": "großzschocher"
   },
   {
     "street": "Raiffeisenstraße",
     "street_number": "",
     "description": "gegenüber Bushaltestelle",
     "borough": "Südwest",
-    "postcode": "D-04249",
-    "district": "Großzschocher"
+    "postcode": "04249",
+    "district": "Großzschocher",
+    "districtId": "großzschocher"
   },
   {
     "street": "Dieskaustraße",
     "street_number": 375,
     "description": "Schlippe/Gartenverein",
     "borough": "Südwest",
-    "postcode": "D-04249",
-    "district": "Knautkleeberg-"
-  },
-  {
-    "street": "",
-    "street_number": "",
-    "description": "",
-    "borough": "",
-    "postcode": "",
-    "district": "Knauthain"
+    "postcode": "04249",
+    "district": "Knautkleeberg-Knauthain",
+    "districtId": "knautkleeberg-knauthain"
   },
   {
     "street": "Dieskaustraße",
     "street_number": 483,
     "description": "An Tankstelle",
     "borough": "Südwest",
-    "postcode": "D-04249",
-    "district": "Knautkleeberg-"
-  },
-  {
-    "street": "",
-    "street_number": "",
-    "description": "",
-    "borough": "",
-    "postcode": "",
-    "district": "Knauthain"
+    "postcode": "04249",
+    "district": "Knautkleeberg-Knauthain",
+    "districtId": "knautkleeberg-knauthain"
   },
   {
     "street": "Seumestraße",
     "street_number": 20,
     "description": "Ecke Göhrenzer Straße",
     "borough": "Südwest",
-    "postcode": "D-04249",
-    "district": "Knautkleeberg-"
-  },
-  {
-    "street": "",
-    "street_number": "",
-    "description": "",
-    "borough": "",
-    "postcode": "",
-    "district": "Knauthain"
+    "postcode": "04249",
+    "district": "Knautkleeberg-Knauthain",
+    "districtId": "knautkleeberg-knauthain"
   },
   {
     "street": "Wildentensteig",
     "street_number": "",
     "description": "am Gartenverein, 60 m hinter Kreuzung",
     "borough": "Südwest",
-    "postcode": "D-04249",
-    "district": "Knautkleeberg-"
-  },
-  {
-    "street": "",
-    "street_number": "",
-    "description": "Emil-Teich-Straße",
-    "borough": "",
-    "postcode": "",
-    "district": "Knauthain"
+    "postcode": "04249",
+    "district": "Knautkleeberg-Knauthain",
+    "districtId": "knautkleeberg-knauthain"
   },
   {
     "street": "Erikenstraße",
     "street_number": 32,
     "description": "zwischen Birkenweg und Gartenweg",
     "borough": "Südwest",
-    "postcode": "D-04249",
-    "district": "Hartmannsdorf-"
-  },
-  {
-    "street": "",
-    "street_number": "",
-    "description": "",
-    "borough": "",
-    "postcode": "",
-    "district": "Knautnaundorf"
+    "postcode": "04249",
+    "district": "Hartmannsdorf-Knautnaundorf",
+    "districtId": "hartmannsdorf-knautnaundorf"
   },
   {
     "street": "Erikenstraße",
     "street_number": 46,
     "description": "ggü.",
     "borough": "Südwest",
-    "postcode": "D-04249",
-    "district": "Hartmannsdorf-"
-  },
-  {
-    "street": "",
-    "street_number": "",
-    "description": "",
-    "borough": "",
-    "postcode": "",
-    "district": "Knautnaundorf"
+    "postcode": "04249",
+    "district": "Hartmannsdorf-Knautnaundorf",
+    "districtId": "hartmannsdorf-knautnaundorf"
   },
   {
     "street": "Rehbacher Anger",
     "street_number": "",
     "description": "neben Haltestellenhäuschen",
     "borough": "Südwest",
-    "postcode": "D-04249",
-    "district": "Hartmannsdorf-"
-  },
-  {
-    "street": "",
-    "street_number": "",
-    "description": "",
-    "borough": "",
-    "postcode": "",
-    "district": "Knautnaundorf"
+    "postcode": "04249",
+    "district": "Hartmannsdorf-Knautnaundorf",
+    "districtId": "hartmannsdorf-knautnaundorf"
   },
   {
     "street": "Am Schwalbennest",
     "street_number": "",
-    "description": "Parkplatz Einkaufsmarkt, Lützner",
+    "description": "Parkplatz Einkaufsmarkt, Lützner Straße 396",
     "borough": "West",
-    "postcode": "D-04205",
-    "district": "Schönau"
-  },
-  {
-    "street": "",
-    "street_number": "",
-    "description": "Straße 396",
-    "borough": "",
-    "postcode": "",
-    "district": ""
+    "postcode": "04205",
+    "district": "Schönau",
+    "districtId": "schoenau"
   },
   {
     "street": "Am Schwalbennest",
     "street_number": 16,
     "description": "Standort in Freifläche",
     "borough": "West",
-    "postcode": "D-04205",
-    "district": "Schönau"
+    "postcode": "04205",
+    "district": "Schönau",
+    "districtId": "schoenau"
   },
   {
     "street": "Jenaer Straße",
     "street_number": "",
     "description": "Höhe Meininger Ring",
     "borough": "West",
-    "postcode": "D-04205",
-    "district": "Schönau"
+    "postcode": "04205",
+    "district": "Schönau",
+    "districtId": "schoenau"
   },
   {
     "street": "Jenaer Straße",
     "street_number": "",
     "description": "Höhe Arnstädter Kehre, ggü. Parkplatz",
     "borough": "West",
-    "postcode": "D-04205",
-    "district": "Schönau"
+    "postcode": "04205",
+    "district": "Schönau",
+    "districtId": "schoenau"
   },
   {
     "street": "Lindennaundorfer Weg",
     "street_number": 18,
-    "description": "Parkplatz zwischen Lindennaundorfer",
+    "description": "Parkplatz zwischen Lindennaundorfer Weg 21 und Frankenheimer Weg 30",
     "borough": "West",
-    "postcode": "D-04205",
-    "district": "Schönau"
-  },
-  {
-    "street": "",
-    "street_number": "",
-    "description": "Weg 21 und Frankenheimer Weg 30",
-    "borough": "",
-    "postcode": "",
-    "district": ""
+    "postcode": "04205",
+    "district": "Schönau",
+    "districtId": "schoenau"
   },
   {
     "street": "Schönauer Ring",
     "street_number": "",
     "description": "Höhe Dölziger Weg",
     "borough": "West",
-    "postcode": "D-04205",
-    "district": "Schönau"
+    "postcode": "04205",
+    "district": "Schönau",
+    "districtId": "schoenau"
   },
   {
     "street": "Schönauer Ring",
     "street_number": 1,
-    "description": "Höhe Einkaufsmarkt, Einmündung",
+    "description": "Höhe Einkaufsmarkt, Einmündung Schönauer Lachen",
     "borough": "West",
-    "postcode": "D-04205",
-    "district": "Schönau"
-  },
-  {
-    "street": "",
-    "street_number": "",
-    "description": "Schönauer Lachen",
-    "borough": "",
-    "postcode": "",
-    "district": ""
+    "postcode": "04205",
+    "district": "Schönau",
+    "districtId": "schoenau"
   },
   {
     "street": "Suhler Straße",
     "street_number": "",
     "description": "Höhe Einkaufsmarkt, ggü. Nr. 57",
     "borough": "West",
-    "postcode": "D-04205",
-    "district": "Schönau"
+    "postcode": "04205",
+    "district": "Schönau",
+    "districtId": "schoenau"
   },
   {
     "street": "Weimaer Straße",
     "street_number": "",
     "description": "ggü. Eisenberger Ring 8",
     "borough": "West",
-    "postcode": "D-04205",
-    "district": "Schönau"
+    "postcode": "04205",
+    "district": "Schönau",
+    "districtId": "schoenau"
   },
   {
     "street": "Alte Salzstraße",
     "street_number": 52,
     "description": "Höhe Grünauer Allee/Parkplatz",
     "borough": "West",
-    "postcode": "D-04209",
-    "district": "Grünau-Ost"
+    "postcode": "04209",
+    "district": "Grünau-Ost",
+    "districtId": "gruenau-ost"
   },
   {
     "street": "Asternweg",
     "street_number": 44,
-    "description": "Höhe Rosenweg; Container in",
+    "description": "Höhe Rosenweg; Container in Steineinfassung",
     "borough": "West",
-    "postcode": "D-04209",
-    "district": "Grünau-Ost"
-  },
-  {
-    "street": "",
-    "street_number": "",
-    "description": "Steineinfassung",
-    "borough": "",
-    "postcode": "",
-    "district": ""
+    "postcode": "04209",
+    "district": "Grünau-Ost",
+    "districtId": "gruenau-ost"
   },
   {
     "street": "Dahlienstraße",
     "street_number": 101,
     "description": "",
     "borough": "West",
-    "postcode": "D-04209",
-    "district": "Grünau-Ost"
+    "postcode": "04209",
+    "district": "Grünau-Ost",
+    "districtId": "gruenau-ost"
   },
   {
     "street": "Dahlienstraße",
     "street_number": 31,
     "description": "",
     "borough": "West",
-    "postcode": "D-04209",
-    "district": "Grünau-Ost"
+    "postcode": "04209",
+    "district": "Grünau-Ost",
+    "districtId": "gruenau-ost"
   },
   {
     "street": "Gärtnerstraße",
     "street_number": 155,
     "description": "Parkplatz",
     "borough": "West",
-    "postcode": "D-04209",
-    "district": "Grünau-Ost"
+    "postcode": "04209",
+    "district": "Grünau-Ost",
+    "districtId": "gruenau-ost"
   },
   {
     "street": "Gärtnerstraße",
     "street_number": 41,
     "description": "Parkplatz",
     "borough": "West",
-    "postcode": "D-04209",
-    "district": "Grünau-Ost"
+    "postcode": "04209",
+    "district": "Grünau-Ost",
+    "districtId": "gruenau-ost"
   },
   {
     "street": "Grünauer Allee",
     "street_number": 37,
     "description": "am Sportplatz, Straße am Park 3",
     "borough": "West",
-    "postcode": "D-04209",
-    "district": "Grünau-Ost"
+    "postcode": "04209",
+    "district": "Grünau-Ost",
+    "districtId": "gruenau-ost"
   },
   {
     "street": "Nelkenweg",
     "street_number": 15,
     "description": "neben Parkhaus",
     "borough": "West",
-    "postcode": "D-04209",
-    "district": "Grünau-Ost"
+    "postcode": "04209",
+    "district": "Grünau-Ost",
+    "districtId": "gruenau-ost"
   },
   {
     "street": "Rosenweg",
     "street_number": 20,
     "description": "Parktasche",
     "borough": "West",
-    "postcode": "D-04209",
-    "district": "Grünau-Ost"
+    "postcode": "04209",
+    "district": "Grünau-Ost",
+    "districtId": "gruenau-ost"
   },
   {
     "street": "Straße am Park",
     "street_number": 4,
     "description": "Höhe Gärtnerstraße",
     "borough": "West",
-    "postcode": "D-04209",
-    "district": "Grünau-Ost"
+    "postcode": "04209",
+    "district": "Grünau-Ost",
+    "districtId": "gruenau-ost"
   },
   {
     "street": "Weißdornstraße",
     "street_number": "",
     "description": "Sackgasse/Alte Salzstraße 100",
     "borough": "West",
-    "postcode": "D-04209",
-    "district": "Grünau-Ost"
+    "postcode": "04209",
+    "district": "Grünau-Ost",
+    "districtId": "gruenau-ost"
   },
   {
     "street": "Weißdornstraße",
     "street_number": 84,
     "description": "",
     "borough": "West",
-    "postcode": "D-04209",
-    "district": "Grünau-Ost"
+    "postcode": "04209",
+    "district": "Grünau-Ost",
+    "districtId": "gruenau-ost"
   },
   {
     "street": "Alte Salzstraße",
     "street_number": 183,
     "description": "Höhe Potschkaustraße",
     "borough": "West",
-    "postcode": "D-04209",
-    "district": "Grünau-Mitte"
+    "postcode": "04209",
+    "district": "Grünau-Mitte",
+    "districtId": "gruenau-mitte"
   },
   {
     "street": "Am Kirschberg",
     "street_number": 13,
     "description": "Parkplatz",
     "borough": "West",
-    "postcode": "D-04209",
-    "district": "Grünau-Mitte"
+    "postcode": "04209",
+    "district": "Grünau-Mitte",
+    "districtId": "gruenau-mitte"
   },
   {
     "street": "Breisgaustraße",
     "street_number": 19,
     "description": "",
     "borough": "West",
-    "postcode": "D-04209",
-    "district": "Grünau-Mitte"
+    "postcode": "04209",
+    "district": "Grünau-Mitte",
+    "districtId": "gruenau-mitte"
   },
   {
     "street": "Breisgaustraße",
     "street_number": 29,
     "description": "",
     "borough": "West",
-    "postcode": "D-04209",
-    "district": "Grünau-Mitte"
+    "postcode": "04209",
+    "district": "Grünau-Mitte",
+    "districtId": "gruenau-mitte"
   },
   {
     "street": "Breisgaustraße",
     "street_number": 43,
     "description": "ggü. Parkhaus",
     "borough": "West",
-    "postcode": "D-04209",
-    "district": "Grünau-Mitte"
+    "postcode": "04209",
+    "district": "Grünau-Mitte",
+    "districtId": "gruenau-mitte"
   },
   {
     "street": "Breisgaustraße",
     "street_number": 47,
     "description": "Parkplatz",
     "borough": "West",
-    "postcode": "D-04209",
-    "district": "Grünau-Mitte"
+    "postcode": "04209",
+    "district": "Grünau-Mitte",
+    "districtId": "gruenau-mitte"
   },
   {
     "street": "Breisgaustraße",
     "street_number": 79,
     "description": "ggü.",
     "borough": "West",
-    "postcode": "D-04209",
-    "district": "Grünau-Mitte"
+    "postcode": "04209",
+    "district": "Grünau-Mitte",
+    "districtId": "gruenau-mitte"
   },
   {
     "street": "Heilbronner Straße",
     "street_number": 5,
     "description": "",
     "borough": "West",
-    "postcode": "D-04209",
-    "district": "Grünau-Mitte"
-  },
-  {
-    "street": "",
-    "street_number": "",
-    "description": 6,
-    "borough": "",
-    "postcode": "",
-    "district": ""
-  },
-  {
-    "street": "Straße",
-    "street_number": "HNr.",
-    "description": "Bemerkungen",
-    "borough": "Stadtbezirk",
-    "postcode": "Postleit-",
-    "district": "Ortsteil"
-  },
-  {
-    "street": "",
-    "street_number": "",
-    "description": "",
-    "borough": "",
-    "postcode": "zahl",
-    "district": ""
+    "postcode": "04209",
+    "district": "Grünau-Mitte",
+    "districtId": "gruenau-mitte"
   },
   {
     "street": "Karlsruher Straße",
     "street_number": 31,
     "description": "Seniorenheim",
     "borough": "West",
-    "postcode": "D-04209",
-    "district": "Grünau-Mitte"
+    "postcode": "04209",
+    "district": "Grünau-Mitte",
+    "districtId": "gruenau-mitte"
   },
   {
     "street": "Ludwigsburger Straße",
     "street_number": 16,
     "description": "",
     "borough": "West",
-    "postcode": "D-04209",
-    "district": "Grünau-Mitte"
+    "postcode": "04209",
+    "district": "Grünau-Mitte",
+    "districtId": "gruenau-mitte"
   },
   {
     "street": "Mannheimer Straße",
     "street_number": 130,
     "description": "Höhe Alte Salzstraße",
     "borough": "West",
-    "postcode": "D-04209",
-    "district": "Grünau-Mitte"
+    "postcode": "04209",
+    "district": "Grünau-Mitte",
+    "districtId": "gruenau-mitte"
   },
   {
     "street": "Mannheimer Straße",
     "street_number": 36,
     "description": "zwischen Nr. 36 und 96",
     "borough": "West",
-    "postcode": "D-04209",
-    "district": "Grünau-Mitte"
+    "postcode": "04209",
+    "district": "Grünau-Mitte",
+    "districtId": "gruenau-mitte"
   },
   {
     "street": "Offenburger Straße",
     "street_number": 11,
     "description": "",
     "borough": "West",
-    "postcode": "D-04209",
-    "district": "Grünau-Mitte"
+    "postcode": "04209",
+    "district": "Grünau-Mitte",
+    "districtId": "gruenau-mitte"
   },
   {
     "street": "Potschkaustraße",
     "street_number": 22,
     "description": "",
     "borough": "West",
-    "postcode": "D-04209",
-    "district": "Grünau-Mitte"
+    "postcode": "04209",
+    "district": "Grünau-Mitte",
+    "districtId": "gruenau-mitte"
   },
   {
     "street": "Ringstraße",
     "street_number": 1,
     "description": "",
     "borough": "West",
-    "postcode": "D-04209",
-    "district": "Grünau-Mitte"
+    "postcode": "04209",
+    "district": "Grünau-Mitte",
+    "districtId": "gruenau-mitte"
   },
   {
     "street": "Ringstraße",
     "street_number": 115,
     "description": "",
     "borough": "West",
-    "postcode": "D-04209",
-    "district": "Grünau-Mitte"
+    "postcode": "04209",
+    "district": "Grünau-Mitte",
+    "districtId": "gruenau-mitte"
   },
   {
     "street": "Ringstraße",
     "street_number": 171,
     "description": "Höhe Breisgaustraße",
     "borough": "West",
-    "postcode": "D-04209",
-    "district": "Grünau-Mitte"
+    "postcode": "04209",
+    "district": "Grünau-Mitte",
+    "districtId": "gruenau-mitte"
   },
   {
     "street": "Ringstraße",
     "street_number": 35,
     "description": "",
     "borough": "West",
-    "postcode": "D-04209",
-    "district": "Grünau-Mitte"
+    "postcode": "04209",
+    "district": "Grünau-Mitte",
+    "districtId": "gruenau-mitte"
   },
   {
     "street": "Ringstraße",
     "street_number": 59,
     "description": "",
     "borough": "West",
-    "postcode": "D-04209",
-    "district": "Grünau-Mitte"
+    "postcode": "04209",
+    "district": "Grünau-Mitte",
+    "districtId": "gruenau-mitte"
   },
   {
     "street": "Bamberger Straße",
     "street_number": 64,
     "description": "Höhe Lichtenfelser Straße",
     "borough": "West",
-    "postcode": "D-04207",
-    "district": "Grünau-Siedlung"
+    "postcode": "04207",
+    "district": "Grünau-Siedlung",
+    "districtId": "gruenau-siedlung"
   },
   {
     "street": "Brambacher Straße",
     "street_number": 41,
     "description": "",
     "borough": "West",
-    "postcode": "D-04207",
-    "district": "Grünau-Siedlung"
+    "postcode": "04207",
+    "district": "Grünau-Siedlung",
+    "districtId": "gruenau-siedlung"
   },
   {
     "street": "Brambacher Straße",
     "street_number": 87,
     "description": "Parkplatz",
     "borough": "West",
-    "postcode": "D-04207",
-    "district": "Grünau-Siedlung"
+    "postcode": "04207",
+    "district": "Grünau-Siedlung",
+    "districtId": "gruenau-siedlung"
   },
   {
     "street": "Krakauer Straße",
     "street_number": 2,
-    "description": "WSH (mit Altglas-Annahme) Ecke",
+    "description": "WSH (mit Altglas-Annahme) Ecke Ratzelstraße",
     "borough": "West",
-    "postcode": "D-04207",
-    "district": "Grünau-Siedlung"
-  },
-  {
-    "street": "",
-    "street_number": "",
-    "description": "Ratzelstraße",
-    "borough": "",
-    "postcode": "",
-    "district": ""
+    "postcode": "04207",
+    "district": "Grünau-Siedlung",
+    "districtId": "gruenau-siedlung"
   },
   {
     "street": "Rothenburger Straße",
     "street_number": 23,
     "description": "Höhe Ratzelstraße",
     "borough": "West",
-    "postcode": "D-04207",
-    "district": "Grünau-Siedlung"
+    "postcode": "04207",
+    "district": "Grünau-Siedlung",
+    "districtId": "gruenau-siedlung"
   },
   {
     "street": "Am Grund",
     "street_number": 2,
     "description": "",
     "borough": "West",
-    "postcode": "D-04207",
-    "district": "Lausen-Grünau"
+    "postcode": "04207",
+    "district": "Lausen-Grünau",
+    "districtId": "lausen-gruenau"
   },
   {
     "street": "Am Grund",
     "street_number": 70,
     "description": "Höhe Zschampertaue",
     "borough": "West",
-    "postcode": "D-04207",
-    "district": "Lausen-Grünau"
+    "postcode": "04207",
+    "district": "Lausen-Grünau",
+    "districtId": "lausen-gruenau"
   },
   {
     "street": "An der Kotsche",
     "street_number": 15,
     "description": "Parktasche",
     "borough": "West",
-    "postcode": "D-04207",
-    "district": "Lausen-Grünau"
+    "postcode": "04207",
+    "district": "Lausen-Grünau",
+    "districtId": "lausen-gruenau"
   },
   {
     "street": "An der Lautsche",
     "street_number": 26,
     "description": "",
     "borough": "West",
-    "postcode": "D-04207",
-    "district": "Lausen-Grünau"
+    "postcode": "04207",
+    "district": "Lausen-Grünau",
+    "districtId": "lausen-gruenau"
   },
   {
     "street": "Basteistraße",
     "street_number": 15,
     "description": "Höhe Liliensteinstraße",
     "borough": "West",
-    "postcode": "D-04207",
-    "district": "Lausen-Grünau"
+    "postcode": "04207",
+    "district": "Lausen-Grünau",
+    "districtId": "lausen-gruenau"
   },
   {
     "street": "Binzer Straße",
     "street_number": 14,
     "description": "78. Grundschule",
     "borough": "West",
-    "postcode": "D-04207",
-    "district": "Lausen-Grünau"
+    "postcode": "04207",
+    "district": "Lausen-Grünau",
+    "districtId": "lausen-gruenau"
   },
   {
     "street": "Brackestraße",
     "street_number": 31,
     "description": "ggü.",
     "borough": "West",
-    "postcode": "D-04207",
-    "district": "Lausen-Grünau"
+    "postcode": "04207",
+    "district": "Lausen-Grünau",
+    "districtId": "lausen-gruenau"
   },
   {
     "street": "Brackestraße",
     "street_number": 41,
     "description": "Höhe Seffnerstraße",
     "borough": "West",
-    "postcode": "D-04207",
-    "district": "Lausen-Grünau"
+    "postcode": "04207",
+    "district": "Lausen-Grünau",
+    "districtId": "lausen-gruenau"
   },
   {
     "street": "Deiwitzweg",
     "street_number": 3,
     "description": "",
     "borough": "West",
-    "postcode": "D-04207",
-    "district": "Lausen-Grünau"
+    "postcode": "04207",
+    "district": "Lausen-Grünau",
+    "districtId": "lausen-gruenau"
   },
   {
     "street": "Königsteinstraße",
     "street_number": 13,
     "description": "Parktasche",
     "borough": "West",
-    "postcode": "D-04207",
-    "district": "Lausen-Grünau"
+    "postcode": "04207",
+    "district": "Lausen-Grünau",
+    "districtId": "lausen-gruenau"
   },
   {
     "street": "Königsteinstraße",
     "street_number": 43,
     "description": "",
     "borough": "West",
-    "postcode": "D-04207",
-    "district": "Lausen-Grünau"
+    "postcode": "04207",
+    "district": "Lausen-Grünau",
+    "districtId": "lausen-gruenau"
   },
   {
     "street": "Liliensteinstraße",
     "street_number": 11,
     "description": "",
     "borough": "West",
-    "postcode": "D-04207",
-    "district": "Lausen-Grünau"
+    "postcode": "04207",
+    "district": "Lausen-Grünau",
+    "districtId": "lausen-gruenau"
   },
   {
     "street": "Pfaffensteinstraße",
     "street_number": 6,
     "description": "Höhe Königsteinstraße, Parkplatz",
     "borough": "West",
-    "postcode": "D-04207",
-    "district": "Lausen-Grünau"
+    "postcode": "04207",
+    "district": "Lausen-Grünau",
+    "districtId": "lausen-gruenau"
   },
   {
     "street": "Plovdiver Straße",
     "street_number": "",
     "description": "Parkplatz Miltitzer Straße 42d",
     "borough": "West",
-    "postcode": "D-04207",
-    "district": "Lausen-Grünau"
+    "postcode": "04207",
+    "district": "Lausen-Grünau",
+    "districtId": "lausen-gruenau"
   },
   {
     "street": "Salzweg",
     "street_number": "",
     "description": "80 m hinter Kreuzung Staffelsteinstraße",
     "borough": "West",
-    "postcode": "D-04207",
-    "district": "Lausen-Grünau"
+    "postcode": "04207",
+    "district": "Lausen-Grünau",
+    "districtId": "lausen-gruenau"
   },
   {
     "street": "Schrammsteinstraße",
     "street_number": "",
     "description": "Höhe Basteistraße/Parktasche",
     "borough": "West",
-    "postcode": "D-04207",
-    "district": "Lausen-Grünau"
+    "postcode": "04207",
+    "district": "Lausen-Grünau",
+    "districtId": "lausen-gruenau"
   },
   {
     "street": "Selliner Straße",
     "street_number": 21,
     "description": "Parkplatz",
     "borough": "West",
-    "postcode": "D-04207",
-    "district": "Lausen-Grünau"
+    "postcode": "04207",
+    "district": "Lausen-Grünau",
+    "districtId": "lausen-gruenau"
   },
   {
     "street": "Zingster Straße",
     "street_number": "",
     "description": "Nähe Straße am See an Litfaßsäule",
     "borough": "West",
-    "postcode": "D-04207",
-    "district": "Lausen-Grünau"
+    "postcode": "04207",
+    "district": "Lausen-Grünau",
+    "districtId": "lausen-gruenau"
   },
   {
     "street": "Zingster Straße",
     "street_number": 30,
     "description": "Ecke Zingster Straße am Schulhof",
     "borough": "West",
-    "postcode": "D-04207",
-    "district": "Lausen-Grünau"
+    "postcode": "04207",
+    "district": "Lausen-Grünau",
+    "districtId": "lausen-gruenau"
   },
   {
     "street": "Zschampertaue",
     "street_number": 18,
     "description": "",
     "borough": "West",
-    "postcode": "D-04207",
-    "district": "Lausen-Grünau"
+    "postcode": "04207",
+    "district": "Lausen-Grünau",
+    "districtId": "lausen-gruenau"
   },
   {
     "street": "Zur Heide",
     "street_number": "",
     "description": "Höhe Regenbogen",
     "borough": "West",
-    "postcode": "D-04207",
-    "district": "Lausen-Grünau"
+    "postcode": "04207",
+    "district": "Lausen-Grünau",
+    "districtId": "lausen-gruenau"
   },
   {
     "street": "Am kleinen Feld",
     "street_number": 50,
     "description": "Höhe Neue Leipziger Straße",
     "borough": "West",
-    "postcode": "D-04205",
-    "district": "Grünau-Nord"
+    "postcode": "04205",
+    "district": "Grünau-Nord",
+    "districtId": "gruenau-Nord"
   },
   {
     "street": "Jupiterstraße",
     "street_number": 2,
     "description": "Höhe Wegastraße",
     "borough": "West",
-    "postcode": "D-04205",
-    "district": "Grünau-Nord"
+    "postcode": "04205",
+    "district": "Grünau-Nord",
+    "districtId": "gruenau-Nord"
   },
   {
     "street": "Jupiterstraße",
     "street_number": 42,
     "description": "",
     "borough": "West",
-    "postcode": "D-04205",
-    "district": "Grünau-Nord"
+    "postcode": "04205",
+    "district": "Grünau-Nord",
+    "districtId": "gruenau-Nord"
   },
   {
     "street": "Neue Leipziger Straße",
     "street_number": 1,
     "description": "Höhe Am kleinem Feld",
     "borough": "West",
-    "postcode": "D-04205",
-    "district": "Grünau-Nord"
+    "postcode": "04205",
+    "district": "Grünau-Nord",
+    "districtId": "gruenau-Nord"
   },
   {
     "street": "Plovdiver Straße",
     "street_number": 30,
     "description": "Höhe Jupiterstraße/Parktasche",
     "borough": "West",
-    "postcode": "D-04205",
-    "district": "Grünau-Nord"
+    "postcode": "04205",
+    "district": "Grünau-Nord",
+    "districtId": "gruenau-Nord"
   },
   {
     "street": "Plovdiver Straße",
     "street_number": 82,
     "description": "Parktasche",
     "borough": "West",
-    "postcode": "D-04205",
-    "district": "Grünau-Nord"
+    "postcode": "04205",
+    "district": "Grünau-Nord",
+    "districtId": "gruenau-Nord"
   },
   {
     "street": "Saturnstraße",
     "street_number": 27,
     "description": "auf Marsweg",
     "borough": "West",
-    "postcode": "D-04205",
-    "district": "Grünau-Nord"
+    "postcode": "04205",
+    "district": "Grünau-Nord",
+    "districtId": "gruenau-Nord"
   },
   {
     "street": "Saturnstraße",
     "street_number": 57,
     "description": "",
     "borough": "West",
-    "postcode": "D-04205",
-    "district": "Grünau-Nord"
+    "postcode": "04205",
+    "district": "Grünau-Nord",
+    "districtId": "gruenau-Nord"
   },
   {
     "street": "Titaniaweg",
     "street_number": 3,
     "description": "Parkplatz",
     "borough": "West",
-    "postcode": "D-04205",
-    "district": "Grünau-Nord"
+    "postcode": "04205",
+    "district": "Grünau-Nord",
+    "districtId": "gruenau-Nord"
   },
   {
     "street": "Uranusstraße",
     "street_number": "",
     "description": "zwischen Nr. 78 und 80 in Parktasche",
     "borough": "West",
-    "postcode": "D-04205",
-    "district": "Grünau-Nord"
+    "postcode": "04205",
+    "district": "Grünau-Nord",
+    "districtId": "gruenau-Nord"
   },
   {
     "street": "Uranusstraße",
     "street_number": 50,
     "description": "Parkplatz WG Lipsia",
     "borough": "West",
-    "postcode": "D-04205",
-    "district": "Grünau-Nord"
+    "postcode": "04205",
+    "district": "Grünau-Nord",
+    "districtId": "gruenau-Nord"
   },
   {
     "street": "Wegastraße",
     "street_number": 24,
     "description": "",
     "borough": "West",
-    "postcode": "D-04205",
-    "district": "Grünau-Nord"
+    "postcode": "04205",
+    "district": "Grünau-Nord",
+    "districtId": "gruenau-Nord"
   },
   {
     "street": "Alte Burghausener Straße",
     "street_number": "",
     "description": "",
     "borough": "West",
-    "postcode": "D-04205",
-    "district": "Miltitz"
+    "postcode": "04205",
+    "district": "Miltitz",
+    "districtId": "miltitz"
   },
   {
     "street": "Am Bahnhof",
     "street_number": "",
     "description": "Höhe Freisinger Weg 21",
     "borough": "West",
-    "postcode": "D-04205",
-    "district": "Miltitz"
+    "postcode": "04205",
+    "district": "Miltitz",
+    "districtId": "miltitz"
   },
   {
     "street": "Auenweg",
     "street_number": "",
     "description": "ggü. Nr. 31 beim Stromkasten",
     "borough": "West",
-    "postcode": "D-04205",
-    "district": "Miltitz"
+    "postcode": "04205",
+    "district": "Miltitz",
+    "districtId": "miltitz"
   },
   {
     "street": "Lützner Straße",
     "street_number": "",
     "description": "Höhe Engertstraße",
     "borough": "Alt-West",
-    "postcode": "D-04177",
-    "district": "Lindenau"
+    "postcode": "04177",
+    "district": "Lindenau",
+    "districtId": "lindenau"
   },
   {
     "street": "Lützner Straße",
     "street_number": "",
     "description": "Höhe Zschochersche Straße",
     "borough": "Alt-West",
-    "postcode": "D-04177",
-    "district": "Lindenau"
-  },
-  {
-    "street": "",
-    "street_number": "",
-    "description": 7,
-    "borough": "",
-    "postcode": "",
-    "district": ""
-  },
-  {
-    "street": "Straße",
-    "street_number": "HNr.",
-    "description": "Bemerkungen",
-    "borough": "Stadtbezirk",
-    "postcode": "Postleit-",
-    "district": "Ortsteil"
-  },
-  {
-    "street": "",
-    "street_number": "",
-    "description": "",
-    "borough": "",
-    "postcode": "zahl",
-    "district": ""
+    "postcode": "04177",
+    "district": "Lindenau",
+    "districtId": "lindenau"
   },
   {
     "street": "Demmeringstraße",
     "street_number": 84,
     "description": "Höhe Schule",
     "borough": "Alt-West",
-    "postcode": "D-04177",
-    "district": "Altlindenau"
+    "postcode": "04177",
+    "district": "Altlindenau",
+    "districtId": "altlindenau"
   },
   {
     "street": "Karl-Ferlemann-Straße",
     "street_number": "",
     "description": "Höhe Merseburger Straße/Tankstelle",
     "borough": "Alt-West",
-    "postcode": "D-04177",
-    "district": "Altlindenau"
+    "postcode": "04177",
+    "district": "Altlindenau",
+    "districtId": "altlindenau"
   },
   {
     "street": "Merseburger Straße",
     "street_number": "",
-    "description": "gegenüber Calvisiusstraße, Höhe",
+    "description": "gegenüber Calvisiusstraße, Höhe Einkaufsmarkt",
     "borough": "Alt-West",
-    "postcode": "D-04177",
-    "district": "Altlindenau"
-  },
-  {
-    "street": "",
-    "street_number": "",
-    "description": "Einkaufsmarkt",
-    "borough": "",
-    "postcode": "",
-    "district": ""
+    "postcode": "04177",
+    "district": "Altlindenau",
+    "districtId": "altlindenau"
   },
   {
     "street": "Rietschelstraße",
     "street_number": "",
     "description": "Höhe Friesenstraße",
     "borough": "Alt-West",
-    "postcode": "D-04177",
-    "district": "Altlindenau"
+    "postcode": "04177",
+    "district": "Altlindenau",
+    "districtId": "altlindenau"
   },
   {
     "street": "Beckerstraße",
     "street_number": 7,
-    "description": "auf Morgensternstraße Ecke",
+    "description": "auf Morgensternstraße Ecke Beckerstraße",
     "borough": "Alt-West",
-    "postcode": "D-04179",
-    "district": "Neulindenau"
-  },
-  {
-    "street": "",
-    "street_number": "",
-    "description": "Beckerstraße",
-    "borough": "",
-    "postcode": "",
-    "district": ""
+    "postcode": "04179",
+    "district": "Neulindenau",
+    "districtId": "neulindenau"
   },
   {
     "street": "Lützner Plan",
     "street_number": "",
     "description": "Demmeringstraße/Holbergstraße",
     "borough": "Alt-West",
-    "postcode": "D-04179",
-    "district": "Neulindenau"
+    "postcode": "04179",
+    "district": "Neulindenau",
+    "districtId": "neulindenau"
   },
   {
     "street": "Lützner Straße",
     "street_number": 21,
     "description": "Ecke Thietmarstraße",
     "borough": "Alt-West",
-    "postcode": "D-04179",
-    "district": "Neulindenau"
+    "postcode": "04179",
+    "district": "Neulindenau",
+    "districtId": "neulindenau"
   },
   {
     "street": "Radiusstraße",
     "street_number": "",
     "description": "zw. Gröpplerstraße u. Demmeringstraße",
     "borough": "Alt-West",
-    "postcode": "D-04179",
-    "district": "Neulindenau"
+    "postcode": "04179",
+    "district": "Neulindenau",
+    "districtId": "neulindenau"
   },
   {
     "street": "Saalfelder Straße",
     "street_number": 73,
     "description": "Musterplatz",
     "borough": "Alt-West",
-    "postcode": "D-04179",
-    "district": "Neulindenau"
+    "postcode": "04179",
+    "district": "Neulindenau",
+    "districtId": "neulindenau"
   },
   {
     "street": "Wiprechtstraße",
     "street_number": "",
     "description": "Höhe Lützner Straße, ggü. Nr. 9",
     "borough": "Alt-West",
-    "postcode": "D-04179",
-    "district": "Neulindenau"
+    "postcode": "04179",
+    "district": "Neulindenau",
+    "districtId": "neulindenau"
   },
   {
     "street": "Franz-Flemming-Straße",
     "street_number": "",
     "description": "Sattelhofstraße neben Autohaus",
     "borough": "Alt-West",
-    "postcode": "D-04179",
-    "district": "Leutzsch"
+    "postcode": "04179",
+    "district": "Leutzsch",
+    "districtId": "leutzsch"
   },
   {
     "street": "Hans-Driesch-Straße",
     "street_number": "",
     "description": "ggü. Laurentiuskirche",
     "borough": "Alt-West",
-    "postcode": "D-04179",
-    "district": "Leutzsch"
+    "postcode": "04179",
+    "district": "Leutzsch",
+    "districtId": "leutzsch"
   },
   {
     "street": "Pfingstweide",
     "street_number": "",
     "description": "Höhe Rathenaustraße/Insel",
     "borough": "Alt-West",
-    "postcode": "D-04179",
-    "district": "Leutzsch"
+    "postcode": "04179",
+    "district": "Leutzsch",
+    "districtId": "leutzsch"
   },
   {
     "street": "Pfingstweide",
     "street_number": 23,
     "description": "Höhe Heimteichstraße",
     "borough": "Alt-West",
-    "postcode": "D-04179",
-    "district": "Leutzsch"
+    "postcode": "04179",
+    "district": "Leutzsch",
+    "districtId": "leutzsch"
   },
   {
     "street": "Philipp-Reis-Straße",
     "street_number": "",
     "description": "Höhe Heimteichstraße",
     "borough": "Alt-West",
-    "postcode": "D-04179",
-    "district": "Leutzsch"
+    "postcode": "04179",
+    "district": "Leutzsch",
+    "districtId": "leutzsch"
   },
   {
     "street": "Rückmarsdorfer Straße",
     "street_number": 18,
     "description": "Höhe Junghanßstrasse",
     "borough": "Alt-West",
-    "postcode": "D-04179",
-    "district": "Leutzsch"
+    "postcode": "04179",
+    "district": "Leutzsch",
+    "districtId": "leutzsch"
   },
   {
     "street": "Rathenaustraße",
     "street_number": "",
     "description": "Ende Rathenaustraße/Bahngelände",
     "borough": "Alt-West",
-    "postcode": "D-04179",
-    "district": "Leutzsch"
+    "postcode": "04179",
+    "district": "Leutzsch",
+    "districtId": "leutzsch"
   },
   {
     "street": "Ammernplatz",
     "street_number": "",
     "description": "auf Teerosenweg/Sprikkenweg",
     "borough": "Alt-West",
-    "postcode": "D-04178",
-    "district": "Böhlitz-Ehrenberg"
+    "postcode": "04178",
+    "district": "Böhlitz-Ehrenberg",
+    "districtId": "boehlitz-ehrenberg"
   },
   {
     "street": "An der Luppe",
     "street_number": "",
-    "description": "auf Platz Robert-Koch-Straße/Am",
+    "description": "auf Platz Robert-Koch-Straße/Am Sportpark",
     "borough": "Alt-West",
-    "postcode": "D-04178",
-    "district": "Böhlitz-Ehrenberg"
-  },
-  {
-    "street": "",
-    "street_number": "",
-    "description": "Sportpark",
-    "borough": "",
-    "postcode": "",
-    "district": ""
+    "postcode": "04178",
+    "district": "Böhlitz-Ehrenberg",
+    "districtId": "boehlitz-ehrenberg"
   },
   {
     "street": "Feldlerchenweg",
     "street_number": "",
     "description": "Bielastraße",
     "borough": "Alt-West",
-    "postcode": "D-04178",
-    "district": "Böhlitz-Ehrenberg"
+    "postcode": "04178",
+    "district": "Böhlitz-Ehrenberg",
+    "districtId": "boehlitz-ehrenberg"
   },
   {
     "street": "Frankenweg",
     "street_number": "",
     "description": "",
     "borough": "Alt-West",
-    "postcode": "D-04178",
-    "district": "Böhlitz-Ehrenberg"
+    "postcode": "04178",
+    "district": "Böhlitz-Ehrenberg",
+    "districtId": "boehlitz-ehrenberg"
   },
   {
     "street": "Heinrich-Heine-Straße",
     "street_number": "",
     "description": "Parkplatz Einkaufsmarkt",
     "borough": "Alt-West",
-    "postcode": "D-04178",
-    "district": "Böhlitz-Ehrenberg"
+    "postcode": "04178",
+    "district": "Böhlitz-Ehrenberg",
+    "districtId": "boehlitz-ehrenberg"
   },
   {
     "street": "Mitschurinring",
     "street_number": "",
     "description": "nahe Lützschenaer Straße",
     "borough": "Alt-West",
-    "postcode": "D-04178",
-    "district": "Böhlitz-Ehrenberg"
+    "postcode": "04178",
+    "district": "Böhlitz-Ehrenberg",
+    "districtId": "boehlitz-ehrenberg"
   },
   {
     "street": "Pestalozzistraße",
     "street_number": "",
     "description": "Parkplatz am Einkaufsmarkt",
     "borough": "Alt-West",
-    "postcode": "D-04178",
-    "district": "Böhlitz-Ehrenberg"
+    "postcode": "04178",
+    "district": "Böhlitz-Ehrenberg",
+    "districtId": "boehlitz-ehrenberg"
   },
   {
     "street": "Südstraße",
     "street_number": "",
     "description": "Ecke Waldmeisterweg",
     "borough": "Alt-West",
-    "postcode": "D-04178",
-    "district": "Böhlitz-Ehrenberg"
+    "postcode": "04178",
+    "district": "Böhlitz-Ehrenberg",
+    "districtId": "boehlitz-ehrenberg"
   },
   {
     "street": "Brandensteinstraße",
     "street_number": "",
     "description": "Zschampert, zwischen An der",
     "borough": "Alt-West",
-    "postcode": "D-04178",
-    "district": "Burghausen-"
-  },
-  {
-    "street": "",
-    "street_number": "",
-    "description": "Teichmühle 3 und Reichenberger Straße",
-    "borough": "",
-    "postcode": "",
-    "district": "Rückmarsdorf"
-  },
-  {
-    "street": "",
-    "street_number": "",
-    "description": 2,
-    "borough": "",
-    "postcode": "",
-    "district": ""
+    "postcode": "04178",
+    "district": "Burghausen-Rückmarsdorf",
+    "districtId": "burghausen-rueckmarsdorf"
   },
   {
     "street": "Großer Marktweg",
     "street_number": 9,
     "description": "",
     "borough": "Alt-West",
-    "postcode": "D-04178",
-    "district": "Burghausen-"
-  },
-  {
-    "street": "",
-    "street_number": "",
-    "description": "",
-    "borough": "",
-    "postcode": "",
-    "district": "Rückmarsdorf"
+    "postcode": "04178",
+    "district": "Burghausen-Rückmarsdorf",
+    "districtId": "burghausen-rueckmarsdorf"
   },
   {
     "street": "Merseburger Straße",
     "street_number": 259,
     "description": "ggü./Parkplatz Löwencenter",
     "borough": "Alt-West",
-    "postcode": "D-04178",
-    "district": "Burghausen-"
-  },
-  {
-    "street": "",
-    "street_number": "",
-    "description": "",
-    "borough": "",
-    "postcode": "",
-    "district": "Rückmarsdorf"
+    "postcode": "04178",
+    "district": "Burghausen-Rückmarsdorf",
+    "districtId": "burghausen-rueckmarsdorf"
   },
   {
     "street": "Miltitzer Straße",
     "street_number": "",
     "description": "Ecke An den Linden",
     "borough": "Alt-West",
-    "postcode": "D-04178",
-    "district": "Burghausen-"
-  },
-  {
-    "street": "",
-    "street_number": "",
-    "description": "",
-    "borough": "",
-    "postcode": "",
-    "district": "Rückmarsdorf"
+    "postcode": "04178",
+    "district": "Burghausen-Rückmarsdorf",
+    "districtId": "burghausen-rueckmarsdorf"
   },
   {
     "street": "Zum Bahnhof",
     "street_number": "",
     "description": "ggü. Nr. 20",
     "borough": "Alt-West",
-    "postcode": "D-04178",
-    "district": "Burghausen-"
-  },
-  {
-    "street": "",
-    "street_number": "",
-    "description": "",
-    "borough": "",
-    "postcode": "",
-    "district": "Rückmarsdorf"
+    "postcode": "04178",
+    "district": "Burghausen-Rückmarsdorf",
+    "districtId": "burghausen-rueckmarsdorf"
   },
   {
     "street": "Blücherstraße",
     "street_number": 10,
     "description": "Höhe Dantestraße/Kaufhalle",
     "borough": "Nordwest",
-    "postcode": "D-04159",
-    "district": "Möckern"
+    "postcode": "04159",
+    "district": "Möckern",
+    "districtId": "moeckern"
   },
   {
     "street": "Diderotstraße",
     "street_number": "",
     "description": "Höhe Uhrigstraße",
     "borough": "Nordwest",
-    "postcode": "D-04159",
-    "district": "Möckern"
+    "postcode": "04159",
+    "district": "Möckern",
+    "districtId": "moeckern"
   },
   {
     "street": "Georg-Schumann-Straße",
     "street_number": 185,
     "description": "Höhe Huygensstraße",
     "borough": "Nordwest",
-    "postcode": "D-04159",
-    "district": "Möckern"
+    "postcode": "04159",
+    "district": "Möckern",
+    "districtId": "moeckern"
   },
   {
     "street": "Glesiener Straße",
     "street_number": "",
     "description": "Höhe Papitzer Straße",
     "borough": "Nordwest",
-    "postcode": "D-04159",
-    "district": "Möckern"
+    "postcode": "04159",
+    "district": "Möckern",
+    "districtId": "moeckern"
   },
   {
     "street": "Hans-Beimler-Straße",
     "street_number": "",
     "description": "Höhe Hochhaus/Kaufhalle",
     "borough": "Nordwest",
-    "postcode": "D-04159",
-    "district": "Möckern"
+    "postcode": "04159",
+    "district": "Möckern",
+    "districtId": "moeckern"
   },
   {
     "street": "Hans-Beimler-Straße",
     "street_number": "",
     "description": "Annaberger Straße",
     "borough": "Nordwest",
-    "postcode": "D-04159",
-    "district": "Möckern"
+    "postcode": "04159",
+    "district": "Möckern",
+    "districtId": "moeckern"
   },
   {
     "street": "Yorckstraße",
     "street_number": "",
     "description": "Höhe Erika-von-Brockdorff-Straße",
     "borough": "Nordwest",
-    "postcode": "D-04159",
-    "district": "Möckern"
-  },
-  {
-    "street": "verl.",
-    "street_number": "",
-    "description": "Höhe Defoestraße",
-    "borough": "Nordwest",
-    "postcode": "D-04159",
-    "district": "Möckern"
+    "postcode": "04159",
+    "district": "Möckern",
+    "districtId": "moeckern"
   },
   {
     "street": "Max-Liebermann-Straße",
     "street_number": "",
-    "description": "",
-    "borough": "",
-    "postcode": "",
-    "district": ""
+    "description": "Höhe Defoestraße",
+    "borough": "Nordwest",
+    "postcode": "04159",
+    "district": "Möckern",
+    "districtId": "moeckern"
   },
   {
     "street": "Georg-Schumann-Straße",
     "street_number": "",
     "description": "Wartenburgstraße/Einkaufsmarkt",
     "borough": "Nordwest",
-    "postcode": "D-04159",
-    "district": "Wahren"
+    "postcode": "04159",
+    "district": "Wahren",
+    "districtId": "wahren"
   },
   {
     "street": "Linkelstraße",
     "street_number": 42,
     "description": "Höhe Stammerstraße",
     "borough": "Nordwest",
-    "postcode": "D-04159",
-    "district": "Wahren"
+    "postcode": "04159",
+    "district": "Wahren",
+    "districtId": "wahren"
   },
   {
     "street": "Pater-Gordian-Straße",
     "street_number": 28,
     "description": "gegenüber Bahnhof Wahren",
     "borough": "Nordwest",
-    "postcode": "D-04159",
-    "district": "Wahren"
+    "postcode": "04159",
+    "district": "Wahren",
+    "districtId": "wahren"
   },
   {
     "street": "Am Bildersaal",
     "street_number": "",
     "description": "An der Schäferei",
     "borough": "Nordwest",
-    "postcode": "D-04159",
-    "district": "Lützschena-"
-  },
-  {
-    "street": "",
-    "street_number": "",
-    "description": "",
-    "borough": "",
-    "postcode": "",
-    "district": "Stahmeln"
+    "postcode": "04159",
+    "district": "Lützschena-Stahmeln",
+    "districtId": "luetzschena-stahmeln"
   },
   {
     "street": "Am Eselshaus",
     "street_number": "",
     "description": "ggü. Nr. 22",
     "borough": "Nordwest",
-    "postcode": "D-04159",
-    "district": "Lützschena-"
-  },
-  {
-    "street": "",
-    "street_number": "",
-    "description": "",
-    "borough": "",
-    "postcode": "",
-    "district": "Stahmeln"
+    "postcode": "04159",
+    "district": "Lützschena-Stahmeln",
+    "districtId": "luetzschena-stahmeln"
   },
   {
     "street": "Bahnstraße",
     "street_number": "",
     "description": "Radefelder Weg",
     "borough": "Nordwest",
-    "postcode": "D-04159",
-    "district": "Lützschena-"
-  },
-  {
-    "street": "",
-    "street_number": "",
-    "description": "",
-    "borough": "",
-    "postcode": "",
-    "district": "Stahmeln"
-  },
-  {
-    "street": "",
-    "street_number": "",
-    "description": 8,
-    "borough": "",
-    "postcode": "",
-    "district": ""
-  },
-  {
-    "street": "Straße",
-    "street_number": "HNr.",
-    "description": "Bemerkungen",
-    "borough": "Stadtbezirk",
-    "postcode": "Postleit-",
-    "district": "Ortsteil"
-  },
-  {
-    "street": "",
-    "street_number": "",
-    "description": "",
-    "borough": "",
-    "postcode": "zahl",
-    "district": ""
+    "postcode": "04159",
+    "district": "Lützschena-Stahmeln",
+    "districtId": "luetzschena-stahmeln"
   },
   {
     "street": "Elsterberg",
     "street_number": "",
     "description": "schräg ggü. Nr. 6",
     "borough": "Nordwest",
-    "postcode": "D-04159",
-    "district": "Lützschena-"
-  },
-  {
-    "street": "",
-    "street_number": "",
-    "description": "",
-    "borough": "",
-    "postcode": "",
-    "district": "Stahmeln"
+    "postcode": "04159",
+    "district": "Lützschena-Stahmeln",
+    "districtId": "luetzschena-stahmeln"
   },
   {
     "street": "Stahmelner Straße",
     "street_number": 218,
     "description": "",
     "borough": "Nordwest",
-    "postcode": "D-04159",
-    "district": "Lützschena-"
-  },
-  {
-    "street": "",
-    "street_number": "",
-    "description": "",
-    "borough": "",
-    "postcode": "",
-    "district": "Stahmeln"
+    "postcode": "04159",
+    "district": "Lützschena-Stahmeln",
+    "districtId": "luetzschena-stahmeln"
   },
   {
     "street": "Windmühlenweg",
     "street_number": "",
     "description": "Höhe Narzissenweg",
     "borough": "Nordwest",
-    "postcode": "D-04159",
-    "district": "Lützschena-"
-  },
-  {
-    "street": "",
-    "street_number": "",
-    "description": "",
-    "borough": "",
-    "postcode": "",
-    "district": "Stahmeln"
+    "postcode": "04159",
+    "district": "Lützschena-Stahmeln",
+    "districtId": "luetzschena-stahmeln"
   },
   {
     "street": "Erich-Thiele-Straße",
     "street_number": "",
     "description": "Karl-Marx-Platz",
     "borough": "Nordwest",
-    "postcode": "D-04158",
-    "district": "Lindenthal"
+    "postcode": "04158",
+    "district": "Lindenthal",
+    "districtId": "lindenthal"
   },
   {
     "street": "Gartenwinkel",
     "street_number": 2,
     "description": "Sportplatz",
     "borough": "Nordwest",
-    "postcode": "D-04158",
-    "district": "Lindenthal"
+    "postcode": "04158",
+    "district": "Lindenthal",
+    "districtId": "lindenthal"
   },
   {
     "street": "Lange Trift",
     "street_number": "",
     "description": "Triftsiedlung",
     "borough": "Nordwest",
-    "postcode": "D-04158",
-    "district": "Lindenthal"
+    "postcode": "04158",
+    "district": "Lindenthal",
+    "districtId": "lindenthal"
   },
   {
     "street": "Parkring",
     "street_number": "",
     "description": "Ecke Zur Alten Schmiede",
     "borough": "Nordwest",
-    "postcode": "D-04158",
-    "district": "Lindenthal"
+    "postcode": "04158",
+    "district": "Lindenthal",
+    "districtId": "lindenthal"
   },
   {
     "street": "Wahrener Straße",
     "street_number": "",
     "description": "Weststraße",
     "borough": "Nordwest",
-    "postcode": "D-04158",
-    "district": "Lindenthal"
+    "postcode": "04158",
+    "district": "Lindenthal",
+    "districtId": "lindenthal"
   },
   {
     "street": "Zur Lindenhöhe",
     "street_number": 1,
     "description": "ggü. An der Hufschmiede",
     "borough": "Nordwest",
-    "postcode": "D-04158",
-    "district": "Lindenthal"
+    "postcode": "04158",
+    "district": "Lindenthal",
+    "districtId": "lindenthal"
   },
   {
     "street": "Blumenstraße",
     "street_number": "",
     "description": "Höhe Böhmestraße",
     "borough": "Nord",
-    "postcode": "D-04155",
-    "district": "Gohlis-Süd"
+    "postcode": "04155",
+    "district": "Gohlis-Süd",
+    "districtId": "gohlis-sued"
   },
   {
     "street": "Geibelstraße",
     "street_number": "",
-    "description": "Höhe Eisenbahnbrücke,",
+    "description": "Höhe Eisenbahnbrücke, Blochmannstraße",
     "borough": "Nord",
-    "postcode": "D-04155",
-    "district": "Gohlis-Süd"
-  },
-  {
-    "street": "",
-    "street_number": "",
-    "description": "Blochmannstraße",
-    "borough": "",
-    "postcode": "",
-    "district": ""
+    "postcode": "04155",
+    "district": "Gohlis-Süd",
+    "districtId": "gohlis-sued"
   },
   {
     "street": "Herloßsohnstraße",
     "street_number": "",
     "description": "neben Lagerhof der Stadtreinigung",
     "borough": "Nord",
-    "postcode": "D-04155",
-    "district": "Gohlis-Süd"
+    "postcode": "04155",
+    "district": "Gohlis-Süd",
+    "districtId": "gohlis-sued"
   },
   {
     "street": "Lützowstraße",
     "street_number": 1,
     "description": "Höhe Eisenacher Straße",
     "borough": "Nord",
-    "postcode": "D-04155",
-    "district": "Gohlis-Süd"
+    "postcode": "04155",
+    "district": "Gohlis-Süd",
+    "districtId": "gohlis-sued"
   },
   {
     "street": "Natonekstraße",
     "street_number": "",
     "description": "Höhe Georg-Schumann-Straße",
     "borough": "Nord",
-    "postcode": "D-04155",
-    "district": "Gohlis-Süd"
+    "postcode": "04155",
+    "district": "Gohlis-Süd",
+    "districtId": "gohlis-sued"
   },
   {
     "street": "Breitenfelder Straße",
     "street_number": "",
     "description": "Höhe Ludwig-Beck-Straße",
     "borough": "Nord",
-    "postcode": "D-04157",
-    "district": "Gohlis-Mitte"
+    "postcode": "04157",
+    "district": "Gohlis-Mitte",
+    "districtId": "gohlis-mitte"
   },
   {
     "street": "Coppistraße",
     "street_number": "",
     "description": "Höhe Max-Metzger-Straße",
     "borough": "Nord",
-    "postcode": "D-04157",
-    "district": "Gohlis-Mitte"
+    "postcode": "04157",
+    "district": "Gohlis-Mitte",
+    "districtId": "gohlis-mitte"
   },
   {
     "street": "Heinrich-Budde-Straße",
     "street_number": "",
     "description": "Höhe Adolph-Menzel-Straße",
     "borough": "Nord",
-    "postcode": "D-04157",
-    "district": "Gohlis-Mitte"
+    "postcode": "04157",
+    "district": "Gohlis-Mitte",
+    "districtId": "gohlis-mitte"
   },
   {
     "street": "Michael-Kazmierczak-Straße",
     "street_number": "",
     "description": "Höhe Rudi-Opitz-Straße/Insel",
     "borough": "Nord",
-    "postcode": "D-04157",
-    "district": "Gohlis-Mitte"
+    "postcode": "04157",
+    "district": "Gohlis-Mitte",
+    "districtId": "gohlis-mitte"
   },
   {
     "street": "Sasstraße",
     "street_number": "",
     "description": "Freiligrathplatz",
     "borough": "Nord",
-    "postcode": "D-04157",
-    "district": "Gohlis-Mitte"
+    "postcode": "04157",
+    "district": "Gohlis-Mitte",
+    "districtId": "gohlis-mitte"
   },
   {
     "street": "Viertelsweg",
     "street_number": 4,
     "description": "Höhe Wilhelm-Plesse-Straße",
     "borough": "Nord",
-    "postcode": "D-04157",
-    "district": "Gohlis-Mitte"
+    "postcode": "04157",
+    "district": "Gohlis-Mitte",
+    "districtId": "gohlis-mitte"
   },
   {
     "street": "Hans-Oster-Straße",
     "street_number": "",
     "description": "Höhe Landsberger Straße",
     "borough": "Nord",
-    "postcode": "D-04157",
-    "district": "Gohlis-Nord"
+    "postcode": "04157",
+    "district": "Gohlis-Nord",
+    "districtId": "gohlis-nord"
   },
   {
     "street": "Max-Liebermann-Straße",
     "street_number": 61,
     "description": "Einkaufsmarkt",
     "borough": "Nord",
-    "postcode": "D-04157",
-    "district": "Gohlis-Nord"
+    "postcode": "04157",
+    "district": "Gohlis-Nord",
+    "districtId": "gohlis-nord"
   },
   {
     "street": "Max-Liebermann-Straße",
     "street_number": 97,
     "description": "WSH (mit Altglasannahme)",
     "borough": "Nord",
-    "postcode": "D-04157",
-    "district": "Gohlis-Nord"
+    "postcode": "04157",
+    "district": "Gohlis-Nord",
+    "districtId": "gohlis-nord"
   },
   {
     "street": "Sylter Straße",
     "street_number": "",
-    "description": "Tankstelle Höhe",
+    "description": "Tankstelle Höhe Jörgen-Schmidtchen-Weg/Parkplatz",
     "borough": "Nord",
-    "postcode": "D-04157",
-    "district": "Gohlis-Nord"
-  },
-  {
-    "street": "",
-    "street_number": "",
-    "description": "Jörgen-Schmidtchen-Weg/Parkplatz",
-    "borough": "",
-    "postcode": "",
-    "district": ""
+    "postcode": "04157",
+    "district": "Gohlis-Nord",
+    "districtId": "gohlis-nord"
   },
   {
     "street": "Sylter Straße",
     "street_number": 29,
     "description": "Parkplatz",
     "borough": "Nord",
-    "postcode": "D-04157",
-    "district": "Gohlis-Nord"
+    "postcode": "04157",
+    "district": "Gohlis-Nord",
+    "districtId": "gohlis-nord"
   },
   {
     "street": "Viertelsweg",
     "street_number": 58,
     "description": "Höhe Landsberger Straße/Kaufhalle",
     "borough": "Nord",
-    "postcode": "D-04157",
-    "district": "Gohlis-Nord"
+    "postcode": "04157",
+    "district": "Gohlis-Nord",
+    "districtId": "gohlis-nord"
   },
   {
     "street": "Wangerooger Weg",
     "street_number": 5,
     "description": "Ecke Bremer Straße",
     "borough": "Nord",
-    "postcode": "D-04157",
-    "district": "Gohlis-Nord"
+    "postcode": "04157",
+    "district": "Gohlis-Nord",
+    "districtId": "gohlis-nord"
   },
   {
     "street": "Görlitzer Straße",
     "street_number": "",
     "description": "Höhe Schönefelder Straße",
     "borough": "Nord",
-    "postcode": "D-04129",
-    "district": "Eutritzsch"
+    "postcode": "04129",
+    "district": "Eutritzsch",
+    "districtId": "eutritzsch"
   },
   {
     "street": "Gottschallstraße",
     "street_number": "",
     "description": "Höhe Kleiststraße/Bretschneider-Park",
     "borough": "Nord",
-    "postcode": "D-04129",
-    "district": "Eutritzsch"
+    "postcode": "04129",
+    "district": "Eutritzsch",
+    "districtId": "eutritzsch"
   },
   {
     "street": "Hartzstraße",
     "street_number": "",
     "description": "Einkaufsmarkt",
     "borough": "Nord",
-    "postcode": "D-04129",
-    "district": "Eutritzsch"
+    "postcode": "04129",
+    "district": "Eutritzsch",
+    "districtId": "eutritzsch"
   },
   {
     "street": "Schönefelder Straße",
     "street_number": "",
     "description": "Höhe Theresienstraße",
     "borough": "Nord",
-    "postcode": "D-04129",
-    "district": "Eutritzsch"
+    "postcode": "04129",
+    "district": "Eutritzsch",
+    "districtId": "eutritzsch"
   },
   {
     "street": "Schönefelder Straße",
     "street_number": "",
     "description": "Höhe Delitzscher Straße",
     "borough": "Nord",
-    "postcode": "D-04129",
-    "district": "Eutritzsch"
+    "postcode": "04129",
+    "district": "Eutritzsch",
+    "districtId": "eutritzsch"
   },
   {
     "street": "Schiebestraße",
     "street_number": "",
-    "description": "Bernburger",
+    "description": "Bernburger Straße/Arthur-Hausmann-Straße",
     "borough": "Nord",
-    "postcode": "D-04129",
-    "district": "Eutritzsch"
-  },
-  {
-    "street": "",
-    "street_number": "",
-    "description": "Straße/Arthur-Hausmann-Straße",
-    "borough": "",
-    "postcode": "",
-    "district": ""
+    "postcode": "04129",
+    "district": "Eutritzsch",
+    "districtId": "eutritzsch"
   },
   {
     "street": "Wittenberger Straße",
     "street_number": 29,
     "description": "Höhe Theresienstraße",
     "borough": "Nord",
-    "postcode": "D-04129",
-    "district": "Eutritzsch"
+    "postcode": "04129",
+    "district": "Eutritzsch",
+    "districtId": "eutritzsch"
   },
   {
     "street": "Zschortauer Straße",
     "street_number": "",
     "description": "Höhe Tellweg",
     "borough": "Nord",
-    "postcode": "D-04129",
-    "district": "Eutritzsch"
+    "postcode": "04129",
+    "district": "Eutritzsch",
+    "districtId": "eutritzsch"
   },
   {
     "street": "Am Ring",
     "street_number": "",
     "description": "am Dorfteich",
     "borough": "Nord",
-    "postcode": "D-04356",
-    "district": "Seehausen"
+    "postcode": "04356",
+    "district": "Seehausen",
+    "districtId": "seehausen"
   },
   {
     "street": "An der Hauptstraße",
     "street_number": "",
     "description": "Ecke Am Feld",
     "borough": "Nord",
-    "postcode": "D-04356",
-    "district": "Seehausen"
+    "postcode": "04356",
+    "district": "Seehausen",
+    "districtId": "seehausen"
   },
   {
     "street": "Gutsweg",
     "street_number": "",
     "description": "Ecke Töpferweg/Hohe Heide",
     "borough": "Nord",
-    "postcode": "D-04356",
-    "district": "Seehausen"
+    "postcode": "04356",
+    "district": "Seehausen",
+    "districtId": "seehausen"
   },
   {
     "street": "Seehausener Allee",
     "street_number": 35,
     "description": "ggü./Feuerwehr",
     "borough": "Nord",
-    "postcode": "D-04356",
-    "district": "Seehausen"
+    "postcode": "04356",
+    "district": "Seehausen",
+    "districtId": "seehausen"
   },
   {
     "street": "Nordweg",
     "street_number": "2-6",
     "description": "ggü.",
     "borough": "Nord",
-    "postcode": "D-04158",
-    "district": "Wiederitzsch"
+    "postcode": "04158",
+    "district": "Wiederitzsch",
+    "districtId": "wiederitzsch"
   },
   {
     "street": "Südtangente",
     "street_number": "",
     "description": "Ecke Martinshöhe (Ost)",
     "borough": "Nord",
-    "postcode": "D-04158",
-    "district": "Wiederitzsch"
+    "postcode": "04158",
+    "district": "Wiederitzsch",
+    "districtId": "wiederitzsch"
   },
   {
     "street": "Südtangente",
     "street_number": "",
     "description": "Birkenring",
     "borough": "Nord",
-    "postcode": "D-04158",
-    "district": "Wiederitzsch"
+    "postcode": "04158",
+    "district": "Wiederitzsch",
+    "districtId": "wiederitzsch"
   },
   {
     "street": "Salzhandelsstraße",
     "street_number": "",
     "description": "Ecke Fichtesiedlung",
     "borough": "Nord",
-    "postcode": "D-04158",
-    "district": "Wiederitzsch"
+    "postcode": "04158",
+    "district": "Wiederitzsch",
+    "districtId": "wiederitzsch"
   }
 ]
