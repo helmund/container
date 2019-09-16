@@ -1,0 +1,251 @@
+[
+  {
+    "district": "Zentrum-Ost",
+    "districtId": "zentrum-ost"
+  },
+  {
+    "district": "Zentrum-Südost",
+    "districtId": "zentrum-suedost"
+  },
+  {
+    "district": "Zentrum-Süd",
+    "districtId": "zentrum-sued"
+  },
+  {
+    "district": "Zentrum-West",
+    "districtId": "zentrum-west"
+  },
+  {
+    "district": "Zentrum-Nordwest",
+    "districtId": "zentrum-nordwest"
+  },
+  {
+    "district": "Zentrum-Nord",
+    "districtId": "zentrum-nord"
+  },
+  {
+    "district": "Schönefeld-Abtnaundorf",
+    "districtId": "schoenefeld-abtnaudorf"
+  },
+  {
+    "district": "Schönefeld-Ost",
+    "districtId": "schoenefeld-ost"
+  },
+  {
+    "district": "Mockau-Süd",
+    "districtId": "mockau-sued"
+  },
+  {
+    "district": "Mockau-Nord",
+    "districtId": "mockau-nord"
+  },
+  {
+    "district": "Thekla",
+    "districtId": "thekla"
+  },
+  {
+    "district": "Plaußig-Portitz",
+    "districtId": "plaußig-portitz"
+  },
+  {
+    "district": "Neustadt-Neuschönefeld",
+    "districtId": "neustadt-neuschoenefeld"
+  },
+  {
+    "district": "Volkmarsdorf",
+    "districtId": "volkmarsdorf"
+  },
+  {
+    "district": "Anger-Crottendorf",
+    "districtId": "anger-crottenddorf"
+  },
+  {
+    "district": "Sellerhausen-Stünz",
+    "districtId": "sellerhausen-stuenz"
+  },
+  {
+    "district": "Paunsdorf",
+    "districtId": "paunsdorf"
+  },
+  {
+    "district": "Heiterblick",
+    "districtId": "heiterblick"
+  },
+  {
+    "district": "Mölkau",
+    "districtId": "moelkau"
+  },
+  {
+    "district": "Engelsdorf",
+    "districtId": "engelsdorf"
+  },
+  {
+    "district": "Baalsdorf",
+    "districtId": "baalsdorf"
+  },
+  {
+    "district": "Althen-Kleinpösna",
+    "districtId": "althen-kleinpoesna"
+  },
+  {
+    "district": "Reudnitz-Thonberg",
+    "districtId": "reudnitz-thonberg"
+  },
+  {
+    "district": "Stötteritz",
+    "districtId": "stoetteritz"
+  },
+  {
+    "district": "Probstheida",
+    "districtId": "probstheida"
+  },
+  {
+    "district": "Meusdorf",
+    "districtId": "meusdorf"
+  },
+  {
+    "district": "Liebertwolkwitz",
+    "districtId": "liebertwolkwitz"
+  },
+  {
+    "district": "Holzhausen",
+    "districtId": "holzhausen"
+  },
+  {
+    "district": "Südvorstadt",
+    "districtId": "suedvorstadt"
+  },
+  {
+    "district": "Connewitz",
+    "districtId": "connewitz"
+  },
+  {
+    "district": "Marienbrunn",
+    "districtId": "marienbrunn"
+  },
+  {
+    "district": "Lößnig",
+    "districtId": "loeßnig"
+  },
+  {
+    "district": "Dölitz-Dösen",
+    "districtId": "doelitz-doesen"
+  },
+  {
+    "district": "Schleußig",
+    "districtId": "schleußig"
+  },
+  {
+    "district": "Plagwitz",
+    "districtId": "plagwitz"
+  },
+  {
+    "district": "Kleinzschocher",
+    "districtId": "kleinzschocher"
+  },
+  {
+    "district": "Großzschocher",
+    "districtId": "großzschocher"
+  },
+  {
+    "district": "Knautkleeberg-Knauthain",
+    "districtId": "knautkleeberg-knauthain"
+  },
+  {
+    "district": "Hartmannsdorf-Knautnaundorf",
+    "districtId": "hartmannsdorf-knautnaundorf"
+  },
+  {
+    "district": "Schönau",
+    "districtId": "schoenau"
+  },
+  {
+    "district": "Grünau-Ost",
+    "districtId": "gruenau-ost"
+  },
+  {
+    "district": "Grünau-Mitte",
+    "districtId": "gruenau-mitte"
+  },
+  {
+    "district": "Grünau-Siedlung",
+    "districtId": "gruenau-siedlung"
+  },
+  {
+    "district": "Lausen-Grünau",
+    "districtId": "lausen-gruenau"
+  },
+  {
+    "district": "Grünau-Nord",
+    "districtId": "gruenau-Nord"
+  },
+  {
+    "district": "Miltitz",
+    "districtId": "miltitz"
+  },
+  {
+    "district": "Lindenau",
+    "districtId": "lindenau"
+  },
+  {
+    "district": "Altlindenau",
+    "districtId": "altlindenau"
+  },
+  {
+    "district": "Neulindenau",
+    "districtId": "neulindenau"
+  },
+  {
+    "district": "Leutzsch",
+    "districtId": "leutzsch"
+  },
+  {
+    "district": "Böhlitz-Ehrenberg",
+    "districtId": "boehlitz-ehrenberg"
+  },
+  {
+    "district": "Burghausen-Rückmarsdorf",
+    "districtId": "burghausen-rueckmarsdorf"
+  },
+  {
+    "district": "Möckern",
+    "districtId": "moeckern"
+  },
+  {
+    "district": "Wahren",
+    "districtId": "wahren"
+  },
+  {
+    "district": "Lützschena-Stahmeln",
+    "districtId": "luetzschena-stahmeln"
+  },
+  {
+    "district": "Lindenthal",
+    "districtId": "lindenthal"
+  },
+  {
+    "district": "Gohlis-Süd",
+    "districtId": "gohlis-sued"
+  },
+  {
+    "district": "Gohlis-Mitte",
+    "districtId": "gohlis-mitte"
+  },
+  {
+    "district": "Gohlis-Nord",
+    "districtId": "gohlis-nord"
+  },
+  {
+    "district": "Eutritzsch",
+    "districtId": "eutritzsch"
+  },
+  {
+    "postcode": "04356",
+    "district": "Seehausen",
+    "districtId": "seehausen"
+  },
+  {
+    "district": "Wiederitzsch",
+    "districtId": "wiederitzsch"
+  }
+]

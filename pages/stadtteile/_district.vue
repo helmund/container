@@ -1,22 +1,19 @@
 <template>
-  <div class="container">
-    <h1 class="title text-center text-6xl font-thin my-5">
-      Glascontainer in {{ district }}
+  <div class="container px-4">
+    <a @click="$router.go(-1)" class="my-4 block cursor-pointer text-blue-600 hover:font-bold">Zurück</a>
+    <h1 class="title text-center text-4xl md:text-6xl font-light my-5">
+      {{ resultCount }} Glascontainer in <span class="capitalize">{{ district }}</span>
     </h1>
-    <div class="py-3 px-4 flex sticky top-0 bg-gray-100 font-bold">
-      <span class="w-4/12">Anschrift</span>
-      <span class="w-4/12">Beschreibung</span>
-      <span class="w-4/12">Stadtteil</span>
+    <div class="flex flex-wrap -mx-4">
+      <container-card v-for="(item, index) in items" :key="index" :item="item" v-if="item.districtId == district"></container-card>
     </div>
-    <ul>
-      <row-item v-for="item in items" :key="item" :item="item" v-if="item.districtId == district"></row-item>
-    </ul>
   </div>
 </template>
 
 <script>
+
 import axios from 'axios'
-import rowItem from '~/components/row-item.vue'
+import containerCard from '~/components/container-card.vue'
 
 export default {
   props: {
@@ -24,7 +21,7 @@ export default {
   },
 
   components: {
-    rowItem
+    containerCard
   },
   
   created() {
@@ -36,6 +33,24 @@ export default {
     const { data } = await axios.get(districtJson)
     return { items: data }
   },
+
+  head() {
+    return {
+      title: this.items.length + ' Glascontainer in ' + this.district + ' - Leipzig',
+      meta: [
+        { hid: 'og:title', name: 'og:title', content: this.items.length + ' Glascontainer in ' + this.district + ' - Leipzig' },
+        { hid: 'og:site_name', name: 'og:site_name', content: 'Glascontainer in Leizig' },
+        { hid: 'description', name: 'description', content: 'Es gibt  ' + this.items.length + ' Glascontainer in ' + this.district + ' - Leipzig. Finde den in deiner Nähe, sortiert nach Stadtteilen und Postleitzahl!' },
+        { hid: 'og:description', name: 'og:description', content: 'Es gibt  ' + this.items.length + ' Glascontainer in ' + this.district + ' - Leipzig. Finde den in deiner Nähe, sortiert nach Stadtteilen und Postleitzahl!' },
+      ]
+    }
+  },
+  
+  computed: {
+    resultCount() {
+      return this.items && this.items.length
+    }
+  }
 }
 </script>
 
@@ -54,17 +69,10 @@ export default {
   font-family: 'Quicksand', 'Source Sans Pro', -apple-system, BlinkMacSystemFont,
     'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
   display: block;
+  line-height: 1;
 }
 
-.subtitle {
-  font-weight: 300;
-  font-size: 42px;
-  color: #526488;
-  word-spacing: 5px;
-  padding-bottom: 15px;
-}
-
-.links {
-  padding-top: 15px;
+.capitalize {
+  text-transform: capitalize;
 }
 </style>

@@ -1,15 +1,15 @@
 <template>
-  <div class="container">
+  <div class="container px-4">
     <h1 class="title text-center text-6xl font-thin my-5">
-      Glascontainer in Leizig
+      {{ resultCount }} Glascontainer in Leizig
     </h1>
-    <div class="py-3 px-4 flex sticky top-0 bg-gray-100 font-bold">
+    <div class="py-3 px-4 sticky top-0 bg-gray-100 font-bold hidden md:flex">
       <span class="w-4/12">Anschrift</span>
       <span class="w-4/12">Beschreibung</span>
       <span class="w-4/12">Stadtteil</span>
     </div>
     <ul>
-      <row-item v-for="item in items" :key="item" :item="item"></row-item>
+      <row-item v-for="(item, index) in items" :key="index" :item="item"></row-item>
     </ul>
   </div>
 </template>
@@ -20,10 +20,6 @@ import rowItem from '~/components/row-item.vue'
 
 export default {
   props: {
-    loading: {
-      default: true,
-      type: Boolean
-    }
   },
 
   components: {
@@ -31,10 +27,25 @@ export default {
   },
   async asyncData() {
     const { data } = await axios.get('/list.json')
-    return { items: data }
+    return { items: data };
   },
-  onDownloadProgress(progressEvent) {
-    // const loading = true
+
+  head() {
+    return {
+      title: this.items.length + ' Altglas und Glascontainer in Leizig',
+      meta: [
+        { hid: 'og:title', name: 'og:title', content: this.items.length + ' Altglas und Glascontainer in Leizig' },
+        { hid: 'og:site_name', name: 'og:site_name', content: 'Altglas und Glascontainer in Leizig' },
+        { hid: 'description', name: 'description', content: 'Es gibt  ' + this.items.length + ' Altglas und Glascontainer in Leipzig. Finde den in deiner Nähe, sortiert nach Stadtteilen und Postleitzahl!' },
+        { hid: 'og:description', name: 'og:description', content: 'Es gibt  ' + this.items.length + ' Altglas und Glascontainer in Leipzig. Finde den in deiner Nähe, sortiert nach Stadtteilen und Postleitzahl!' },
+      ]
+    }
+  },
+  
+  computed: {
+    resultCount() {
+      return this.items && this.items.length
+    }
   }
 }
 </script>
