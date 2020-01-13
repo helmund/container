@@ -3,6 +3,21 @@
     <h1 class="title text-center text-6xl font-thin my-5">
       {{ resultCount }} Glascontainer in Leizig
     </h1>
+
+    <!-- <button @click="locateUser"> Hier klicken </button>
+
+    <button @click="getLatLong">asdadas</button>
+
+    <div v-if="location">
+      {{location.coords.latitude}} {{location.coords.longitude}}
+    </div>
+
+      <div v-if="errorStr">
+        Sorry, but the following error
+        occurred: {{errorStr}}
+      </div> -->
+
+
     <div class="py-3 px-4 sticky top-0 bg-gray-100 font-bold hidden md:flex">
       <span class="w-4/12">Anschrift</span>
       <span class="w-4/12">Beschreibung</span>
@@ -10,6 +25,11 @@
     </div>
     <ul>
       <row-item v-for="(item, index) in items" :key="index" :item="item"></row-item>
+
+      <!-- <li v-for="(infoItem, index) in info" :key="index">
+        lat: {{infoItem.results}} <br/>
+        lng: {{infoItem.results}} <br/>
+      </li> -->
     </ul>
   </div>
 </template>
@@ -17,13 +37,22 @@
 <script>
 import axios from 'axios'
 import rowItem from '~/components/row-item.vue'
+import { reject } from 'q';
 
 export default {
+  data: function() {
+    return {
+      location: null,
+      gettingLocation: false,
+      errorStr: null,
+      info: null
+    }
+  },
   props: {
   },
 
   components: {
-    rowItem  
+    rowItem
   },
   async asyncData() {
     const { data } = await axios.get('/list.json')
@@ -46,6 +75,51 @@ export default {
     resultCount() {
       return this.items && this.items.length
     }
+  },
+
+  methods: {
+    async getLocation() {
+      return new Promise((resolve, reject) => {
+
+        if(!("geolocation" in navigator)) {
+          reject(new Error('geht nicht'));
+        }
+
+        navigator.geolocation.getCurrentPosition(pos => {
+          resolve(pos);
+        }, err => {
+          reject(err);
+        })
+
+      })
+    },
+
+    async locateUser() {
+      this.gettingLocation = true;
+
+      try {
+        this.gettingLocation = false;
+        this.location = await this.getLocation();
+        console.log(this.location);
+      } catch(e) {
+        this.gettingLocation = false;
+        this.errorStr = e.message;
+      }
+    },
+
+    // async getLatLong() {
+    //   this.items.forEach(item => {
+    //     axios
+    //       .get(`https://maps.googleapis.com/maps/api/geocode/json?new_forward_geocoder=true&address=${item.street}+${item.district}+Leipzig&key=AIzaSyBQhWVUEmKhoSWt6jgazOm_NhaL84WX78g`)
+    //       .then(response => this.info = response)
+    //       .then(test())
+    //   });
+    // }
+
+    // function getDistance(currentLocation, location) {
+    //   var distance = Math.sqrt((currentLocation.coords.latitude - location.latitude)^2 + (currentLocation.coords.longitutde - location.longitude)^2);
+    //   return distance;
+    // }
   }
 }
 </script>

@@ -2,10 +2,10 @@
   <div class="container px-4">
     <a @click="$router.go(-1)" class="my-4 block cursor-pointer text-blue-600 hover:font-bold">Zurück</a>
     <h1 class="title text-center text-4xl md:text-6xl font-light my-5">
-      {{ resultCount }} Glascontainer in <span class="capitalize">{{ district }}</span>
+      {{ resultCount }} Glascontainer in <span class="capitalize">{{ currentDistrict }}</span>
     </h1>
     <div class="flex flex-wrap -mx-4">
-      <container-card v-for="(item, index) in items" :key="index" :item="item" v-if="item.districtId == district"></container-card>
+      <container-card v-for="(item, index) in items" :key="index" :item="item" v-if="item.districtId == currentDistrict"></container-card>
     </div>
   </div>
 </template>
@@ -26,7 +26,7 @@ export default {
   
   created() {
     var _district = this.$route.params.district;
-    this.district = _district;
+    this.currentDistrict = _district;
   },
   async asyncData(district) {
     const districtJson = "/districts/" + district.params.district + ".json";
