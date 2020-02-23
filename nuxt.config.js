@@ -17,7 +17,13 @@ export default {
         content: process.env.npm_package_description || ''
       }
     ],
-    link: [{ rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }]
+    link: [{ rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }],
+    script: [
+      { src: 'https://js.api.here.com/v3/3.1/mapsjs-core.js' },
+      { src: 'https://js.api.here.com/v3/3.1/mapsjs-service.js' },
+      { src: 'https://js.api.here.com/v3/3.1/mapsjs-ui.js' },
+      { src: 'https://js.api.here.com/v3/3.1/mapsjs-mapevents.js' },
+    ]
   },
   /*
    ** Customize the progress-bar color

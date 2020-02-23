@@ -1,0 +1,435 @@
+searchText|country
+Egelstraße, 04103 Leipzig|DEU
+Johannisplatz, 04103 Leipzig|DEU
+Kurt-Schumacher-Straße 12, 04103 Leipzig|DEU
+Rosa-Luxemburg-Straße 49, 04103 Leipzig|DEU
+Schützenstraße, 04103 Leipzig|DEU
+Nürnberger Straße 45, 04103 Leipzig|DEU
+Semmelweisstraße, 04103 Leipzig|DEU
+Straße des 18. Oktober, 04103 Leipzig|DEU
+Straße des 18. Oktober, 04103 Leipzig|DEU
+Täubchenweg, 04103 Leipzig|DEU
+Talstraße, 04103 Leipzig|DEU
+Tarostraße 18, 04103 Leipzig|DEU
+Tarostraße 2, 04103 Leipzig|DEU
+Tarostraße 8, 04103 Leipzig|DEU
+Windmühlenstraße 31, 04103 Leipzig|DEU
+Arthur-Hoffmann-Straße, 04107 Leipzig|DEU
+Bernhard-Göring-Straße, 04107 Leipzig|DEU
+Dufourstraße, 04107 Leipzig|DEU
+Ferdinand-Rhode-Straße, 04107 Leipzig|DEU
+Haydnstraße, 04107 Leipzig|DEU
+Karl-Liebknecht-Straße 34, 04107 Leipzig|DEU
+Lößniger Straße 7, 04107 Leipzig|DEU
+Mozartstraße, 04107 Leipzig|DEU
+Wächterstraße, 04107 Leipzig|DEU
+Wächterstraße 36, 04107 Leipzig|DEU
+Ferdinand-Lassalle-Straße, 04109 Leipzig|DEU
+Käthe-Kollwitz-Straße, 04109 Leipzig|DEU
+Lessingstraße 10, 04109 Leipzig|DEU
+Marschnerstraße 29, 04109 Leipzig|DEU
+Rudolphstraße, 04109 Leipzig|DEU
+Sebastian-Bach-Straße, 04109 Leipzig|DEU
+Friedrich-Ebert-Straße 116, 04105 Leipzig|DEU
+Goyastraße 12, 04105 Leipzig|DEU
+Kickerlingsberg, 04105 Leipzig|DEU
+Waldstraße 177, 04105 Leipzig|DEU
+Frickestraße, 04105 Leipzig|DEU
+Karl-Rothe-Straße, 04105 Leipzig|DEU
+Michaelisstraße, 04105 Leipzig|DEU
+Parthenstraße, 04105 Leipzig|DEU
+Pfaffendorfer Straße, 04105 Leipzig|DEU
+Roscherstraße, 04105 Leipzig|DEU
+Löbauer Straße, 04347 Leipzig|DEU
+Löbauer Straße 35, 04347 Leipzig|DEU
+Rackwitzer Straße 36, 04347 Leipzig|DEU
+Stannebeinplatz, 04347 Leipzig|DEU
+Volbedingstraße 4, 04347 Leipzig|DEU
+Waldbaurstraße, 04347 Leipzig|DEU
+Bästleinstraße 35, 04347 Leipzig|DEU
+Bautzner Straße 67, 04347 Leipzig|DEU
+Bautzner Straße 7, 04347 Leipzig|DEU
+Fritz-Siemon-Straße, 04347 Leipzig|DEU
+Fritz-Siemon-Straße, 04347 Leipzig|DEU
+Kohlweg, 04347 Leipzig|DEU
+Löbauer Straße, 04347 Leipzig|DEU
+Löbauer Straße 59, 04347 Leipzig|DEU
+Max-Lingner-Straße, 04347 Leipzig|DEU
+Permoserstraße, 04347 Leipzig|DEU
+Permoserstraße 1, 04347 Leipzig|DEU
+Poserstraße 45, 04347 Leipzig|DEU
+Schwantesstraße 41, 04347 Leipzig|DEU
+Shukowstraße, 04347 Leipzig|DEU
+Shukowstraße 48, 04347 Leipzig|DEU
+Shukowstraße 8, 04347 Leipzig|DEU
+Stöhrerstraße 16, 04347 Leipzig|DEU
+Volksgartenstraße, 04347 Leipzig|DEU
+Döringstraße 25, 04357 Leipzig|DEU
+Friedrichshafner Straße, 04357 Leipzig|DEU
+Gontardweg, 04357 Leipzig|DEU
+Friedrichshafner Straße, 04356 Leipzig|DEU
+Majakowskistraße 4, 04356 Leipzig|DEU
+Essener Straße, 04357 Leipzig|DEU
+Gogolstraße, 04357 Leipzig|DEU
+Kieler Straße 84, 04357 Leipzig|DEU
+Otto-Michael-Straße, 04357 Leipzig|DEU
+Samuel-Lampel-Straße, 04357 Leipzig|DEU
+Simón-Bolívar-Straße 92, 04357 Leipzig|DEU
+Stralsunder Straße, 04357 Leipzig|DEU
+Walter-Albrecht-Weg, 04357 Leipzig|DEU
+Cleudner Straße, 04349 Leipzig|DEU
+Freiberger Straße, 04349 Leipzig|DEU
+Göteborger Straße, 04349 Leipzig|DEU
+Lidicestraße 8, 04349 Leipzig|DEU
+Neutzscher Straße, 04349 Leipzig|DEU
+Seelestraße "27 a", 04349 Leipzig|DEU
+Zschopauer Straße, 04349 Leipzig|DEU
+Am Künstlerbogen, 04349 Leipzig|DEU
+Am langen Teiche, 04349 Leipzig|DEU
+Hohenheidaer Straße, 04349 Leipzig|DEU
+Comeniusstraße, 04315 Leipzig|DEU
+Kuchengartenstraße, 04315 Leipzig|DEU
+Lilienstraße, 04315 Leipzig|DEU
+Melanchthonstraße 1, 04315 Leipzig|DEU
+Neustädter Straße, 04315 Leipzig|DEU
+Bülowstraße 35, 04315 Leipzig|DEU
+Bennigsenstraße 26, 04315 Leipzig|DEU
+Dornbergerstraße, 04315 Leipzig|DEU
+Geißlerstraße, 04315 Leipzig|DEU
+Idastraße 26, 04315 Leipzig|DEU
+Juliusstraße 18, 04315 Leipzig|DEU
+Torgauer Straße, 04315 Leipzig|DEU
+Friedrich-Dittes-Straße, 04318 Leipzig|DEU
+Theodor-Neubauer-Straße, 04318 Leipzig|DEU
+Theodor-Neubauer-Straße 3, 04318 Leipzig|DEU
+Wichernstraße 5, 04318 Leipzig|DEU
+Wiebelstraße 9, 04318 Leipzig|DEU
+Zweinaundorfer Straße "78 b", 04318 Leipzig|DEU
+Cunnersdorfer Straße, 04318 Leipzig|DEU
+Eisenbahnstraße, 04318 Leipzig|DEU
+Leonhard-Frank-Straße, 04318 Leipzig|DEU
+Leonhard-Frank-Straße, 04318 Leipzig|DEU
+Leonhard-Frank-Straße 2, 04318 Leipzig|DEU
+Portitzer Straße 16, 04318 Leipzig|DEU
+Walter-Barth-Straße 9, 04318 Leipzig|DEU
+Elisabeth-Schumacher-, 04328 Leipzig|DEU
+Ostheimstraße 24, 04328 Leipzig|DEU
+Permoserstraße 50, 04328 Leipzig|DEU
+Döllingstraße, 04328 Leipzig|DEU
+Döllingstraße 1, 04328 Leipzig|DEU
+Sommerfelder Weg, 04328 Leipzig|DEU
+Ahornstraße 2, 04329 Leipzig|DEU
+Am Vorwerk 1, 04329 Leipzig|DEU
+Goldsternstraße 13, 04329 Leipzig|DEU
+Goldsternstraße 54, 04329 Leipzig|DEU
+Gundermannstraße, 04329 Leipzig|DEU
+Hainbuchenstraße 32, 04329 Leipzig|DEU
+Heiterblickallee 11, 04329 Leipzig|DEU
+Heiterblickallee 31, 04329 Leipzig|DEU
+Heiterblickallee 52, 04329 Leipzig|DEU
+Heiterblickallee 81, 04329 Leipzig|DEU
+Klettenstraße 2, 04329 Leipzig|DEU
+Kreuzdornstraße, 04329 Leipzig|DEU
+Platanenstraße 51, 04329 Leipzig|DEU
+Südblick 8, 04329 Leipzig|DEU
+Schlehenweg, 04329 Leipzig|DEU
+Dachsstraße, 04329 Leipzig|DEU
+Paunsdorfer Allee, 04329 Leipzig|DEU
+Am Gutspark, 04316 Leipzig|DEU
+Engelsdorfer Straße, 04316 Leipzig|DEU
+Mühlweg, 04316 Leipzig|DEU
+Willmar-Schwabe-Ring, 04316 Leipzig|DEU
+Achatstraße, 04319 Leipzig|DEU
+Arnoldplatz, 04319 Leipzig|DEU
+Hans-Weigel-Straße, 04319 Leipzig|DEU
+Harpstedter Straße 8, 04319 Leipzig|DEU
+Reichsbahnerstraße "5/7", 04319 Leipzig|DEU
+Schulweg 4, 04319 Leipzig|DEU
+Topasstraße 48, 04319 Leipzig|DEU
+Topasstraße 57, 04319 Leipzig|DEU
+Wasserturmstraße, 04319 Leipzig|DEU
+Werkstättenstraße 4, 04319 Leipzig|DEU
+Wiesenweg, 04319 Leipzig|DEU
+Gottfried-Jähnichen-Weg, 04316 Leipzig|DEU
+Althener Anger, 04319 Leipzig|DEU
+Am Wiesenblick, 04319 Leipzig|DEU
+Dorfstraße, 04319 Leipzig|DEU
+Hersvelder Straße, 04319 Leipzig|DEU
+Breitkopfstraße, 04317 Leipzig|DEU
+Breitkopfstraße, 04317 Leipzig|DEU
+Dresdner Straße, 04317 Leipzig|DEU
+Eilenburger Straße, 04317 Leipzig|DEU
+Hofer Straße, 04317 Leipzig|DEU
+Hofer Straße 46, 04317 Leipzig|DEU
+Holsteinstraße 32, 04317 Leipzig|DEU
+Holsteinstraße 62, 04317 Leipzig|DEU
+Karl-Siegismund-Straße, 04317 Leipzig|DEU
+Kippenbergstraße, 04317 Leipzig|DEU
+Kurt-Günther-Straße 1, 04317 Leipzig|DEU
+Mühlstraße, 04317 Leipzig|DEU
+Oststraße 101, 04317 Leipzig|DEU
+Gletschersteinstraße, 04299 Leipzig|DEU
+Holzhäuser Straße, 04299 Leipzig|DEU
+Holzhäuser Straße, 04299 Leipzig|DEU
+Kolmstraße 63, 04299 Leipzig|DEU
+Lange Reihe 1, 04299 Leipzig|DEU
+Naunhofer Straße, 04299 Leipzig|DEU
+Oststraße, 04299 Leipzig|DEU
+An der Tabaksmühle, 04289 Leipzig|DEU
+Augustinerstraße 8, 04289 Leipzig|DEU
+Bockstraße 3, 04289 Leipzig|DEU
+Höltystraße, 04289 Leipzig|DEU
+Lene-Voigt-Straße 2, 04289 Leipzig|DEU
+Strümpellstraße, 04289 Leipzig|DEU
+Tirolerweg 6, 04289 Leipzig|DEU
+Trendelenburgstraße 8, 04289 Leipzig|DEU
+Cervantesweg, 04289 Leipzig|DEU
+An der Eisenbahn, 04288 Leipzig|DEU
+Carl-Munde-Straße 8, 04288 Leipzig|DEU
+Güldengossaer Straße, 04288 Leipzig|DEU
+Großpösnaer Straße 30, 04288 Leipzig|DEU
+Prager Straße, 04288 Leipzig|DEU
+Wiesengrund 30, 04288 Leipzig|DEU
+Emil-Altner-Weg, 04288 Leipzig|DEU
+Hinter dem Zuckelhausener Ring, 04288 Leipzig|DEU
+Liebertwolkwitzer Straße 39, 04288 Leipzig|DEU
+Walter-Heise-Straße, 04288 Leipzig|DEU
+Bernhard-Göring-Straße 43, 04275 Leipzig|DEU
+Fockestraße 12, 04275 Leipzig|DEU
+Karl-Liebknecht-Straße, 04275 Leipzig|DEU
+Kohlenstraße, 04275 Leipzig|DEU
+Arno-Nitzsche-Straße, 04277 Leipzig|DEU
+Arno-Nitzsche-Straße, 04277 Leipzig|DEU
+Bärlauchweg 25, 04277 Leipzig|DEU
+Bornaische Straße 2, 04277 Leipzig|DEU
+Brandstraße 40, 04277 Leipzig|DEU
+Burgstädter Straße, 04277 Leipzig|DEU
+Karl-Liebknecht-Straße, 04277 Leipzig|DEU
+Pfeffingerstraße, 04277 Leipzig|DEU
+Probstheidaer Straße, 04277 Leipzig|DEU
+Richard-Lehmann-Straße, 04277 Leipzig|DEU
+Richard-Lehmann-Straße 110, 04277 Leipzig|DEU
+Wolfgang-Heinze-Straße, 04277 Leipzig|DEU
+An der Märchenwiese 49, 04277 Leipzig|DEU
+Rübezahlweg, 04277 Leipzig|DEU
+Bernhard-Kellermann-Straße 8, 04279 Leipzig|DEU
+Dürrstraße 69, 04279 Leipzig|DEU
+Hans-Marchwitza-Straße, 04279 Leipzig|DEU
+Johannes-R.-Becher-Straße 11, 04279 Leipzig|DEU
+Johannes-R.-Becher-Straße 13, 04279 Leipzig|DEU
+Johannes-R.-Becher-Straße 22, 04279 Leipzig|DEU
+Johannes-R.-Becher-Straße 3, 04279 Leipzig|DEU
+Kurt-Tucholsky-Straße 2, 04279 Leipzig|DEU
+Liechtensteinstraße, 04279 Leipzig|DEU
+Probstheidaer Straße, 04279 Leipzig|DEU
+Siegfriedstraße, 04279 Leipzig|DEU
+Zwickauer Straße, 04279 Leipzig|DEU
+Bornaische Straße, 04279 Leipzig|DEU
+Eigenheimstraße, 04279 Leipzig|DEU
+Friederikenstraße 50, 04279 Leipzig|DEU
+Georg-Maurer-Straße 23, 04279 Leipzig|DEU
+Holbeinstraße, 04229 Leipzig|DEU
+Könneritzstraße 101, 04229 Leipzig|DEU
+Rödelstraße, 04229 Leipzig|DEU
+Engertstraße, 04229 Leipzig|DEU
+Erich-Zeigner-Allee 20, 04229 Leipzig|DEU
+Erich-Zeigner-Allee 69, 04229 Leipzig|DEU
+Erich-Zeigner-Allee 91, 04229 Leipzig|DEU
+Gießerstraße, 04229 Leipzig|DEU
+Markranstädter Straße, 04229 Leipzig|DEU
+Diezmannstraße 61, 04207 Leipzig|DEU
+Gärtnerstraße 36, 04207 Leipzig|DEU
+Herrmann-Meyer-Straße "55/57", 04207 Leipzig|DEU
+Nikolai-Rumjanzew-Straße, 04207 Leipzig|DEU
+Ratzelstraße 59, 04207 Leipzig|DEU
+Ratzelstraße 91, 04207 Leipzig|DEU
+Dieskaustraße, 04229 Leipzig|DEU
+Dieskaustraße 133, 04229 Leipzig|DEU
+Kantatenweg, 04229 Leipzig|DEU
+Luckaer Straße, 04229 Leipzig|DEU
+Windorfer Straße, 04229 Leipzig|DEU
+Arthur-Nagel-Straße, 04249 Leipzig|DEU
+Arthur-Nagel-Straße 7, 04249 Leipzig|DEU
+Brauereistraße, 04249 Leipzig|DEU
+Dieskaustraße 295, 04249 Leipzig|DEU
+Eichelbaumstraße 15, 04249 Leipzig|DEU
+Kloßstraße, 04249 Leipzig|DEU
+Neubauernstraße 9, 04249 Leipzig|DEU
+Raiffeisenstraße, 04249 Leipzig|DEU
+Dieskaustraße 375, 04249 Leipzig|DEU
+Dieskaustraße 483, 04249 Leipzig|DEU
+Seumestraße 20, 04249 Leipzig|DEU
+Wildentensteig, 04249 Leipzig|DEU
+Erikenstraße 32, 04249 Leipzig|DEU
+Erikenstraße 46, 04249 Leipzig|DEU
+Rehbacher Anger, 04249 Leipzig|DEU
+Am Schwalbennest, 04205 Leipzig|DEU
+Am Schwalbennest 16, 04205 Leipzig|DEU
+Jenaer Straße, 04205 Leipzig|DEU
+Jenaer Straße, 04205 Leipzig|DEU
+Lindennaundorfer Weg 18, 04205 Leipzig|DEU
+Schönauer Ring, 04205 Leipzig|DEU
+Schönauer Ring 1, 04205 Leipzig|DEU
+Suhler Straße, 04205 Leipzig|DEU
+Weimaer Straße, 04205 Leipzig|DEU
+Alte Salzstraße 52, 04209 Leipzig|DEU
+Asternweg 44, 04209 Leipzig|DEU
+Dahlienstraße 101, 04209 Leipzig|DEU
+Dahlienstraße 31, 04209 Leipzig|DEU
+Gärtnerstraße 155, 04209 Leipzig|DEU
+Gärtnerstraße 41, 04209 Leipzig|DEU
+Grünauer Allee 37, 04209 Leipzig|DEU
+Nelkenweg 15, 04209 Leipzig|DEU
+Rosenweg 20, 04209 Leipzig|DEU
+Straße am Park 4, 04209 Leipzig|DEU
+Weißdornstraße, 04209 Leipzig|DEU
+Weißdornstraße 84, 04209 Leipzig|DEU
+Alte Salzstraße 183, 04209 Leipzig|DEU
+Am Kirschberg 13, 04209 Leipzig|DEU
+Breisgaustraße 19, 04209 Leipzig|DEU
+Breisgaustraße 29, 04209 Leipzig|DEU
+Breisgaustraße 43, 04209 Leipzig|DEU
+Breisgaustraße 47, 04209 Leipzig|DEU
+Breisgaustraße 79, 04209 Leipzig|DEU
+Heilbronner Straße 5, 04209 Leipzig|DEU
+Karlsruher Straße 31, 04209 Leipzig|DEU
+Ludwigsburger Straße 16, 04209 Leipzig|DEU
+Mannheimer Straße 130, 04209 Leipzig|DEU
+Mannheimer Straße 36, 04209 Leipzig|DEU
+Offenburger Straße 11, 04209 Leipzig|DEU
+Potschkaustraße 22, 04209 Leipzig|DEU
+Ringstraße 1, 04209 Leipzig|DEU
+Ringstraße 115, 04209 Leipzig|DEU
+Ringstraße 171, 04209 Leipzig|DEU
+Ringstraße 35, 04209 Leipzig|DEU
+Ringstraße 59, 04209 Leipzig|DEU
+Bamberger Straße 64, 04207 Leipzig|DEU
+Brambacher Straße 41, 04207 Leipzig|DEU
+Brambacher Straße 87, 04207 Leipzig|DEU
+Krakauer Straße 2, 04207 Leipzig|DEU
+Rothenburger Straße 23, 04207 Leipzig|DEU
+Am Grund 2, 04207 Leipzig|DEU
+Am Grund 70, 04207 Leipzig|DEU
+An der Kotsche 15, 04207 Leipzig|DEU
+An der Lautsche 26, 04207 Leipzig|DEU
+Basteistraße 15, 04207 Leipzig|DEU
+Binzer Straße 14, 04207 Leipzig|DEU
+Brackestraße 31, 04207 Leipzig|DEU
+Brackestraße 41, 04207 Leipzig|DEU
+Deiwitzweg 3, 04207 Leipzig|DEU
+Königsteinstraße 13, 04207 Leipzig|DEU
+Königsteinstraße 43, 04207 Leipzig|DEU
+Liliensteinstraße 11, 04207 Leipzig|DEU
+Pfaffensteinstraße 6, 04207 Leipzig|DEU
+Plovdiver Straße, 04207 Leipzig|DEU
+Salzweg, 04207 Leipzig|DEU
+Schrammsteinstraße, 04207 Leipzig|DEU
+Selliner Straße 21, 04207 Leipzig|DEU
+Zingster Straße, 04207 Leipzig|DEU
+Zingster Straße 30, 04207 Leipzig|DEU
+Zschampertaue 18, 04207 Leipzig|DEU
+Zur Heide, 04207 Leipzig|DEU
+Am kleinen Feld 50, 04205 Leipzig|DEU
+Jupiterstraße 2, 04205 Leipzig|DEU
+Jupiterstraße 42, 04205 Leipzig|DEU
+Neue Leipziger Straße 1, 04205 Leipzig|DEU
+Plovdiver Straße 30, 04205 Leipzig|DEU
+Plovdiver Straße 82, 04205 Leipzig|DEU
+Saturnstraße 27, 04205 Leipzig|DEU
+Saturnstraße 57, 04205 Leipzig|DEU
+Titaniaweg 3, 04205 Leipzig|DEU
+Uranusstraße, 04205 Leipzig|DEU
+Uranusstraße 50, 04205 Leipzig|DEU
+Wegastraße 24, 04205 Leipzig|DEU
+Alte Burghausener Straße, 04205 Leipzig|DEU
+Am Bahnhof, 04205 Leipzig|DEU
+Auenweg, 04205 Leipzig|DEU
+Lützner Straße, 04177 Leipzig|DEU
+Lützner Straße, 04177 Leipzig|DEU
+Demmeringstraße 84, 04177 Leipzig|DEU
+Karl-Ferlemann-Straße, 04177 Leipzig|DEU
+Merseburger Straße, 04177 Leipzig|DEU
+Rietschelstraße, 04177 Leipzig|DEU
+Beckerstraße 7, 04179 Leipzig|DEU
+Lützner Plan, 04179 Leipzig|DEU
+Lützner Straße 21, 04179 Leipzig|DEU
+Radiusstraße, 04179 Leipzig|DEU
+Saalfelder Straße 73, 04179 Leipzig|DEU
+Wiprechtstraße, 04179 Leipzig|DEU
+Franz-Flemming-Straße, 04179 Leipzig|DEU
+Hans-Driesch-Straße, 04179 Leipzig|DEU
+Pfingstweide, 04179 Leipzig|DEU
+Pfingstweide 23, 04179 Leipzig|DEU
+Philipp-Reis-Straße, 04179 Leipzig|DEU
+Rückmarsdorfer Straße 18, 04179 Leipzig|DEU
+Rathenaustraße, 04179 Leipzig|DEU
+Ammernplatz, 04178 Leipzig|DEU
+An der Luppe, 04178 Leipzig|DEU
+Feldlerchenweg, 04178 Leipzig|DEU
+Frankenweg, 04178 Leipzig|DEU
+Heinrich-Heine-Straße, 04178 Leipzig|DEU
+Mitschurinring, 04178 Leipzig|DEU
+Pestalozzistraße, 04178 Leipzig|DEU
+Südstraße, 04178 Leipzig|DEU
+Brandensteinstraße, 04178 Leipzig|DEU
+Großer Marktweg 9, 04178 Leipzig|DEU
+Merseburger Straße 259, 04178 Leipzig|DEU
+Miltitzer Straße, 04178 Leipzig|DEU
+Zum Bahnhof, 04178 Leipzig|DEU
+Blücherstraße 10, 04159 Leipzig|DEU
+Diderotstraße, 04159 Leipzig|DEU
+Georg-Schumann-Straße 185, 04159 Leipzig|DEU
+Glesiener Straße, 04159 Leipzig|DEU
+Hans-Beimler-Straße, 04159 Leipzig|DEU
+Hans-Beimler-Straße, 04159 Leipzig|DEU
+Yorckstraße, 04159 Leipzig|DEU
+Max-Liebermann-Straße, 04159 Leipzig|DEU
+Georg-Schumann-Straße, 04159 Leipzig|DEU
+Linkelstraße 42, 04159 Leipzig|DEU
+Pater-Gordian-Straße 28, 04159 Leipzig|DEU
+Am Bildersaal, 04159 Leipzig|DEU
+Am Eselshaus, 04159 Leipzig|DEU
+Bahnstraße, 04159 Leipzig|DEU
+Elsterberg, 04159 Leipzig|DEU
+Stahmelner Straße 218, 04159 Leipzig|DEU
+Windmühlenweg, 04159 Leipzig|DEU
+Erich-Thiele-Straße, 04158 Leipzig|DEU
+Gartenwinkel 2, 04158 Leipzig|DEU
+Lange Trift, 04158 Leipzig|DEU
+Parkring, 04158 Leipzig|DEU
+Wahrener Straße, 04158 Leipzig|DEU
+Zur Lindenhöhe 1, 04158 Leipzig|DEU
+Blumenstraße, 04155 Leipzig|DEU
+Geibelstraße, 04155 Leipzig|DEU
+Herloßsohnstraße, 04155 Leipzig|DEU
+Lützowstraße 1, 04155 Leipzig|DEU
+Natonekstraße, 04155 Leipzig|DEU
+Breitenfelder Straße, 04157 Leipzig|DEU
+Coppistraße, 04157 Leipzig|DEU
+Heinrich-Budde-Straße, 04157 Leipzig|DEU
+Michael-Kazmierczak-Straße, 04157 Leipzig|DEU
+Sasstraße, 04157 Leipzig|DEU
+Viertelsweg 4, 04157 Leipzig|DEU
+Hans-Oster-Straße, 04157 Leipzig|DEU
+Max-Liebermann-Straße 61, 04157 Leipzig|DEU
+Max-Liebermann-Straße 97, 04157 Leipzig|DEU
+Sylter Straße, 04157 Leipzig|DEU
+Sylter Straße 29, 04157 Leipzig|DEU
+Viertelsweg 58, 04157 Leipzig|DEU
+Wangerooger Weg 5, 04157 Leipzig|DEU
+Görlitzer Straße, 04129 Leipzig|DEU
+Gottschallstraße, 04129 Leipzig|DEU
+Hartzstraße, 04129 Leipzig|DEU
+Schönefelder Straße, 04129 Leipzig|DEU
+Schönefelder Straße, 04129 Leipzig|DEU
+Schiebestraße, 04129 Leipzig|DEU
+Wittenberger Straße 29, 04129 Leipzig|DEU
+Zschortauer Straße, 04129 Leipzig|DEU
+Am Ring, 04356 Leipzig|DEU
+An der Hauptstraße, 04356 Leipzig|DEU
+Gutsweg, 04356 Leipzig|DEU
+Seehausener Allee 35, 04356 Leipzig|DEU
+Nordweg "2-6", 04158 Leipzig|DEU
+Südtangente, 04158 Leipzig|DEU
+Südtangente, 04158 Leipzig|DEU
+Salzhandelsstraße, 04158 Leipzig|DEU

@@ -1,0 +1,795 @@
+[
+  {
+    "street": "Egelstraße",
+    "street_number": "",
+    "description": "Ecke Lange Straße",
+    "borough": "Mitte",
+    "postcode": "04103",
+    "district": "Zentrum-Ost",
+    "districtId": "zentrum-ost"
+  },
+  {
+    "street": "Johannisplatz",
+    "street_number": "",
+    "description": "auf Querstraße ggü Nr. 15",
+    "borough": "Mitte",
+    "postcode": "04103",
+    "district": "Zentrum-Ost",
+    "districtId": "zentrum-ost"
+  },
+  {
+    "street": "Kurt-Schumacher-Straße",
+    "street_number": 12,
+    "description": "Wendeschleife",
+    "borough": "Mitte",
+    "postcode": "04103",
+    "district": "Zentrum-Ost",
+    "districtId": "zentrum-ost"
+  },
+  {
+    "street": "Rosa-Luxemburg-Straße",
+    "street_number": 49,
+    "description": "Höhe Schulze-Delitzsch-Straße",
+    "borough": "Mitte",
+    "postcode": "04103",
+    "district": "Zentrum-Ost",
+    "districtId": "zentrum-ost"
+  },
+  {
+    "street": "Schützenstraße",
+    "street_number": "",
+    "description": "Chopinstraße",
+    "borough": "Mitte",
+    "postcode": "04103",
+    "district": "Zentrum-Ost",
+    "districtId": "zentrum-ost"
+  },
+  {
+    "street": "Nürnberger Straße",
+    "street_number": 45,
+    "description": "Höhe Bauhofstraße",
+    "borough": "Mitte",
+    "postcode": "04103",
+    "district": "Zentrum-Südost",
+    "districtId": "zentrum-suedost"
+    
+  },
+  {
+    "street": "Semmelweisstraße",
+    "street_number": "",
+    "description": "Höhe Straße des 18. Oktober",
+    "borough": "Mitte",
+    "postcode": "04103",
+    "district": "Zentrum-Südost",
+    "districtId": "zentrum-suedost"
+    
+  },
+  {
+    "street": "Straße des 18. Oktober",
+    "street_number": "",
+    "description": "Studentenwohnheim",
+    "borough": "Mitte",
+    "postcode": "04103",
+    "district": "Zentrum-Südost",
+    "districtId": "zentrum-suedost"
+    
+  },
+  {
+    "street": "Straße des 18. Oktober",
+    "street_number": "",
+    "description": "Höhe Johannisallee",
+    "borough": "Mitte",
+    "postcode": "04103",
+    "district": "Zentrum-Südost",
+    "districtId": "zentrum-suedost"
+    
+  },
+  {
+    "street": "Täubchenweg",
+    "street_number": "",
+    "description": "Höhe Spohrstraße",
+    "borough": "Mitte",
+    "postcode": "04103",
+    "district": "Zentrum-Südost",
+    "districtId": "zentrum-suedost"
+    
+  },
+  {
+    "street": "Talstraße",
+    "street_number": "",
+    "description": "auf Prager Straße an Litfaßsäule",
+    "borough": "Mitte",
+    "postcode": "04103",
+    "district": "Zentrum-Südost",
+    "districtId": "zentrum-suedost"
+    
+  },
+  {
+    "street": "Tarostraße",
+    "street_number": 18,
+    "description": "Studentenwohnheim",
+    "borough": "Mitte",
+    "postcode": "04103",
+    "district": "Zentrum-Südost",
+    "districtId": "zentrum-suedost"
+    
+  },
+  {
+    "street": "Tarostraße",
+    "street_number": 2,
+    "description": "Einkaufsmarkt",
+    "borough": "Mitte",
+    "postcode": "04103",
+    "district": "Zentrum-Südost",
+    "districtId": "zentrum-suedost"
+    
+  },
+  {
+    "street": "Tarostraße",
+    "street_number": 8,
+    "description": "",
+    "borough": "Mitte",
+    "postcode": "04103",
+    "district": "Zentrum-Südost",
+    "districtId": "zentrum-suedost"
+    
+  },
+  {
+    "street": "Windmühlenstraße",
+    "street_number": 31,
+    "description": "Höhe Emilienstraße",
+    "borough": "Mitte",
+    "postcode": "04103",
+    "district": "Zentrum-Südost",
+    "districtId": "zentrum-suedost"
+    
+  },
+  {
+    "street": "Arthur-Hoffmann-Straße",
+    "street_number": "",
+    "description": "Ecke Hohe Straße",
+    "borough": "Mitte",
+    "postcode": "04107",
+    "district": "Zentrum-Süd",
+    "districtId": "zentrum-sued"
+  },
+  {
+    "street": "Bernhard-Göring-Straße",
+    "street_number": "",
+    "description": "Höhe Schletterstraße",
+    "borough": "Mitte",
+    "postcode": "04107",
+    "district": "Zentrum-Süd",
+    "districtId": "zentrum-sued"
+  },
+  {
+    "street": "Dufourstraße",
+    "street_number": "",
+    "description": "zwischen Braustraße und Einmündung",
+    "borough": "Mitte",
+    "postcode": "04107",
+    "district": "Zentrum-Süd",
+    "districtId": "zentrum-sued"
+  },
+  {
+    "street": "Ferdinand-Rhode-Straße",
+    "street_number": "",
+    "description": "Höhe Telemannstraße",
+    "borough": "Mitte",
+    "postcode": "04107",
+    "district": "Zentrum-Süd",
+    "districtId": "zentrum-sued"
+  },
+  {
+    "street": "Haydnstraße",
+    "street_number": "",
+    "description": "Ecke Karl-Tauchnitz-Straße",
+    "borough": "Mitte",
+    "postcode": "04107",
+    "district": "Zentrum-Süd",
+    "districtId": "zentrum-sued"
+  },
+  {
+    "street": "Karl-Liebknecht-Straße",
+    "street_number": 34,
+    "description": "Ecke Braustraße",
+    "borough": "Mitte",
+    "postcode": "04107",
+    "district": "Zentrum-Süd",
+    "districtId": "zentrum-sued"
+  },
+  {
+    "street": "Lößniger Straße",
+    "street_number": 7,
+    "description": "WSH (mit Altglas-Annahme)",
+    "borough": "Mitte",
+    "postcode": "04107",
+    "district": "Zentrum-Süd",
+    "districtId": "zentrum-sued"
+  },
+  {
+    "street": "Mozartstraße",
+    "street_number": "",
+    "description": "ggü. Nr. 3, Ecke Simson-/Lampestraße",
+    "borough": "Mitte",
+    "postcode": "04107",
+    "district": "Zentrum-Süd",
+    "districtId": "zentrum-sued"
+  },
+  {
+    "street": "Wächterstraße",
+    "street_number": "",
+    "description": "Ecke Grassistraße",
+    "borough": "Mitte",
+    "postcode": "04107",
+    "district": "Zentrum-Süd",
+    "districtId": "zentrum-sued"
+  },
+  {
+    "street": "Wächterstraße",
+    "street_number": 36,
+    "description": "Höhe",
+    "borough": "Mitte",
+    "postcode": "04107",
+    "district": "Zentrum-Süd",
+    "districtId": "zentrum-sued"
+  },
+  {
+    "street": "Ferdinand-Lassalle-Straße",
+    "street_number": "",
+    "description": "Einmündung Max-Reger-Allee (Elster)",
+    "borough": "Mitte",
+    "postcode": "04109",
+    "district": "Zentrum-West",
+    "districtId": "zentrum-west"
+  },
+  {
+    "street": "Käthe-Kollwitz-Straße",
+    "street_number": "",
+    "description": "Höhe Alexanderstraße",
+    "borough": "Mitte",
+    "postcode": "04109",
+    "district": "Zentrum-West",
+    "districtId": "zentrum-west"
+  },
+  {
+    "street": "Lessingstraße",
+    "street_number": 10,
+    "description": "Feuerwache",
+    "borough": "Mitte",
+    "postcode": "04109",
+    "district": "Zentrum-West",
+    "districtId": "zentrum-west"
+  },
+  {
+    "street": "Marschnerstraße",
+    "street_number": 29,
+    "description": "ggü. Aachener Straße",
+    "borough": "Mitte",
+    "postcode": "04109",
+    "district": "Zentrum-West",
+    "districtId": "zentrum-west"
+  },
+  {
+    "street": "Rudolphstraße",
+    "street_number": "",
+    "description": "Höhe Martin-Luther-Ring",
+    "borough": "Mitte",
+    "postcode": "04109",
+    "district": "Zentrum-West",
+    "districtId": "zentrum-west"
+  },
+  {
+    "street": "Sebastian-Bach-Straße",
+    "street_number": "",
+    "description": "Höhe Hauptmannstraße/Kaufhalle",
+    "borough": "Mitte",
+    "postcode": "04109",
+    "district": "Zentrum-West",
+    "districtId": "zentrum-west"
+  },
+  {
+    "street": "Friedrich-Ebert-Straße",
+    "street_number": 116,
+    "description": "Höhe Schule",
+    "borough": "Mitte",
+    "postcode": "04105",
+    "district": "Zentrum-Nordwest",
+    "districtId": "zentrum-nordwest"
+  },
+  {
+    "street": "Goyastraße",
+    "street_number": 12,
+    "description": "",
+    "borough": "Mitte",
+    "postcode": "04105",
+    "district": "Zentrum-Nordwest",
+    "districtId": "zentrum-nordwest"
+  },
+  {
+    "street": "Kickerlingsberg",
+    "street_number": "",
+    "description": "zw. Preller- u. Ehrensteinstraße",
+    "borough": "Mitte",
+    "postcode": "04105",
+    "district": "Zentrum-Nordwest",
+    "districtId": "zentrum-nordwest"
+  },
+  {
+    "street": "Waldstraße",
+    "street_number": 177,
+    "description": "ggü. Möckernsche Allee/Sportplatz",
+    "borough": "Mitte",
+    "postcode": "04105",
+    "district": "Zentrum-Nordwest",
+    "districtId": "zentrum-nordwest"
+  },
+  {
+    "street": "Frickestraße",
+    "street_number": "",
+    "description": "Trufanowstraße",
+    "borough": "Mitte",
+    "postcode": "04105",
+    "district": "Zentrum-Nord",
+    "districtId": "zentrum-nord"
+  },
+  {
+    "street": "Karl-Rothe-Straße",
+    "street_number": "",
+    "description": "Höhe Gohliser Straße",
+    "borough": "Mitte",
+    "postcode": "04105",
+    "district": "Zentrum-Nord",
+    "districtId": "zentrum-nord"
+  },
+  {
+    "street": "Michaelisstraße",
+    "street_number": "",
+    "description": "Gneisenaustraße",
+    "borough": "Mitte",
+    "postcode": "04105",
+    "district": "Zentrum-Nord",
+    "districtId": "zentrum-nord"
+  },
+  {
+    "street": "Parthenstraße",
+    "street_number": "",
+    "description": "zwischen Löhrstraße und Nordstraße",
+    "borough": "Mitte",
+    "postcode": "04105",
+    "district": "Zentrum-Nord",
+    "districtId": "zentrum-nord"
+  },
+  {
+    "street": "Pfaffendorfer Straße",
+    "street_number": "",
+    "description": "Höhe Parkhaus am Zoo",
+    "borough": "Mitte",
+    "postcode": "04105",
+    "district": "Zentrum-Nord",
+    "districtId": "zentrum-nord"
+  },
+  {
+    "street": "Roscherstraße",
+    "street_number": "",
+    "description": "Höhe Nordplatz, beim Finanzamt",
+    "borough": "Mitte",
+    "postcode": "04105",
+    "district": "Zentrum-Nord",
+    "districtId": "zentrum-nord"
+  },
+  {
+    "street": "Löbauer Straße",
+    "street_number": "",
+    "description": "Höhe Schönefelder Allee",
+    "borough": "Nordost",
+    "postcode": "04347",
+    "district": "Schönefeld-Abtnaundorf",
+    "districtId": "schoenefeld-abtnaudorf"
+  },
+  {
+    "street": "Löbauer Straße",
+    "street_number": 35,
+    "description": "Höhe Stöckelstraße",
+    "borough": "Nordost",
+    "postcode": "04347",
+    "district": "Schönefeld-Abtnaundorf",
+    "districtId": "schoenefeld-abtnaudorf"
+  },
+  {
+    "street": "Rackwitzer Straße",
+    "street_number": 36,
+    "description": "Höhe Fliederhof",
+    "borough": "Nordost",
+    "postcode": "04347",
+    "district": "Schönefeld-Abtnaundorf",
+    "districtId": "schoenefeld-abtnaudorf"
+  },
+  {
+    "street": "Stannebeinplatz",
+    "street_number": "",
+    "description": "am Taxistand Gorkistraße",
+    "borough": "Nordost",
+    "postcode": "04347",
+    "district": "Schönefeld-Abtnaundorf",
+    "districtId": "schoenefeld-abtnaudorf"
+  },
+  {
+    "street": "Volbedingstraße",
+    "street_number": 4,
+    "description": "am Zaun der ehem. Wollkämmerei",
+    "borough": "Nordost",
+    "postcode": "04347",
+    "district": "Schönefeld-Abtnaundorf",
+    "districtId": "schoenefeld-abtnaudorf"
+  },
+  {
+    "street": "Waldbaurstraße",
+    "street_number": "",
+    "description": "Höhe Emil-Schubert-Straße, Ecke",
+    "borough": "Nordost",
+    "postcode": "04347",
+    "district": "Schönefeld-Abtnaundorf",
+    "districtId": "schoenefeld-abtnaudorf"
+  },
+  {
+    "street": "Bästleinstraße",
+    "street_number": 35,
+    "description": "ggü. Kindereinrichtung/Parktasche",
+    "borough": "Nordost",
+    "postcode": "04347",
+    "district": "Schönefeld-Ost",
+    "districtId": "schoenefeld-ost"
+  },
+  {
+    "street": "Bautzner Straße",
+    "street_number": 67,
+    "description": "",
+    "borough": "Nordost",
+    "postcode": "04347",
+    "district": "Schönefeld-Ost",
+    "districtId": "schoenefeld-ost"
+  },
+  {
+    "street": "Bautzner Straße",
+    "street_number": 7,
+    "description": "am Friedhof",
+    "borough": "Nordost",
+    "postcode": "04347",
+    "district": "Schönefeld-Ost",
+    "districtId": "schoenefeld-ost"
+  },
+  {
+    "street": "Fritz-Siemon-Straße",
+    "street_number": "",
+    "description": "Höhe Schulzeweg/Parktasche",
+    "borough": "Nordost",
+    "postcode": "04347",
+    "district": "Schönefeld-Ost",
+    "districtId": "schoenefeld-ost"
+  },
+  {
+    "street": "Fritz-Siemon-Straße",
+    "street_number": "",
+    "description": "Höhe Volksgartenstraße/Parktasche",
+    "borough": "Nordost",
+    "postcode": "04347",
+    "district": "Schönefeld-Ost",
+    "districtId": "schoenefeld-ost"
+  },
+  {
+    "street": "Kohlweg",
+    "street_number": "",
+    "description": "Ecke Heinrich-Schmidt-Straße",
+    "borough": "Nordost",
+    "postcode": "04347",
+    "district": "Schönefeld-Ost",
+    "districtId": "schoenefeld-ost"
+  },
+  {
+    "street": "Löbauer Straße",
+    "street_number": "",
+    "description": "EKZ Sonnenwall",
+    "borough": "Nordost",
+    "postcode": "04347",
+    "district": "Schönefeld-Ost",
+    "districtId": "schoenefeld-ost"
+  },
+  {
+    "street": "Löbauer Straße",
+    "street_number": 59,
+    "description": "ggü.",
+    "borough": "Nordost",
+    "postcode": "04347",
+    "district": "Schönefeld-Ost",
+    "districtId": "schoenefeld-ost"
+  },
+  {
+    "street": "Max-Lingner-Straße",
+    "street_number": "",
+    "description": "Höhe Löbauer Straße",
+    "borough": "Nordost",
+    "postcode": "04347",
+    "district": "Schönefeld-Ost",
+    "districtId": "schoenefeld-ost"
+  },
+  {
+    "street": "Permoserstraße",
+    "street_number": "",
+    "description": "Ecke Adenauerallee",
+    "borough": "Nordost",
+    "postcode": "04347",
+    "district": "Schönefeld-Ost",
+    "districtId": "schoenefeld-ost"
+  },
+  {
+    "street": "Permoserstraße",
+    "street_number": 1,
+    "description": "",
+    "borough": "Nordost",
+    "postcode": "04347",
+    "district": "Schönefeld-Ost",
+    "districtId": "schoenefeld-ost"
+  },
+  {
+    "street": "Poserstraße",
+    "street_number": 45,
+    "description": "",
+    "borough": "Nordost",
+    "postcode": "04347",
+    "district": "Schönefeld-Ost",
+    "districtId": "schoenefeld-ost"
+  },
+  {
+    "street": "Schwantesstraße",
+    "street_number": 41,
+    "description": "",
+    "borough": "Nordost",
+    "postcode": "04347",
+    "district": "Schönefeld-Ost",
+    "districtId": "schoenefeld-ost"
+  },
+  {
+    "street": "Shukowstraße",
+    "street_number": "",
+    "description": "Höhe Schulzeweg/Parktasche",
+    "borough": "Nordost",
+    "postcode": "04347",
+    "district": "Schönefeld-Ost",
+    "districtId": "schoenefeld-ost"
+  },
+  {
+    "street": "Shukowstraße",
+    "street_number": 48,
+    "description": "Höhe Losinskiweg/Parktasche",
+    "borough": "Nordost",
+    "postcode": "04347",
+    "district": "Schönefeld-Ost",
+    "districtId": "schoenefeld-ost"
+  },
+  {
+    "street": "Shukowstraße",
+    "street_number": 8,
+    "description": "",
+    "borough": "Nordost",
+    "postcode": "04347",
+    "district": "Schönefeld-Ost",
+    "districtId": "schoenefeld-ost"
+  },
+  {
+    "street": "Stöhrerstraße",
+    "street_number": 16,
+    "description": "Betriebsgelände Remondis/WSH (mit Altglas-Annahme)",
+    "borough": "Nordost",
+    "postcode": "04347",
+    "district": "Schönefeld-Ost",
+    "districtId": "schoenefeld-ost"
+  },
+  {
+    "street": "Volksgartenstraße",
+    "street_number": "",
+    "description": "Parkplatz",
+    "borough": "Nordost",
+    "postcode": "04347",
+    "district": "Schönefeld-Ost",
+    "districtId": "schoenefeld-ost"
+  },
+  {
+    "street": "Döringstraße",
+    "street_number": 25,
+    "description": "ggü.",
+    "borough": "Nordost",
+    "postcode": "04357",
+    "district": "Mockau-Süd",
+    "districtId": "mockau-sued"
+  },
+  {
+    "street": "Friedrichshafner Straße",
+    "street_number": "",
+    "description": "Höhe Wilhelm-Busch-Straße",
+    "borough": "Nordost",
+    "postcode": "04357",
+    "district": "Mockau-Süd",
+    "districtId": "mockau-sued"
+  },
+  {
+    "street": "Gontardweg",
+    "street_number": "",
+    "description": "Höhe Mockauer Straße",
+    "borough": "Nordost",
+    "postcode": "04357",
+    "district": "Mockau-Süd",
+    "districtId": "mockau-sued"
+  },
+  {
+    "street": "Friedrichshafner Straße",
+    "street_number": "",
+    "description": "Höhe Majakowskistraße",
+    "borough": "Nordost",
+    "postcode": "04356",
+    "district": "Mockau-Nord",
+    "districtId": "mockau-nord"
+  },
+  {
+    "street": "Majakowskistraße",
+    "street_number": 4,
+    "description": "Höhe Stralsunder Straße",
+    "borough": "Nordost",
+    "postcode": "04356",
+    "district": "Mockau-Nord",
+    "districtId": "mockau-nord"
+  },
+  {
+    "street": "Essener Straße",
+    "street_number": "",
+    "description": "Einkaufsmarkt",
+    "borough": "Nordost",
+    "postcode": "04357",
+    "district": "Mockau-Nord",
+    "districtId": "mockau-nord"
+  },
+  {
+    "street": "Gogolstraße",
+    "street_number": "",
+    "description": "Höhe Kuckhoffstraße",
+    "borough": "Nordost",
+    "postcode": "04357",
+    "district": "Mockau-Nord",
+    "districtId": "mockau-nord"
+  },
+  {
+    "street": "Kieler Straße",
+    "street_number": 84,
+    "description": "Höhe Mockauer Straße",
+    "borough": "Nordost",
+    "postcode": "04357",
+    "district": "Mockau-Nord",
+    "districtId": "mockau-nord"
+  },
+  {
+    "street": "Otto-Michael-Straße",
+    "street_number": "",
+    "description": "Höhe Friedrichshafner Straße",
+    "borough": "Nordost",
+    "postcode": "04357",
+    "district": "Mockau-Nord",
+    "districtId": "mockau-nord"
+  },
+  {
+    "street": "Samuel-Lampel-Straße",
+    "street_number": "",
+    "description": "Parkplatz Einkaufsmarkt/Ärztehaus",
+    "borough": "Nordost",
+    "postcode": "04357",
+    "district": "Mockau-Nord",
+    "districtId": "mockau-nord"
+  },
+  {
+    "street": "Simón-Bolívar-Straße",
+    "street_number": 92,
+    "description": "Höhe Otto-Heinze-Straße",
+    "borough": "Nordost",
+    "postcode": "04357",
+    "district": "Mockau-Nord",
+    "districtId": "mockau-nord"
+  },
+  {
+    "street": "Stralsunder Straße",
+    "street_number": "",
+    "description": "Höhe Tauchaer Straße",
+    "borough": "Nordost",
+    "postcode": "04357",
+    "district": "Mockau-Nord",
+    "districtId": "mockau-nord"
+  },
+  {
+    "street": "Walter-Albrecht-Weg",
+    "street_number": "",
+    "description": "Ecke Friedrichshafner Straße",
+    "borough": "Nordost",
+    "postcode": "04357",
+    "district": "Mockau-Nord",
+    "districtId": "mockau-nord"
+  },
+  {
+    "street": "Cleudner Straße",
+    "street_number": "",
+    "description": "Richtung Tauchaer Straße",
+    "borough": "Nordost",
+    "postcode": "04349",
+    "district": "Thekla",
+    "districtId": "thekla"
+  },
+  {
+    "street": "Freiberger Straße",
+    "street_number": "",
+    "description": "Ecke Klingenthaler Straße",
+    "borough": "Nordost",
+    "postcode": "04349",
+    "district": "Thekla",
+    "districtId": "thekla"
+  },
+  {
+    "street": "Göteborger Straße",
+    "street_number": "",
+    "description": "Höhe Tauchaer Straße",
+    "borough": "Nordost",
+    "postcode": "04349",
+    "district": "Thekla",
+    "districtId": "thekla"
+  },
+  {
+    "street": "Lidicestraße",
+    "street_number": 8,
+    "description": "Höhe Theklaer Straße/Parkplatz",
+    "borough": "Nordost",
+    "postcode": "04349",
+    "district": "Thekla",
+    "districtId": "thekla"
+  },
+  {
+    "street": "Neutzscher Straße",
+    "street_number": "",
+    "description": "Höhe Kiebitzstraße",
+    "borough": "Nordost",
+    "postcode": "04349",
+    "district": "Thekla",
+    "districtId": "thekla"
+  },
+  {
+    "street": "Seelestraße",
+    "street_number": "27 a",
+    "description": "Parkfläche ggü. Fortuna-Gaststätte",
+    "borough": "Nordost",
+    "postcode": "04349",
+    "district": "Thekla",
+    "districtId": "thekla"
+  },
+  {
+    "street": "Zschopauer Straße",
+    "street_number": "",
+    "description": "Höhe Theklaer Straße",
+    "borough": "Nordost",
+    "postcode": "04349",
+    "district": "Thekla",
+    "districtId": "thekla"
+  },
+  {
+    "street": "Am Künstlerbogen",
+    "street_number": "",
+    "description": "Parkstadt 2000",
+    "borough": "Nordost",
+    "postcode": "04349",
+    "district": "Plaußig-Portitz",
+    "districtId": "plaußig-portitz"
+  },
+  {
+    "street": "Am langen Teiche",
+    "street_number": "",
+    "description": "Höhe Cradefelder Straße",
+    "borough": "Nordost",
+    "postcode": "04349",
+    "district": "Plaußig-Portitz",
+    "districtId": "plaußig-portitz"
+  }
+]

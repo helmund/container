@@ -4,18 +4,20 @@
       {{ resultCount }} Glascontainer in Leizig
     </h1>
 
-    <!-- <button @click="locateUser"> Hier klicken </button>
-
-    <button @click="getLatLong">asdadas</button>
-
-    <div v-if="location">
-      {{location.coords.latitude}} {{location.coords.longitude}}
+    <div class="py-2">
+      <button @click="locateUser"> Hier klicken </button>
+    </div>
+    <div class="py-2">
+      <button @click="showAllMarker"> Alle anzeigen </button>
     </div>
 
-      <div v-if="errorStr">
-        Sorry, but the following error
-        occurred: {{errorStr}}
-      </div> -->
+    <here-map
+      apiKey="4aRSOHXAoxOVRtiW4HXjt0lI3iWFbdiDfL0fdkbXF-w"
+      ref="map"
+      :latitude="latitude"
+      :longitude="longitude"
+      :zoom="12">
+    </here-map>
 
 
     <div class="py-3 px-4 sticky top-0 bg-gray-100 font-bold hidden md:flex">
@@ -37,6 +39,7 @@
 <script>
 import axios from 'axios'
 import rowItem from '~/components/row-item.vue'
+import hereMap from '~/components/here-map.vue'
 import { reject } from 'q';
 
 export default {
@@ -45,14 +48,18 @@ export default {
       location: null,
       gettingLocation: false,
       errorStr: null,
-      info: null
+      info: null,
+      latitude: Number,
+      longitude: Number,
+      showAll: false
     }
   },
   props: {
   },
 
   components: {
-    rowItem
+    rowItem,
+    hereMap
   },
   async asyncData() {
     const { data } = await axios.get('/list.json')
@@ -100,26 +107,38 @@ export default {
       try {
         this.gettingLocation = false;
         this.location = await this.getLocation();
-        console.log(this.location);
+        this.latitude = this.location.coords.latitude;
+        this.longitude = this.location.coords.longitude;
+        console.log( this.latitude, this.longitude)
       } catch(e) {
         this.gettingLocation = false;
         this.errorStr = e.message;
       }
     },
 
-    // async getLatLong() {
-    //   this.items.forEach(item => {
-    //     axios
-    //       .get(`https://maps.googleapis.com/maps/api/geocode/json?new_forward_geocoder=true&address=${item.street}+${item.district}+Leipzig&key=AIzaSyBQhWVUEmKhoSWt6jgazOm_NhaL84WX78g`)
-    //       .then(response => this.info = response)
-    //       .then(test())
-    //   });
-    // }
-
-    // function getDistance(currentLocation, location) {
-    //   var distance = Math.sqrt((currentLocation.coords.latitude - location.latitude)^2 + (currentLocation.coords.longitutde - location.longitude)^2);
-    //   return distance;
-    // }
+    showAllMarker() {
+      this.showAll = true;
+      let map = this.$refs.map;
+      if (this.showAll == true ) {
+        console.log('true')
+        for (var i = 0; i < this.items.length; i++) {
+            map.dropMarker(this.items[i].street + " " + this.items[i].street_number + ", " + this.items[i].postcode + " Leipzig, DEU")
+          }
+        } else {
+          console.log('false')
+        }
+    }
+  },
+  mounted() {
+    // let map = this.$refs.map;
+    // if (this.showAll == true ) {
+    //   console.log('true')
+    //   for (var i = 0; i < this.items.length; i++) {
+    //       map.dropMarker(this.items[i].street + " " + this.items[i].street_number + ", " + this.items[i].postcode + " Leipzig, DEU")
+    //     }
+    //   } else {
+    //     console.log('false')
+    //   }
   }
 }
 </script>

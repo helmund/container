@@ -1,0 +1,4 @@
+#!/bin/bash
+jq -c '.[]' list.json | while read i; do
+  echo "${i['street']}"
+done
