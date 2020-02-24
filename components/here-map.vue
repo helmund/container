@@ -1,6 +1,6 @@
 <template>
-  <div class="">
-      <div ref="map" id="map-container" style="width:100%; height: 500px"></div>
+  <div>
+      <div class="absolute inset-0 w-full h-full" ref="map"></div>
   </div>
 </template>
 
@@ -70,19 +70,24 @@ export default {
       }
   },
   watch: {
-    latitude(newVal, oldVal) {
-      this.latitude = newVal
+    latitude(lat) {
+      this.latitude = lat
     },
-    longitude(newVal, oldVal) {
-      this.longitude = newVal
+    longitude(lng) {
+      this.longitude = lng
 
       this.map.setCenter({ lat: this.latitude, lng: this.longitude });
-      this.map.setZoom(16);
+      this.map.setZoom(15);
+      var icon = new H.map.Icon( "/images/marker.svg" );
+      let myPosition = new H.map.Marker( {lat: this.latitude, lng: this.longitude});
+      this.map.addObject(myPosition);
     }
   }
 }
 </script>
 
 <style lang="scss">
-
+  .map-container {
+    padding-bottom: percentage(8/16);
+  }
 </style>

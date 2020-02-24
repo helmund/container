@@ -3,21 +3,27 @@
     <h1 class="title text-center text-6xl font-thin my-5">
       {{ resultCount }} Glascontainer in Leizig
     </h1>
-
-    <div class="py-2">
-      <button @click="locateUser"> Hier klicken </button>
+    
+    <div class="relative map-container overflow-hidden">
+      <here-map
+        apiKey="4aRSOHXAoxOVRtiW4HXjt0lI3iWFbdiDfL0fdkbXF-w"
+        ref="map"
+        :latitude="latitude"
+        :longitude="longitude"
+        :zoom="12">
+      </here-map>
+      <div class="absolute inset-0 bg-gray-100 opacity-75" v-if="showBlocker"></div>
+      <div class="absolute inset-0 flex items-center justify-center" v-if="showBlocker">
+        <div>
+          <button @click="locateUser" class="mx-1 bg-blue-800 hover:bg-blue-900 text-white px-2 py-2 px-2 rounded tracking-wide">
+            Container in meiner Nähe
+          </button>
+          <button @click="showAllMarker" class="mx-1 bg-teal-800 hover:bg-teal-900 text-white py-2 px-2 rounded tracking-wide">
+            Alle Container anzeigen
+          </button>
+        </div>
+      </div>
     </div>
-    <div class="py-2">
-      <button @click="showAllMarker"> Alle anzeigen </button>
-    </div>
-
-    <here-map
-      apiKey="4aRSOHXAoxOVRtiW4HXjt0lI3iWFbdiDfL0fdkbXF-w"
-      ref="map"
-      :latitude="latitude"
-      :longitude="longitude"
-      :zoom="12">
-    </here-map>
 
 
     <div class="py-3 px-4 sticky top-0 bg-gray-100 font-bold hidden md:flex">
@@ -51,7 +57,8 @@ export default {
       info: null,
       latitude: Number,
       longitude: Number,
-      showAll: false
+      showAll: false,
+      showBlocker: true
     }
   },
   props: {
@@ -101,6 +108,20 @@ export default {
       })
     },
 
+    showAllMarker() {
+      this.showAll = true;
+      this.showBlocker = false;
+      let map = this.$refs.map;
+      console.log('showAllMarker')
+      if (this.showAll == true ) {
+        for (var i = 0; i < this.items.length; i++) {
+            map.dropMarker(this.items[i].street + " " + this.items[i].street_number + ", " + this.items[i].postcode + " Leipzig, DEU")
+          }
+        } else {
+          console.log('false')
+        }
+    },
+
     async locateUser() {
       this.gettingLocation = true;
 
@@ -109,24 +130,12 @@ export default {
         this.location = await this.getLocation();
         this.latitude = this.location.coords.latitude;
         this.longitude = this.location.coords.longitude;
-        console.log( this.latitude, this.longitude)
+        this.showBlocker = false;
+        this.showAllMarker();
       } catch(e) {
         this.gettingLocation = false;
         this.errorStr = e.message;
       }
-    },
-
-    showAllMarker() {
-      this.showAll = true;
-      let map = this.$refs.map;
-      if (this.showAll == true ) {
-        console.log('true')
-        for (var i = 0; i < this.items.length; i++) {
-            map.dropMarker(this.items[i].street + " " + this.items[i].street_number + ", " + this.items[i].postcode + " Leipzig, DEU")
-          }
-        } else {
-          console.log('false')
-        }
     }
   },
   mounted() {
