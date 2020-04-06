@@ -132,23 +132,47 @@ export default {
         this.longitude = this.location.coords.longitude;
         this.showBlocker = false;
         this.showAllMarker();
+        // var coords =  { lat: this.latitude, lng: this.longitude };
+        // this.findNearestMarker(coords);
       } catch(e) {
         this.gettingLocation = false;
         this.errorStr = e.message;
       }
-    }
-  },
-  mounted() {
-    // let map = this.$refs.map;
-    // if (this.showAll == true ) {
-    //   console.log('true')
-    //   for (var i = 0; i < this.items.length; i++) {
-    //       map.dropMarker(this.items[i].street + " " + this.items[i].street_number + ", " + this.items[i].postcode + " Leipzig, DEU")
+    },
+    // findNearestMarker(coords) {
+    //     var minDist = 10000000000,
+    //         nearest_text = '*None*',
+    //         nearest_pos,
+    //         markerDist,
+    //         // get all objects added to the map
+    //         objects = this.$refs.map.getObjects(),
+    //         len = this.$refs.map.getObjects().length,
+    //         i,
+    //         k;
+    //     console.log(objects, len)
+
+    //     // iterate over objects and calculate distance between them
+    //     for (i = 0; i < len; i += 1) {
+    //         var obj = objects[i];
+    //         if (obj && obj instanceof H.map.Group) {
+    //             var objs = obj.getObjects();
+    //             var objslen = objs.length;
+    //             for (k = 0; k < objslen; k += 1) {
+    //                 markerDist = objs[k].getGeometry().distance(coords);
+    //                 if (markerDist < minDist) {
+    //                     minDist = markerDist;
+    //                     nearest_text = objs[k].getData();
+    //                     nearest_pos = { lat: objs[k].getGeometry().lat, lng: objs[k].getGeometry().lng };
+    //                 }
+    //             }
+    //             break;
+    //         }
     //     }
-    //   } else {
-    //     console.log('false')
-    //   }
-  }
+
+
+    //     console.log('The nearest marker is: ' + nearest_text);
+    // }
+  },
 }
 </script>
 
