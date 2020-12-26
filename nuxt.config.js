@@ -17,7 +17,11 @@ export default {
         content: process.env.npm_package_description || ''
       }
     ],
-    link: [{ rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }],
+    link: [
+      { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
+      { rel: 'preconnect', href: 'https://fonts.gstatic.com' },
+      { rel: 'stylesheet', href: 'https://fonts.googleapis.com/css2?family=Sintony&family=Source+Sans+Pro:wght@900&display=swap' }
+    ],
     script: [
       { src: 'https://js.api.here.com/v3/3.1/mapsjs-core.js' },
       { src: 'https://js.api.here.com/v3/3.1/mapsjs-service.js' },

@@ -1,7 +1,7 @@
 <template>
   <div class="container px-4">
     <a @click="$router.go(-1)" class="my-4 block cursor-pointer text-blue-600 hover:font-bold">Zurück</a>
-    <h1 class="title text-center text-4xl md:text-6xl font-light my-5">
+    <h1 class="font-highlight text-center text-6xl font-thin my-5 text-shadow">
       {{ resultCount }} Glascontainer in <span class="capitalize">{{ currentDistrict }}</span>
     </h1>
     <div class="flex flex-wrap -mx-4">
@@ -55,10 +55,6 @@ export default {
 </script>
 
 <style>
-/* Sample `apply` at-rules with Tailwind CSS
-.container {
-  @apply min-h-screen flex justify-center items-center text-center mx-auto;
-}
 */
 .container {
   margin: 0 auto;

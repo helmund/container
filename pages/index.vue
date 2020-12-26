@@ -1,44 +1,50 @@
 <template>
   <div class="container px-4">
-    <h1 class="title text-center text-6xl font-thin my-5">
-      {{ resultCount }} Glascontainer in Leizig
-    </h1>
-    
-    <div class="relative map-container overflow-hidden">
-      <here-map
-        apiKey="4aRSOHXAoxOVRtiW4HXjt0lI3iWFbdiDfL0fdkbXF-w"
-        ref="map"
-        :latitude="latitude"
-        :longitude="longitude"
-        :zoom="12">
-      </here-map>
-      <div class="absolute inset-0 bg-gray-100 opacity-75" v-if="showBlocker"></div>
-      <div class="absolute inset-0 flex items-center justify-center" v-if="showBlocker">
-        <div>
-          <button @click="locateUser" class="mx-1 bg-blue-800 hover:bg-blue-900 text-white px-2 py-2 px-2 rounded tracking-wide">
-            Container in meiner Nähe
-          </button>
-          <button @click="showAllMarker" class="mx-1 bg-teal-800 hover:bg-teal-900 text-white py-2 px-2 rounded tracking-wide">
-            Alle Container anzeigen
-          </button>
+    <div class="h-screen flex flex-col justify-center">
+      <h1 class="font-highlight text-center text-6xl font-thin my-5 text-shadow" v-if="!showBlocker">
+        {{ resultCount }} Glascontainer in Leipzig
+      </h1>
+      <div class="rounded" :class="{'shadow-xl': !showBlocker}">
+        <div class="relative map-container overflow-hidden">
+          <div :class="{'opacity-0': showBlocker}">
+            <here-map
+              apiKey="4aRSOHXAoxOVRtiW4HXjt0lI3iWFbdiDfL0fdkbXF-w"
+              :latitude="latitude"
+              :longitude="longitude"
+              :zoom="12"
+              ref="map">
+            </here-map>
+          </div>
+          <div class="absolute inset-0 bg-powder-blue" v-if="showBlocker"></div>
+          <div class="absolute inset-0 flex items-center justify-center" v-if="showBlocker">
+            <div>
+              <h1 class="font-highlight text-center text-6xl font-thin my-5 text-shadow">
+                {{ resultCount }} Glascontainer in Leipzig
+              </h1>
+              <a href="#" @click="locateUser" class="mx-1 text-white px-2 py-2 tracking-wide text-shadow">
+                → Container in meiner Nähe
+              </a>
+              <a href="#" @click="showAllMarker" class="mx-1 text-white py-2 px-2 rounded tracking-wide text-shadow">
+                → Alle Container anzeigen
+              </a>
+            </div>
+          </div>
         </div>
       </div>
     </div>
 
-
-    <div class="py-3 px-4 sticky top-0 bg-gray-100 font-bold hidden md:flex">
-      <span class="w-4/12">Anschrift</span>
-      <span class="w-4/12">Beschreibung</span>
-      <span class="w-4/12">Stadtteil</span>
+    <div class="h-screen py-20">
+      <div class="overflow-y-scroll overflow-x-hidden max-h-full bg-ghost-white text-eagle-green rounded shadow-md">
+        <div class="py-3 px-4 sticky top-0 bg-gray-100 font-bold hidden md:flex shadow">
+          <span class="w-4/12">Anschrift</span>
+          <span class="w-4/12">Beschreibung</span>
+          <span class="w-4/12">Stadtteil</span>
+        </div>
+        <ul>
+          <row-item v-for="(item, index) in items" :key="index" :item="item"></row-item>
+        </ul>
+      </div>
     </div>
-    <ul>
-      <row-item v-for="(item, index) in items" :key="index" :item="item"></row-item>
-
-      <!-- <li v-for="(infoItem, index) in info" :key="index">
-        lat: {{infoItem.results}} <br/>
-        lng: {{infoItem.results}} <br/>
-      </li> -->
-    </ul>
   </div>
 </template>
 
@@ -111,8 +117,8 @@ export default {
     showAllMarker() {
       this.showAll = true;
       this.showBlocker = false;
-      let map = this.$refs.map;
-      console.log('showAllMarker')
+      var map = this.$refs.map;
+      console.log(this.$refs.map)
       if (this.showAll == true ) {
         for (var i = 0; i < this.items.length; i++) {
             map.dropMarker(this.items[i].street + " " + this.items[i].street_number + ", " + this.items[i].postcode + " Leipzig, DEU")

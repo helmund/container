@@ -1,6 +1,8 @@
 <template>
   <div class="p-2 w-full md:w-6/12 lg:w-4/12">
-      <div class="border-solid border p-2 pb-4 font-sans font-thin text-sm rounded shadow hover:shadow-md h-full card">
+      <div
+        class="hover:shadow-md card"
+        >
           <div class="-mx-2 -mt-2 mb-4 hidden md:block">
             <a :href="`https://www.google.com/maps/dir/?api=1&origin=51.3136371,12.370702&destination=${item.street}+${item.street_number}+${item.postcode}&travelmode=walking`" 
                 target="_blank" :title="`Weg zur ${item.street} ${item.street_number} ${item.postcode}`">
@@ -51,6 +53,9 @@ export default {
 </script>
 
 <style lang="scss">
+.card {
+  @apply border-solid border p-2 pb-4 font-sans font-thin text-sm rounded shadow h-full bg-ghost-white;
+}
 @media (min-width: 768px) {
   .card__direction {
       opacity: 0;

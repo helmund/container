@@ -7,7 +7,11 @@
     <span class="w-full md:w-4/12">{{ item.description }}</span>
     <span class="w-full md:w-4/12">
       {{ item.postcode }}
-      <router-link :to="`/stadtteile/${item.districtId}`" class="text-blue-600 hover:font-bold">{{ item.district }}</router-link>
+      <router-link
+        :to="`/stadtteile/${item.districtId}`"
+        class="text-powder-blue hover:text-eagle-green transition-colors duration-200">
+        {{ item.district }}
+      </router-link>
     </span>
     <!-- https://www.google.com/maps/dir/?api=1&destination=Könneritzstraße+04229+Schleußig&travelmode=walking -->
   </li>
