@@ -1,6 +1,6 @@
-# glascontainer-nuxt
+# Glascontainer in Leizpig
 
-> My gnarly Nuxt.js project
+A Nuxt.js App to list all the glass container in Leipzig. A project for fun
 
 ## Build Setup
 
@@ -18,5 +18,3 @@ $ npm run start
 # generate static project
 $ npm run generate
 ```
-
-For detailed explanation on how things work, checkout [Nuxt.js docs](https://nuxtjs.org).
